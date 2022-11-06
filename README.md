@@ -5,3 +5,6 @@ https://github.com/riscvarchive/riscv-cores-list
 https://github.com/riscvarchive          
     
 https://github.com/verilator/verilator    
+    
+第五期"一生一芯"课程主页   
+https://ysyx.oscc.cc/docs/
