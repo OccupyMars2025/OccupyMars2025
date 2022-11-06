@@ -8,4 +8,7 @@ https://github.com/verilator/verilator
     
 第五期"一生一芯"课程主页   
 https://ysyx.oscc.cc/docs/
-https://space.bilibili.com/2107852263/
+https://space.bilibili.com/2107852263/    
+
+
+https://makerchip.com/
