@@ -19,8 +19,9 @@ https://github.com/riscvarchive
     
 
     
-## Circuit, Verilog  
-https://makerchip.com/  
+## Circuit, Verilog     
+[Digital Circuits Tutorial](https://www.tutorialspoint.com/digital_circuits/index.htm)     
+https://makerchip.com/              
 https://hdlbits.01xz.net/wiki/Main_Page  
 https://github.com/verilator/verilator      
 
