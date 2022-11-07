@@ -1,4 +1,6 @@
-## design your CPU    
+## design your CPU           
+(goal: 2022/11/6 12:00 - 11/7 22:00) 
+(actual implementation: 2022/11/6 12:00 - )       
 [Building a RISC-V CPU Core (LFD111x)](https://riscv.org/risc-v-learn-online/)     
 https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core     
 [my lab code for this course](https://github.com/OccupyMars2025/LF-Building-a-RISC-V-CPU-Core)
