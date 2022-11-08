@@ -1,4 +1,8 @@
-# I'm currently learning:     
+gitee: https://gitee.com/OccupyMars2025     
+blog: https://blog.csdn.net/weixin_36012235      
+email: 1945340016@qq.com       
+     
+# I'm currently learning:       
 (goal: 2022/11/4 12:00 - 11/10 22:00)           
 (actual implementation: 2022/11/4 12:00 - )     
 https://learningos.github.io/uCore-Tutorial-Guide-2022S/      
