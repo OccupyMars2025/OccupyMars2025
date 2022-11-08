@@ -13,8 +13,9 @@ https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core
 
 # remain to learn
 
-## design your CPU                    
-https://ysyx.oscc.cc/docs/               
+## design your CPU              
+https://ysyx.oscc.cc/             
+https://ysyx.oscc.cc/docs/                           
 https://space.bilibili.com/2107852263/           
 https://redlightasl.github.io/2022/03/01/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01%E3%80%90Verilator%E3%80%91/
 
