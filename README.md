@@ -1,3 +1,5 @@
+# When you have any problem, you should STFW, RTFM and RTFSC.  
+  
 gitee: https://gitee.com/OccupyMars2025     
 blog: https://blog.csdn.net/weixin_36012235      
 email: 1945340016@qq.com       
