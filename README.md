@@ -29,7 +29,11 @@ https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core
 [my lab code for this course](https://github.com/OccupyMars2025/LF-Building-a-RISC-V-CPU-Core)  
 
 
-# remain to learn          
+# remain to learn            
+  
+## design your CPU     
+https://www.gem5.org/   
+    
 
 ## OS
 https://github.com/chyyuu/os_course_info  
