@@ -1,8 +1,4 @@
-# Principle:      
-描述问题症状而非你的猜测
-告诉黑客们你认为问题是怎样造成的并没什么帮助。（如果你的推断如此有效，还用向别人求助吗？），因此要确信你原原本本告诉了他们问题的症状，而不是你的解释和理论；让黑客们来推测和诊断。如果你认为陈述自己的猜测很重要，清楚地说明这只是你的猜测，并描述为什么它们不起作用。
-
-# [How to learn and why you shouldn't ask stupid questions](https://ysyx.oscc.cc/slides/2205/01.html#/)      
+# [learn to solve the problems and why you shouldn't ask stupid questions](https://ysyx.oscc.cc/slides/2205/01.html#/)      
 # [Don't ask stupid questions !](https://ysyx.oscc.cc/docs/prestudy/0.1.html)       
 # When you have any problem, you should STFW, RTFM and RTFSC.        
 # [KISS rule: keep it simple, stupid](https://blog.sciencenet.cn/blog-414166-562616.html)     
