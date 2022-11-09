@@ -1,6 +1,5 @@
 # Principle:      
-# [How to learn and why you shouldn't ask stupid questions](https://ysyx.oscc.cc/slides/2205/01.html#/)        
-![how to learn 1](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/1.png)  
+# [How to learn and why you shouldn't ask stupid questions](https://ysyx.oscc.cc/slides/2205/01.html#/)           
 # When you have any problem, you should STFW, RTFM and RTFSC.        
 # [KISS rule: keep it simple, stupid](https://blog.sciencenet.cn/blog-414166-562616.html)     
 # [Don't ask stupid questions !](https://zhuanlan.zhihu.com/p/381820481)   
