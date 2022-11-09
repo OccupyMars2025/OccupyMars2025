@@ -1,8 +1,13 @@
-# 用编程武装自己, 提升做事效率
-# 强迫自己用命令行搞定一切
-# 卸载Windows给你安装的思想枷锁
-# “没办法, 也只能这样了” vs. “我来试试能不能把事情做得更好”
-# 事实上GUI工具确实很难给你做得更好的机会
+# STFW
+# RTFM
+# RTFSC 
+
+# “我能把问题搞定”的最原始的信念
+# 最重要的还是心态 - 我真的想提高效率
+# 相信“总有对的工具能帮助我做得更好”
+# 并愿意付出时间去找到它, 学它, 用它
+# STFW + RTFM + RTFSC, 让计算机为我所用
+
 
 # [Learn to solve your problems on your own](https://ysyx.oscc.cc/slides/2205/01.html#/)      
 # [Don't ask stupid questions !](https://ysyx.oscc.cc/docs/prestudy/0.1.html)       
