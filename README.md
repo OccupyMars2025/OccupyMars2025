@@ -1,3 +1,9 @@
+# 用编程武装自己, 提升做事效率
+# 强迫自己用命令行搞定一切
+# 卸载Windows给你安装的思想枷锁
+# “没办法, 也只能这样了” vs. “我来试试能不能把事情做得更好”
+# 事实上GUI工具确实很难给你做得更好的机会
+
 # [Learn to solve your problems on your own](https://ysyx.oscc.cc/slides/2205/01.html#/)      
 # [Don't ask stupid questions !](https://ysyx.oscc.cc/docs/prestudy/0.1.html)       
 # When you have any problem, you should STFW, RTFM and RTFSC.        
