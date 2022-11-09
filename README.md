@@ -1,4 +1,4 @@
-# [learn to solve the problems and why you shouldn't ask stupid questions](https://ysyx.oscc.cc/slides/2205/01.html#/)      
+# [Learn to solve your problems on your own](https://ysyx.oscc.cc/slides/2205/01.html#/)      
 # [Don't ask stupid questions !](https://ysyx.oscc.cc/docs/prestudy/0.1.html)       
 # When you have any problem, you should STFW, RTFM and RTFSC.        
 # [KISS rule: keep it simple, stupid](https://blog.sciencenet.cn/blog-414166-562616.html)     
