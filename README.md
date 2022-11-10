@@ -5,8 +5,9 @@
 # Your customer : I need the function of XXX some days later.   
 # Then you need to figure out how to implement the function by yourself and implement it on time.               
 # Remember that you should be learning by doing, not memorization.  
-# Hands-On Learning, learning by doing  
-# Try new things to bid farewell to the past !  
+# Hands-On Learning, learning by doing    
+# Try all kinds of means to boost your productivity   
+# Try new things to bid farewell to the past !    
 # Remember, the machine is always right !  
 
 # 我觉得PA对像我一样的菜鸡很不友好.程序设计实验对菜鸡友好, 但为什么你做完之后还是菜鸡? 做一个对菜鸡友好的实验, 能力并不会得到提升.如果你是菜鸡, 说明你之前该吃苦的时候没吃够, 现在比别人多吃苦就是应该的. 每年确实会有同学直接躺倒放弃而挂科, 但也总有为数不少一批同学能坚持到最后, 锻炼出专业程序员该有的素质.   
