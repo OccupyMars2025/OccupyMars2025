@@ -56,9 +56,10 @@ https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core
 
 # remain to learn            
   
-## design your CPU     
-https://www.gem5.org/   
-    
+## design your CPU          
+[SDL: Simple Directmedia Layer](https://github.com/libsdl-org/SDL)   
+https://www.gem5.org/      
+      
 
 ## OS
 https://github.com/chyyuu/os_course_info  
