@@ -1,8 +1,10 @@
+# I'm preparing for the Graduate Entrance Examination which will be held on 2022/12/24 - 12/25. The exam includes the Tsinghua Computer Science 912 test. So currently I'm only studying projects related to computer architecture, OS, network and algorithm  before 2022/12/26.    
+
+    
 # Production efficiency defines everything and everyone no matter you like it or not.    
 # STFW   
 # RTFM
 # RTFSC 
-
   
 # Your customer : I need the function of XXX some days later.   
 # Then you need to figure out how to implement the function by yourself and implement it on time.               
