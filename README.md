@@ -1,5 +1,6 @@
 # I'm preparing for the Graduate Entrance Examination which will be held on 2022/12/24 - 12/25. The exam includes the Tsinghua Computer Science 912 test. So currently I'm only studying projects related to computer architecture, OS, network and algorithm  before 2022/12/26.    
 
+# Learn by designing your products !
 # product-oriented, customer-oriented. You don't need to become an expert in order to design your first product. Otherwise after you design many products, you can become an expert.
 # Just get it done !           
 # 只要我们能想到的, 就一定有方便的办法能够办到      
