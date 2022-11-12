@@ -1,7 +1,8 @@
 # I'm preparing for the Graduate Entrance Examination which will be held on 2022/12/24 - 12/25. The exam includes the Tsinghua Computer Science 912 test. So currently I'm only studying projects related to computer architecture, OS, network and algorithm  before 2022/12/26.    
     
-# Just get it done !      
-# Production efficiency defines everything and everyone no matter you like it or not.       
+# Just get it done !           
+# 只要我们能想到的, 就一定有方便的办法能够办到      
+# Production efficiency defines everything and everyone no matter you like it or not.            
 # STFW   
 # RTFM
 # RTFSC 
