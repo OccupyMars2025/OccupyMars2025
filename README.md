@@ -103,3 +103,5 @@ https://github.com/peng-zhihui/Dummy-Robot
    
 ## Awesome lists about all kinds of interesting topics    
 https://github.com/sindresorhus/awesome   
+   
+## [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)   
