@@ -105,3 +105,6 @@ https://github.com/peng-zhihui/Dummy-Robot
 https://github.com/sindresorhus/awesome   
    
 ## [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)   
+   
+##  全栈工程师培训材料，帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。   
+https://github.com/ruanyf/jstraining    
