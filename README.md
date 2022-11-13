@@ -10,7 +10,9 @@
 # Production efficiency defines everything and everyone no matter you like it or not.            
 # STFW   
 # RTFM
-# RTFSC 
+# RTFSC    
+# 克服恐惧, 累积最初的信心. 事实上, 学习使用Linux是一个低成本, 高成功率的锻炼机会. 只要你愿意STFW和RTFM, 就能解决绝大部分的问题. 相比较而言, 你之后(后续PA中/后续课程中/工作中)遇到的问题只会更加困难. 因此, 独立解决这些简单的小问题, 你就会开始积累最初的信心, 从而也慢慢相信自己有能力解决更难的问题.   
+  
   
 # Your customer : I need the function of XXX some days later.   
 # Then you need to figure out how to implement the function by yourself and implement it on time.               
