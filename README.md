@@ -2,8 +2,10 @@
    
 # Learn by designing your products as quickly as possible!     
 # product-oriented, customer-oriented. You don't need to become an expert in order to design your first product. Otherwise after you design many products, you can become an expert.
-# Just get it done !           
-# 只要我们能想到的, 就一定有方便的办法能够办到       
+# Just get it done !             
+# 心态上, 相信总有对的工具能帮助我做得更好     
+# 行动上, 愿意付出时间去找到它, 学它, 用它   
+# 只要我们能想到的, 就一定有方便的办法能够办到          
 #  计算机天生就是为用户服务的, 只要你有任何需求, 你都可以想, "有没有工具能帮我实现?"   
 # Production efficiency defines everything and everyone no matter you like it or not.            
 # STFW   
