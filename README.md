@@ -48,10 +48,11 @@ email: 1945340016@qq.com
      
 # I'm currently learning:       
 
-(goal: 2022/11/9 10:00 - )     
-https://ysyx.oscc.cc/                
-https://ysyx.oscc.cc/docs/                             
-https://space.bilibili.com/2107852263/              
+(goal: 2022/11/9 10:00 - )        
+https://github.com/OSCPU/NutShell   
+https://ysyx.oscc.cc/                   
+https://ysyx.oscc.cc/docs/                               
+https://space.bilibili.com/2107852263/                
 https://redlightasl.github.io/2022/03/01/%E4%B8%80%E7%94%9F%E4%B8%80%E8%8A%AF%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01%E3%80%90Verilator%E3%80%91/
   
 https://github.com/OccupyMars2025/yishengyixin-design-your-RISC-V-CPU        
