@@ -1,13 +1,13 @@
-# Space Race to the Moon     
-# We Choose to Go to the Moon   
-# But why, some say, the moon?   
+# [My work progress](https://docs.qq.com/sheet/DV2dVRWFyaUtJallE?tab=BB08J2&u=8d4a192b101741d4a13984cfb9ce5d57)        
+# Space Race to the Moon       
+# We Choose to Go to the Moon     
+# But why, some say, the moon?       
 # Why choose this as our goal? And they may as well ask why climb the highest mountain? Why, 95 years ago, fly the Atlantic? 
-# We choose to go to the moon. We choose to go to the moon in this decade and do the other things, *not because they are easy, but because they are hard*, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.   
+# We choose to go to the moon. We choose to go to the moon in this decade and do the other things, *not because they are easy, but because they are hard*, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.       
 
 # I'm preparing for the Graduate Entrance Examination which will be held on 2022/12/24 - 12/25. The exam includes the Tsinghua Computer Science 912 test. So currently I'm only studying projects related to computer architecture, OS, network and algorithm  before 2022/12/26.    
          
-# 出产品的速度还可以         
-# [My work progress](https://docs.qq.com/sheet/DV2dVRWFyaUtJallE?tab=BB08J2&u=8d4a192b101741d4a13984cfb9ce5d57)      
+# 出产品的速度还可以             
 # 2022/11/15 6:00 - 11/20 22:00, run 10km in 55 minutes, 50 pullups without breaks          
 # 15, 16,    
 # 17, 18,      
