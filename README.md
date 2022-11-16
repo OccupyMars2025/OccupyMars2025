@@ -1,4 +1,5 @@
 # [My work progress](https://docs.qq.com/sheet/DV2dVRWFyaUtJallE?tab=BB08J2&u=8d4a192b101741d4a13984cfb9ce5d57)        
+# Become a problem solver ! Your ability to learn new things is of vital importance.     
 # Space Race to the Moon       
 # We Choose to Go to the Moon     
 # But why, some say, the moon?       
