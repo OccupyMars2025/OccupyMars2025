@@ -7,7 +7,8 @@ email: 1945340016@qq.com
      
 # I'm currently learning:       
 
-(goal: 2022/11/9 10:00 - )        
+(goal: 2022/11/9 10:00 - )    
+https://github.com/T-head-Semi    
 https://github.com/OSCPU/NutShell   
 https://ysyx.oscc.cc/                   
 https://ysyx.oscc.cc/docs/                               
