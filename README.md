@@ -64,8 +64,11 @@ https://github.com/verilator/verilator
 
   
 ## robot    
-https://github.com/peng-zhihui/Dummy-Robot     
+https://github.com/peng-zhihui/Dummy-Robot        
    
+## AI          
+https://modelscope.cn/home    
+        
 ## Awesome lists about all kinds of interesting topics    
 https://github.com/sindresorhus/awesome   
    
