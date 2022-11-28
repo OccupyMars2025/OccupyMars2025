@@ -64,8 +64,11 @@ https://github.com/verilator/verilator
 
   
 ## robot    
-https://github.com/peng-zhihui/Dummy-Robot        
+https://github.com/peng-zhihui/Dummy-Robot       
    
+## IoT, Bluetooth      
+https://supperthomas-wiki.readthedocs.io/en/latest/   
+       
 ## AI          
 https://modelscope.cn/home    
         
