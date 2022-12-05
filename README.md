@@ -5,8 +5,9 @@ gitee: https://gitee.com/OccupyMars2025
 blog: https://blog.csdn.net/weixin_36012235      
 email: 1945340016@qq.com       
      
-# I'm currently learning:          
-https://github.com/csseky/cskaoyan      
+# I'm currently learning:             
+https://github.com/stellarkey/912_project   
+https://github.com/csseky/cskaoyan         
 (goal: 2022/11/9 10:00 - )    
 https://github.com/T-head-Semi    
 https://github.com/OSCPU/NutShell   
