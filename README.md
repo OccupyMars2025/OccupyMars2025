@@ -6,6 +6,7 @@ blog: https://blog.csdn.net/weixin_36012235
 email: 1945340016@qq.com       
 
 # (2023/1/1 - 2023/1/10):
+# [openEuler开源实习](https://www.openeuler.org/zh/internship/)
 # [Deep Learning Systems: Algorithms and Implementation](https://github.com/dlsyscourse)   
 https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books   
 # [Paper-Reproduction](https://github.com/OccupyMars2025/Paper-Reproduction)   
