@@ -6,8 +6,9 @@ blog: https://blog.csdn.net/weixin_36012235
 email: 1945340016@qq.com       
 
 # (2023/1/1 - 2023/1/10):
-# [Deep Learning Systems: Algorithms and Implementation](https://github.com/dlsyscourse)
-# [Paper-Reproduction](https://github.com/OccupyMars2025/Paper-Reproduction)
+# [Deep Learning Systems: Algorithms and Implementation](https://github.com/dlsyscourse)   
+https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books   
+# [Paper-Reproduction](https://github.com/OccupyMars2025/Paper-Reproduction)   
 # [飞桨论文复现挑战赛（第七期）](https://github.com/PaddlePaddle/Paddle/issues/44501)
 # [PaddlePaddle Hackathon 第三期](https://github.com/PaddlePaddle/Paddle/issues/43938)
 # [飞桨快乐开源活动表单](https://github.com/PaddlePaddle/Paddle/issues/48019)
