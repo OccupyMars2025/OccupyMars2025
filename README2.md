@@ -8,7 +8,7 @@
 gitee: https://gitee.com/OccupyMars2025     
 blog: https://blog.csdn.net/weixin_36012235      
 email: 1945340016@qq.com       
-
+https://occupymars2025.github.io/
 # (2023/1/1 - 2023/1/10):
 https://github.com/apple/coremltools   
 https://developer.apple.com/documentation/coreml   
