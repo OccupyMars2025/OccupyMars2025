@@ -11,9 +11,13 @@ email: 1945340016@qq.com
 https://occupymars2025.github.io/
 
 # 2023/1/9 - 
-## Introduction to Algorithms, 3rd edition:   
+## Introduction to Algorithms, 3rd edition (By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
+):   
 https://github.com/walkccc/CLRS   
 https://walkccc.me/CLRS/   
+https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html   
+https://github.com/walkccc/CLRS-cpp   
+   
     
 # (2023/1/1 - 2023/1/10):   
 https://github.com/apple/coremltools      
