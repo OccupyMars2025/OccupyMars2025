@@ -11,13 +11,13 @@ email: 1945340016@qq.com
 https://occupymars2025.github.io/
 
 # 2023/1/9 - 
-## Introduction to Algorithms, 3rd edition:
-https://github.com/walkccc/CLRS
-https://walkccc.me/CLRS/
-
-# (2023/1/1 - 2023/1/10):
-https://github.com/apple/coremltools   
-https://developer.apple.com/documentation/coreml   
+## Introduction to Algorithms, 3rd edition:   
+https://github.com/walkccc/CLRS   
+https://walkccc.me/CLRS/   
+    
+# (2023/1/1 - 2023/1/10):   
+https://github.com/apple/coremltools      
+https://developer.apple.com/documentation/coreml     
 # [CuPy](https://cupy.dev/)
 # [cuBLAS](https://docs.nvidia.com/cuda/cublas/)
 # [openEuler开源实习](https://www.openeuler.org/zh/internship/)
