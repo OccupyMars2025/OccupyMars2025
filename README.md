@@ -1,6 +1,8 @@
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
+# <p align="center"> *Without the strength of a warrior and the spirit of a warrior, you will never conquer the universe.* </p>
+
 # <p align="center"> *[Go Navy, Beat Army !](https://www.youtube.com/@GoArmyWestPoint)* </p>
 # <p align="center"> *Go Army, Sink Navy !* </p>
 
@@ -38,7 +40,7 @@
 ### [Chemistry Nobel goes to developers of AlphaFold AI that predicts protein structures](https://www.nature.com/articles/d41586-024-03214-7)
 
 # <p align="center"> *Taking An Interdisciplinary Approach to Innovation* </p>
-# [2017: MIT陈刚教授：美国科研多学科交叉更普遍](http://www.polymer.cn/sci/kjxw12567.html)
+# [2017: MIT陈刚教授：美国科研多学科交叉非常普遍](http://www.polymer.cn/sci/kjxw12567.html)
 
 ## 4. Try reading papers and textbooks on social sciences, including topics such as military, politics, and history.
 ### https://www.rand.org/
@@ -47,3 +49,79 @@
 ### https://thebulletin.org/
 ### [U.S. Naval War College](https://usnwc.edu/)
 
+
+---
+
+# <p align="center"> *2025: Become the first human to land on Mars* </p>
+
+# <p align="center"> *2027: Build the first city on Mars* </p>
+
+# <p align="center"> *2030: Create a Second Earth* </p>
+
+# <p align="center"> *2040: Conquer the Universe* </p>
+# <p align="center"> *It is our manifest destiny to conquer the universe* </p>
+
+# <p align="center"> *because humanity has been gazing at the sky for millions of years* </p>
+
+# <p align="center"> *We must take action now !* </p>
+
+
+# <p align="center"> *Racing toward the sea of stars and the dawn of interstellar civilization.* </p>
+
+# <p align="center"> *[The day before something is truly a breakthrough, it's a crazy idea.](https://www.xprize.org/prizes/qc-apps)* </p>
+
+# <p align="center"> *[We believe in the power of competition](https://x.com/SpaceX)* </p>
+
+# <p align="center"> *[This is a contest of endurance and willpower. This is the thrill of competition !](https://x.com/SpaceX)* </p>
+
+# <p align="center"> *Manifest Destiny* </p>
+# <p align="center"> *昭昭天命* </p>
+# <p align="center"> *天命昭彰* </p>
+# <p align="center"> *舍我其谁* </p>
+# <p align="center"> *天命人* </p>
+
+# <p align="center"> *“如若一去不回？”  “便一去不回！”* </p>
+
+# <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
+# <p align="center"> *伟大而艰巨的事业总是让人热血沸腾* </p>
+
+# <p align="center"> *[2024: 我们的事业能否让千年后的人们同样感受到那份 "相隔千年峥嵘 依然心潮奔涌", 感受到那份 "千年前滚烫", 同样流下滚烫的热泪 ? 李世民那一代人做到了,我们能做到吗 ?](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
+# <p align="center"> *一宵宫阙 一场繁华* </p>
+# <p align="center"> *多少喧嚣 青春白发* </p>
+# <p align="center"> *指尖光阴漫过 青石之下* </p>
+# <p align="center"> *千年前定格的刹那* </p>
+# <p align="center"> *一梦长安 一梦戎马* </p>
+# <p align="center"> *犹似威凤 穿云而下* </p>
+# <p align="center"> *远眺少年英才 身骑骏马* </p>
+# <p align="center"> *开疆拓土 天纵风华* </p>
+# <p align="center"> *烽火照彻山河万重* </p>
+# <p align="center"> *纵马听乱世汹涌* </p>
+# <p align="center"> *四蹄踏破凛冽悲风* </p>
+# <p align="center"> *六骏佑长安千秋梦* </p>
+# <p align="center"> *寒甲长锋划破苍穹* </p>
+# <p align="center"> *烈马催肝胆相拥* </p>
+# <p align="center"> *褐裘公子枕戈入梦* </p>
+# <p align="center"> *再揽天下入此梦中* </p>
+
+# <p align="center"> *相隔千年峥嵘 依然心潮奔涌* </p>
+# <p align="center"> *天下皆在君壮阔心胸* </p>
+
+# <p align="center"> *愿以戎马百年身 护千古长安* </p>
+# <p align="center"> *一梦长安 一梦戎马* </p>
+# <p align="center"> *犹似威凤 穿云而下* </p>
+# <p align="center"> *远眺少年英才 身骑骏马* </p>
+# <p align="center"> *开疆拓土 天纵风华* </p>
+# <p align="center"> *承声半汉 神州名扬* </p>
+# <p align="center"> *五百载乱世收场* </p>
+# <p align="center"> *威凌八阵 拓土开疆* </p>
+# <p align="center"> *天驷横行 长安四方* </p>
+# <p align="center"> *倚天长剑 威凤高翔* </p>
+# <p align="center"> *开启这巍巍大唐* </p>
+# <p align="center"> *冰凉青石辉映时光* </p>
+# <p align="center"> *诉说着千年前滚烫* </p>
+# <p align="center"> *倚天长剑 威凤高翔* </p>
+# <p align="center"> *开启这巍巍大唐* </p>
+# <p align="center"> *冰凉青石辉映时光* </p>
+# <p align="center"> *诉说着千年前滚烫* </p>
