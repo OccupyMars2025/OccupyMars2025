@@ -125,7 +125,7 @@
 
 # <p align="center"> *[2024: 我们的事业能否让千年后的人们同样感受到那份 "相隔千年峥嵘 依然心潮奔涌", 感受到那份 "千年前滚烫", 同样流下滚烫的热泪 ? 李世民那一代人做到了,我们能做到吗 ?](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
-# <p align="center"> *2024: 星际文明,将由我们开启 !* </p>
+# <p align="center"> *2024: 伟大的星际文明, 人类的新纪元, 将由我们开启 !* </p>
 
 # <p align="center"> *一宵宫阙 一场繁华* </p>
 # <p align="center"> *多少喧嚣 青春白发* </p>
