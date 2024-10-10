@@ -10,7 +10,7 @@
 
 # <p align="center"> *这天下本就是大争之世， 我们是要征服宇宙的人，不只要争，而且要争得光芒万丈* </p>
 
-# <p align="center"> *委屈的人多啦，一将功成万骨枯，大江东去，尽是流不尽的英雄血，多少人的委屈在里面，那是多少人的委屈？* </p>
+# <p align="center"> *委屈的人多啦，一将功成万骨枯，大江东去，尽是流不尽的英雄血，多少人的委屈在里面，那是多少人的委屈 !* </p>
 
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
