@@ -1,11 +1,15 @@
-# <p align="center"> *10, 11, 12* </p>
-# <p align="center"> *2025/1/29: Spring Festival* </p>
+
 
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
 # <p align="center"> *[Go Navy, Beat Army !](https://www.youtube.com/@GoArmyWestPoint)* </p>
 # <p align="center"> *Go Army, Sink Navy !* </p>
+
+---
+
+# <p align="center"> *10, 11, 12* </p>
+# <p align="center"> *2025/1/29: Spring Festival* </p>
 
 # 2024 goals: 
 ## 0. (2024/10/9 - 12/31)In winter, take a cold shower every day
