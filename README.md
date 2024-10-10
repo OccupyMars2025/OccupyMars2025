@@ -2,6 +2,7 @@
 # <p align="center"> *Every warrior is a scientist !* </p>
 
 # <p align="center"> *十年饮冰，难凉热血* </p>
+# <p align="center"> *血性: 忠义赤诚的性格，刚强好义的个性* </p>
 
 # <p align="center"> *2024: We refuse to leave the honor of 'Occupy Mars' to the next generation ! That honor must be ours !* </p>
 
