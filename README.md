@@ -4,6 +4,10 @@
 # <p align="center"> *有的人活得像太阳一样, 光芒万丈 ; 有的人却活得像阴沟里的老鼠* </p>
 # <p align="center"> *你想成为怎样的人 ? 你自己选 ! 人生短短数十载, 与其躲在阴沟里, 害怕,恐惧,怨恨一辈子, 不如痛痛快快活一场, 轰轰烈烈地干一番事业, 也不枉来人世间走这一遭 ! 多少人拼命挣扎着想活下去, 你却在挥霍自己的生命 !* </p>
 
+# <p align="center"> *强迫自己开口说话,去喊,去叫,去跑,去跳,去疯,强迫自己去锻炼,强迫自己去参与激烈的体育比赛,强迫自己去参加各种团体活动,强迫自己积极与人交流,甚至激烈交锋,就像一团熊熊燃烧的烈火,散发出无穷的活力,这样的人远比那些性格孤傲,孤僻,冷淡的人更容易取得辉煌的成就* </p>
+
+# <p align="center"> *不疯还怎么叫"年轻人"* </p>
+
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
@@ -51,6 +55,7 @@
 ### https://www.nasa.gov/ebooks/
 ## 3. Try reading a variety of papers and textbooks from different disciplines to explore the future: brain-computer interface, nuclear energy, rockets, battery technologies, computational biology, medicine, proteins, DNA, cells, ...
 ### [Chemistry Nobel goes to developers of AlphaFold AI that predicts protein structures](https://www.nature.com/articles/d41586-024-03214-7)
+### [2024年诺贝尔化学奖再颁 AI，到底是诺奖“水”了还是AI“杀死”了物理化学？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9196168044486361605%22%7D&n_type=-1&p_from=-1)
 
 # <p align="center"> *Taking An Interdisciplinary Approach to Innovation* </p>
 # [2017: MIT陈刚教授：美国科研多学科交叉非常普遍](http://www.polymer.cn/sci/kjxw12567.html)
