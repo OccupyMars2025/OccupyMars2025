@@ -176,3 +176,14 @@
 # <p align="center"> *寂寞高手一时俱无踪* </p>
 # <p align="center"> *真情谁与共 生死可相从* </p>
 # <p align="center"> *大事临头向前冲 开心胸* </p>
+
+---
+
+# <p align="center"> *[Duty, Honor, Country](https://www.westpoint.edu/)* </p>
+
+# <p align="center"> *Duty, Honor, Country: Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be. They are your rallying point to build courage when courage seems to fail, to regain faith when there seems to be little cause for faith, to create hope when hope becomes forlorn.* </p> 
+
+# <p align="center"> *[Cadet Honor Code: "A Cadet will not lie, cheat, steal, or tolerate those who do."](https://www.westpoint.edu/about/academy-leadership/commandant/simon-center-for-the-professional-military-ethic/cadet-honor)* </p>
+
+![Honor_small2](https://github.com/user-attachments/assets/ec0cefc0-50aa-4d03-95c3-e4a8b313c334)
+
