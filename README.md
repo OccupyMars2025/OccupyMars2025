@@ -92,6 +92,8 @@
 
 # <p align="center"> *“如若一去不回？”  “便一去不回！”* </p>
 
+# <p align="center"> *[2043: “中国航天飞行中队，五十岁以上的，出列！”](https://baijiahao.baidu.com/s?id=1757525839262592298&wfr=spider&for=pc)* </p>
+
 # <p align="center"> *男儿要当死于边野，以马革裹尸还葬耳* </p>
 
 # <p align="center"> *[人固有一死，或重于泰山，或轻于鸿毛，用之所趋异也](https://www.gushiwen.cn/mingju/juv_9ec08d69ec3c.aspx)* </p>
