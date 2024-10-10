@@ -1,10 +1,17 @@
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
+# <p align="center"> *2024: We refuse to leave the honor of 'Occupy Mars' to the next generation ! That honor must be ours !* </p>
+
 # <p align="center"> *[Without the strength of a warrior and the spirit of a warrior, you will never conquer the universe.](https://en.wikipedia.org/wiki/Universe)* </p>
 
 # <p align="center"> *[Go Navy, Beat Army !](https://www.youtube.com/@GoArmyWestPoint)* </p>
 # <p align="center"> *Go Army, Sink Navy !* </p>
+
+
+# <p align="center"> *Swim across the Arctic Ocean* </p>
+# <p align="center"> *Swim across the Pacific Ocean* </p>
+
 
 ---
 
@@ -82,6 +89,8 @@
 
 # <p align="center"> *“如若一去不回？”  “便一去不回！”* </p>
 
+# <p align="center"> *男儿要当死于边野，以马革裹尸还葬耳* </p>
+
 # <p align="center"> *年纪轻轻就干大事、年纪轻轻就丢性命* </p>
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
@@ -89,6 +98,8 @@
 # <p align="center"> *伟大而艰巨的事业总是让人热血沸腾* </p>
 
 # <p align="center"> *[2024: 我们的事业能否让千年后的人们同样感受到那份 "相隔千年峥嵘 依然心潮奔涌", 感受到那份 "千年前滚烫", 同样流下滚烫的热泪 ? 李世民那一代人做到了,我们能做到吗 ?](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
+# <p align="center"> *2024: 星际文明,将由我们开启 !* </p>
 
 # <p align="center"> *一宵宫阙 一场繁华* </p>
 # <p align="center"> *多少喧嚣 青春白发* </p>
