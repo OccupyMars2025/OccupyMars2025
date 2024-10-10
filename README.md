@@ -12,6 +12,13 @@
 
 # <p align="center"> *委屈的人多啦，一将功成万骨枯，大江东去，尽是流不尽的英雄血，多少人的委屈在里面，那是多少人的委屈 !* </p>
 
+# <p align="center"> *[让县自明本志令](https://baike.baidu.com/item/%E8%BF%B0%E5%BF%97%E4%BB%A4/4768619?fr=ge_ala)* </p>
+
+# <p align="center"> *治世之能臣，乱世之枭雄* </p>
+
+# <p align="center"> *["这世上岂有万寿无疆之人寿，却有泽被万民之功业。今日酒宴与十二年前孤官渡前之大宴何等相似，二十年来，孤平黄巾，定河北，征乌桓，收荆州，天下九州得其六，方有今日中原之一统，四海之内英雄，可有谁，能胜孤一筹，孤今日当不当受众卿这一杯贺酒" "大王当受" "这一杯酒，孤不当饮。只因天下未定，战乱未平，苍生离乱，田园荒芜。你们这一路行来，所见的洛阳城是何等的残破。这杯酒，当祭典韦，祭郭奉孝，祭荀令君，祭庞德，祭夏侯渊，祭孤的子侄曹昂，曹安民，也祭，关云长，祭二十年来，为定乱安民，将热血洒入地下的将士英灵"](https://www.chinanews.com.cn/m/yl/2017/07-04/8268779.shtml)* </p>
+
+
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
@@ -157,3 +164,15 @@
 # <p align="center"> *开启这巍巍大唐* </p>
 # <p align="center"> *冰凉青石辉映时光* </p>
 # <p align="center"> *诉说着千年前滚烫* </p>
+
+
+---
+
+# <p align="center"> *千秋霸业 百战成功* </p>
+# <p align="center"> *边声四起唱大风* </p>
+# <p align="center"> *一马奔腾 射雕引弓* </p>
+# <p align="center"> *天地都在我心中* </p>
+# <p align="center"> *狂沙路万里 关山月朦胧* </p>
+# <p align="center"> *寂寞高手一时俱无踪* </p>
+# <p align="center"> *真情谁与共 生死可相从* </p>
+# <p align="center"> *大事临头向前冲 开心胸* </p>
