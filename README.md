@@ -73,6 +73,7 @@
 ### [2024年诺贝尔化学奖再颁 AI，到底是诺奖“水”了还是AI“杀死”了物理化学？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9196168044486361605%22%7D&n_type=-1&p_from=-1)
 
 # <p align="center"> *Taking An Interdisciplinary Approach to Innovation* </p>
+# <p align="center"> *Develop and use AI as the most powerful weapon to attack various disciplines* </p>
 # [2017: MIT陈刚教授：美国科研多学科交叉非常普遍](http://www.polymer.cn/sci/kjxw12567.html)
 
 ## 4. Try reading papers and textbooks on social sciences, including topics such as military, politics, and history.
