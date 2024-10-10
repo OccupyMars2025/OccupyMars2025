@@ -94,6 +94,8 @@
 
 # <p align="center"> *男儿要当死于边野，以马革裹尸还葬耳* </p>
 
+# <p align="center"> *[人固有一死，或重于泰山，或轻于鸿毛，用之所趋异也](https://www.gushiwen.cn/mingju/juv_9ec08d69ec3c.aspx)* </p>
+
 # <p align="center"> *年纪轻轻就干大事、年纪轻轻就丢性命* </p>
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
