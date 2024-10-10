@@ -24,6 +24,8 @@
 
 # <p align="center"> *2024: We refuse to leave the honor of 'Occupy Mars' to the next generation ! That honor must be ours !* </p>
 
+# <p align="center"> *2025: Become the first human to land on Mars* </p>
+
 # <p align="center"> *[Without the strength of a warrior and the spirit of a warrior, you will never conquer the universe.](https://en.wikipedia.org/wiki/Universe)* </p>
 
 # <p align="center"> *[Go Navy, Beat Army !](https://www.youtube.com/@GoArmyWestPoint)* </p>
