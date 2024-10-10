@@ -1,12 +1,11 @@
-# <p align="center"> *Every scientist is a warrior !* </p>
-# <p align="center"> *Every warrior is a scientist !* </p>
-
 # <p align="center"> *十年饮冰，难凉热血* </p>
 # <p align="center"> *血性: 忠义赤诚的性格，刚强好义的个性* </p>
 # <p align="center"> *[色厉胆薄，好谋无断；干大事而惜身，见小利而忘命](https://www.gushiwen.cn/mingju/juv.aspx?id=d7e202191958)* </p>
 # <p align="center"> *有的人活得像太阳一样, 光芒万丈 ; 有的人却活得像阴沟里的老鼠* </p>
 # <p align="center"> *你想成为怎样的人 ? 你自己选 ! 人生短短数十载, 与其躲在阴沟里, 害怕,恐惧,怨恨一辈子, 不如痛痛快快活一场, 轰轰烈烈地干一番事业, 也不枉来人世间走这一遭 ! 多少人拼命挣扎着想活下去, 你却在挥霍自己的生命 !* </p>
 
+# <p align="center"> *Every scientist is a warrior !* </p>
+# <p align="center"> *Every warrior is a scientist !* </p>
 
 # <p align="center"> *2024: We refuse to leave the honor of 'Occupy Mars' to the next generation ! That honor must be ours !* </p>
 
