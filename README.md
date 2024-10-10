@@ -1,10 +1,14 @@
-
-
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
 # <p align="center"> *[Go Navy, Beat Army !](https://www.youtube.com/@GoArmyWestPoint)* </p>
 # <p align="center"> *Go Army, Sink Navy !* </p>
+
+---
+
+# What I have done in 2024:
+## 2024-9-17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
+## 2024-10-10: 80 consecutive push-ups
 
 ---
 
@@ -43,9 +47,3 @@
 ### https://thebulletin.org/
 ### [U.S. Naval War College](https://usnwc.edu/)
 
----
-
-
-# What I have done in 2024:
-## 2024-9-17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
-## 2024-10-10: 80 consecutive push-ups
