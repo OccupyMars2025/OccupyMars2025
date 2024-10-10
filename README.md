@@ -34,6 +34,7 @@
 ### [Chemistry Nobel goes to developers of AlphaFold AI that predicts protein structures](https://www.nature.com/articles/d41586-024-03214-7)
 
 # <p align="center"> *Taking An Interdisciplinary Approach to Innovation* </p>
+# [MIT陈刚教授：美国科研多学科交叉更普遍](http://www.polymer.cn/sci/kjxw12567.html)
 
 ## 4. Try reading papers and textbooks on social sciences, including topics such as military, politics, and history.
 ### https://www.rand.org/
