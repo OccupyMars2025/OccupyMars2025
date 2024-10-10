@@ -24,6 +24,8 @@
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
+# <p align="center"> *Even though the Soviet Union has dissolved, the honor of being "the first human to journey into space" will forever belong to Yuri Gagarin and the Soviet Union in the annals of human history.* </p>
+
 # <p align="center"> *2024: We refuse to leave the honor of 'Occupy Mars' to the next generation ! That honor must be ours !* </p>
 
 # <p align="center"> *2025: Become the first human to land on Mars* </p>
