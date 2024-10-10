@@ -1,7 +1,7 @@
 # <p align="center"> *Every scientist is a warrior !* </p>
 # <p align="center"> *Every warrior is a scientist !* </p>
 
-# <p align="center"> *Without the strength of a warrior and the spirit of a warrior, you will never conquer the universe.* </p>
+# <p align="center"> *[Without the strength of a warrior and the spirit of a warrior, you will never conquer the universe.](https://en.wikipedia.org/wiki/Universe)* </p>
 
 # <p align="center"> *[Go Navy, Beat Army !](https://www.youtube.com/@GoArmyWestPoint)* </p>
 # <p align="center"> *Go Army, Sink Navy !* </p>
@@ -81,6 +81,8 @@
 # <p align="center"> *天命人* </p>
 
 # <p align="center"> *“如若一去不回？”  “便一去不回！”* </p>
+
+# <p align="center"> *年纪轻轻就干大事、年纪轻轻就丢性命* </p>
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
