@@ -13,6 +13,7 @@
 
 ---
 
+# 我只能说: 还得练, 加大训练量
 # What I have done in 2024:
 ## 2024/9/17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
 ## 2024/10/10: 80 consecutive push-ups
