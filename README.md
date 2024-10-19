@@ -6,6 +6,7 @@
 
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *2025: Become the first human to land on Mars* </p>
+# <p align="center"> *Racing to Mars* </p>
 
 # <p align="center"> *这天下本就是大争之世，我们是要征服宇宙的人，不只要争，而且要争得光芒万丈 !* </p>
 
