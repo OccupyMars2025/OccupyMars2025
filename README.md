@@ -13,6 +13,8 @@
 
 # <p align="center"> *2025: 成为第一个踏上火星的人类，将你的名字和你祖国的成就永载史册, 名垂青史 !* </p>
 
+# <p align="center"> *年轻人渴望建立不朽功勋 !* </p>
+
 # <p align="center"> *Racing to Mars !* </p>
 # <p align="center"> *Space Race: the technological sprint to the Mars. Gearing up and preparing to seek wealth in the universe* </p>
 
