@@ -16,7 +16,7 @@
 # <p align="center"> *Racing to Mars !* </p>
 # <p align="center"> *Space Race: the technological sprint to the Mars. Gearing up and preparing to seek wealth in the universe* </p>
 
-# <p align="center"> *就算中华文明将来彻底消亡在历史的长河中了, "征服火星" 的荣誉也必须属于我们中国人 !* </p>
+# <p align="center"> *就算中华文明将来会彻底消亡在历史的长河中, "征服火星" 的荣誉也必须属于我们中国人 !* </p>
 
 # <p align="center"> *[SpaceX Mars colonization program](https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program)* </p>
 
