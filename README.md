@@ -3,6 +3,8 @@
 
 
 # <p align="center"> *五千年终于轮到我上场* </p>
+
+# <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *2025: Become the first human to land on Mars* </p>
 
 # 2024/10/16: 2024/12/21-22,After the exam, I will sleep a full day, then go to Xiling Snow Mountain for hiking, sightseeing and accommodation, and have a good time for 4 days as a reward for this year's hard work!
@@ -20,6 +22,31 @@
 ## 2024/10/14: 100 consecutive push-ups
 ## 2024/10/2 - 10/16: I practiced 300-meter cartwheels every day and finally I can do cartwheels gracefully.
 ## 2024/10/19: 105 consecutive push-ups
+
+---
+
+# 人活着就是要不断挑战艰难的事情, 否则人活着多没劲
+
+# <p align="center"> *开疆拓土, 天纵风华* </p>
+# 每次遇到强大的对手,我总是激动得热血沸腾,就像卡卡罗特一样
+# 不断征服其它星球, 生命力非常顽强，每次濒死治愈后战斗力都会得到极大的提升
+# 为了不断征服其它星球, 你需要拥有像卡卡罗特一样强健的体魄
+
+# <p align="center"> *纳于大麓﹐烈风雷雨弗迷* </p>
+
+# <p align="center"> *风，浴我之体；雨，浴我之身；烈风骤雨，浴我之魂！* </p>
+
+# <p align="center"> *烈风暴雨，凌其绝顶，一览众山，岂不快哉！山川在我脚下，大地在我怀中，我就是这原野山川之主，我就是这天地万物之灵！* </p>
+# <p align="center"> *[意气风发，青春如火，豪情万丈，壮志凌云](https://www.youtube.com/watch?v=2qaG1rKmtWs)* </p>
+
+# 战天斗地
+# 不管冬夏, 偏要在烈风暴雨惊雷的时候, 去暴雨中做引体向上
+# 偏要在大冬天每天洗冷水澡
+# 偏要在大冬天,迎着寒风,光着膀子跑步,做引体向上
+# 偏要在盛夏中午顶着烈日跑步,做引体向上
+# 寒风凛冽, 那更要与寒风赛一场; 大雨滂沱, 那更要与暴雨战一场; 烈日当空, 那更要与太阳较量一番
+
+
 
 ---
 
@@ -53,4 +80,40 @@
 # [2024/10/17: 争分夺秒,利用AI爆发出的巨大力量,加速科研,挽救无数像蔡磊一样的绝症患者, 把他们从死神手里夺回来 ! 这是一场与死神的战争 !](https://baike.baidu.com/item/%E8%94%A1%E7%A3%8A/58869483?fr=ge_ala#3-6)
 
 # 人类必将打败死神,获得永生,征服宇宙
+
+
+---
+
+# 2024 goals: 
+## 0. (2024/10/9 - 12/31)In winter, take a cold shower every day
+## 0. Every day, run to embrace the first ray of sunshine in the morning
+## 0. Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
+## 0. Run 10km in 40min, do 100 pull-ups in a row, 300 push-ups in a row, 100 parallel bar dips in a row, 10 muscle ups in a row, 300 dumbbell curls in a row and 300 sit-ups in a row. Master backflips, front flips, cartwheels, handstand push-ups, human flag, front lever, back lever, L-sit, spin/roll on the bar
+## 0. Build a strong body that never feels cold in winter, keeping you energized throughout the season.
+## 0. Build a strong body to prepare for MMA training in 2025.
+
+# <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
+
+# [Mixed martial arts (MMA)](https://en.wikipedia.org/wiki/Mixed_martial_arts)
+
+# 1. Study 24 world-renowned textbooks or courses
+### https://csdiy.wiki/en/
+## 2. Gain the ability to study the latest quantum physics papers
+### https://www.feynmanlectures.caltech.edu/
+### https://arxiv.org/list/quant-ph/recent
+### https://journals.aps.org/prl/
+### https://www.nature.com/
+### https://quantum.ustc.edu.cn/web/en/publications
+### https://www.chaspark.com/#/home
+### https://www.nasa.gov/ebooks/
+## 3. Try reading a variety of papers and textbooks from different disciplines to explore the future: brain-computer interface, nuclear energy, rockets, battery technologies, computational biology, medicine, proteins, DNA, cells, ...
+### [Chemistry Nobel goes to developers of AlphaFold AI that predicts protein structures](https://www.nature.com/articles/d41586-024-03214-7)
+### [2024年诺贝尔化学奖再颁 AI，到底是诺奖“水”了还是AI“杀死”了物理化学？](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9196168044486361605%22%7D&n_type=-1&p_from=-1)
+### [与陈景润同名的青年数学家获批国家级基金](https://baijiahao.baidu.com/s?id=1812942485820564370&wfr=spider&for=pc)
+
+
+# <p align="center"> *Taking An Interdisciplinary Approach to Innovation* </p>
+# <p align="center"> *Develop and use AI as the most powerful weapon to attack various disciplines* </p>
+# [2017: MIT陈刚教授：美国科研多学科交叉非常普遍](http://www.polymer.cn/sci/kjxw12567.html)
+## [一份名为“控制刺激器的方法、刺激器、脑机接口系统和芯片”的专利公布在国家知识产权局网站，专利发明人为华为技术有限公司](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9689448861108893674%22%7D&n_type=-1&p_from=-1)
 
