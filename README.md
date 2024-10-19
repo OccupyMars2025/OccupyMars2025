@@ -5,8 +5,23 @@
 # <p align="center"> *五千年终于轮到我上场* </p>
 
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
-# <p align="center"> *2025: Become the first human to land on Mars* </p>
-# <p align="center"> *Racing to Mars* </p>
+
+# <p align="center"> *Even though the Soviet Union has dissolved, the honor of being the first human to journey into space will forever belong to Yuri Gagarin and the Soviet Union, immortalized in the annals of human history !* </p>
+
+# <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+# <p align="center"> *2025: Be the first human to set foot on Mars, etching your name and your motherland's achievement into the annals of human history !* </p>
+
+# <p align="center"> *2025: 成为第一个踏上火星的人类，将你的名字和你祖国的成就永载史册, 名垂青史 !* </p>
+
+# <p align="center"> *Racing to Mars !* </p>
+# <p align="center"> *Space Race: the technological sprint to the Mars. Gearing up and preparing to seek wealth in the universe* </p>
+
+# <p align="center"> *就算中华文明将来彻底消亡在历史的长河中了, "征服火星" 的荣誉也必须属于我们中国人 !* </p>
+
+# <p align="center"> *[SpaceX Mars colonization program](https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program)* </p>
+
+# <p align="center"> *那就看看究竟是谁能先登上火星. 不较量一番,怎知最终结果 ? 如果结果一开始就注定了,那这比赛还有啥看头 ! "百舸争流千帆竞" 才是竞赛的最大乐趣和无穷魅力 !* </p>
+
 
 # <p align="center"> *这天下本就是大争之世，我们是要征服宇宙的人，不只要争，而且要争得光芒万丈 !* </p>
 
@@ -145,3 +160,89 @@
 # [2017: MIT陈刚教授：美国科研多学科交叉非常普遍](http://www.polymer.cn/sci/kjxw12567.html)
 ## [一份名为“控制刺激器的方法、刺激器、脑机接口系统和芯片”的专利公布在国家知识产权局网站，专利发明人为华为技术有限公司](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9689448861108893674%22%7D&n_type=-1&p_from=-1)
 
+
+---
+
+# <p align="center"> *2025: Become the first human to land on Mars* </p>
+
+# <p align="center"> *2027: Build the first city on Mars* </p>
+
+# <p align="center"> *2030: Create a Second Earth* </p>
+
+# <p align="center"> *2040: Conquer the Universe* </p>
+# <p align="center"> *It is our manifest destiny to conquer the universe* </p>
+
+# <p align="center"> *because humanity has been gazing at the sky for millions of years* </p>
+
+# <p align="center"> *We must take action now !* </p>
+
+
+# <p align="center"> *Racing toward the sea of stars and the dawn of interstellar civilization.* </p>
+
+# <p align="center"> *[The day before something is truly a breakthrough, it's a crazy idea.](https://www.xprize.org/prizes/qc-apps)* </p>
+
+# <p align="center"> *[We believe in the power of competition](https://x.com/SpaceX)* </p>
+
+# <p align="center"> *[This is a contest of endurance and willpower. This is the thrill of competition !](https://x.com/SpaceX)* </p>
+
+# <p align="center"> *Manifest Destiny* </p>
+# <p align="center"> *昭昭天命* </p>
+# <p align="center"> *天命昭彰* </p>
+# <p align="center"> *舍我其谁* </p>
+# <p align="center"> *天命人* </p>
+
+# <p align="center"> *“如若一去不回？”  “便一去不回！”* </p>
+
+# <p align="center"> *[2043: “中国航天飞行中队，五十岁以上的，出列！”](https://baijiahao.baidu.com/s?id=1757525839262592298&wfr=spider&for=pc)* </p>
+
+# <p align="center"> *男儿要当死于边野，以马革裹尸还葬耳* </p>
+
+# <p align="center"> *[人固有一死，或重于泰山，或轻于鸿毛，用之所趋异也](https://www.gushiwen.cn/mingju/juv_9ec08d69ec3c.aspx)* </p>
+
+# <p align="center"> *年纪轻轻就干大事、年纪轻轻就丢性命* </p>
+
+# <p align="center"> *[开疆拓土  天纵风华](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
+# <p align="center"> *伟大而艰巨的事业总是让人热血沸腾* </p>
+
+# <p align="center"> *[2024: 我们的事业能否让千年后的人们同样感受到那份 "相隔千年峥嵘 依然心潮奔涌", 感受到那份 "千年前滚烫", 同样流下滚烫的热泪 ? 李世民那一代人做到了,我们能做到吗 ?](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
+# <p align="center"> *2024: 伟大的星际文明, 人类的新纪元, 将由我们开启 !* </p>
+
+# <p align="center"> *一宵宫阙 一场繁华* </p>
+# <p align="center"> *多少喧嚣 青春白发* </p>
+# <p align="center"> *指尖光阴漫过 青石之下* </p>
+# <p align="center"> *千年前定格的刹那* </p>
+# <p align="center"> *一梦长安 一梦戎马* </p>
+# <p align="center"> *犹似威凤 穿云而下* </p>
+# <p align="center"> *远眺少年英才 身骑骏马* </p>
+# <p align="center"> *开疆拓土 天纵风华* </p>
+# <p align="center"> *烽火照彻山河万重* </p>
+# <p align="center"> *纵马听乱世汹涌* </p>
+# <p align="center"> *四蹄踏破凛冽悲风* </p>
+# <p align="center"> *六骏佑长安千秋梦* </p>
+# <p align="center"> *寒甲长锋划破苍穹* </p>
+# <p align="center"> *烈马催肝胆相拥* </p>
+# <p align="center"> *褐裘公子枕戈入梦* </p>
+# <p align="center"> *再揽天下入此梦中* </p>
+
+# <p align="center"> *相隔千年峥嵘 依然心潮奔涌* </p>
+# <p align="center"> *天下皆在君壮阔心胸* </p>
+
+# <p align="center"> *愿以戎马百年身 护千古长安* </p>
+# <p align="center"> *一梦长安 一梦戎马* </p>
+# <p align="center"> *犹似威凤 穿云而下* </p>
+# <p align="center"> *远眺少年英才 身骑骏马* </p>
+# <p align="center"> *开疆拓土 天纵风华* </p>
+# <p align="center"> *承声半汉 神州名扬* </p>
+# <p align="center"> *五百载乱世收场* </p>
+# <p align="center"> *威凌八阵 拓土开疆* </p>
+# <p align="center"> *天驷横行 长安四方* </p>
+# <p align="center"> *倚天长剑 威凤高翔* </p>
+# <p align="center"> *开启这巍巍大唐* </p>
+# <p align="center"> *冰凉青石辉映时光* </p>
+# <p align="center"> *诉说着千年前滚烫* </p>
+# <p align="center"> *倚天长剑 威凤高翔* </p>
+# <p align="center"> *开启这巍巍大唐* </p>
+# <p align="center"> *冰凉青石辉映时光* </p>
+# <p align="center"> *诉说着千年前滚烫* </p>
