@@ -7,6 +7,13 @@
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *2025: Become the first human to land on Mars* </p>
 
+# <p align="center"> *年纪轻轻就干大事、年纪轻轻就丢性命* </p>
+# <p align="center"> *[他们，大多是19世纪的“90后”、20世纪的“00后”。那是一个年纪轻轻就干大事、年纪轻轻就丢性命的时代。无一人老态龙钟，无一人德高望重。无一人切磋长寿、研究保养。需要热血的时代，便只能是年轻人的时代。](http://opinion.people.com.cn/n1/2022/0505/c1003-32414988.html)* </p>
+
+# 2024/10/16: 随着AI成百上千倍地提升了个人的学习效率, 从现在开始, 每个人精通五六门学科已经是 "时代的基本要求" (也将在一两年内成为常态), 如此, 人类征服火星的时间表将会提前几十年, 人类征服太阳系,征服宇宙的时间表将会提前几百年,甚至提前上千年 ! 不只是占领,而且要复制出无数个地球, 传播人类文明 ! 这么大的宇宙,我就不相信找不到外星人 !
+
+
+
 # 2024/10/16: 2024/12/21-22,After the exam, I will sleep a full day, then go to Xiling Snow Mountain for hiking, sightseeing and accommodation, and have a good time for 4 days as a reward for this year's hard work!
 ## https://baijiahao.baidu.com/s?id=1812493626758366078&wfr=spider&for=pc
 ## https://www.xiling.cn/
