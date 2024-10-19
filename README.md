@@ -7,6 +7,8 @@
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *2025: Become the first human to land on Mars* </p>
 
+# <p align="center"> *这天下本就是大争之世，我们是要征服宇宙的人，不只要争，而且要争得光芒万丈 !* </p>
+
 # <p align="center"> *年纪轻轻就干大事、年纪轻轻就丢性命* </p>
 # <p align="center"> *[他们，大多是19世纪的“90后”、20世纪的“00后”。那是一个年纪轻轻就干大事、年纪轻轻就丢性命的时代。无一人老态龙钟，无一人德高望重。无一人切磋长寿、研究保养。需要热血的时代，便只能是年轻人的时代。](http://opinion.people.com.cn/n1/2022/0505/c1003-32414988.html)* </p>
 
