@@ -24,6 +24,8 @@
 ## 2024/10/19: 105 consecutive push-ups
 ## 2024/10/20: 115 consecutive push-ups
 
+# [15岁少年一次性1050个俯卧撑，用时1小时，全程不塌腰](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
+
 ---
 # 灭绝立马赏了丁敏君一个耳光: "输了就是输了, 难道 '天下第一' 都是自封的吗? "
 # [2024/10/10: 媒体爆料：特斯拉Optimus在发布会上被远程操控 其实没有那么智能](https://baijiahao.baidu.com/s?id=1812922793293211276&wfr=spider&for=pc)
