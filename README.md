@@ -17,6 +17,21 @@
 ## https://baijiahao.baidu.com/s?id=1812493626758366078&wfr=spider&for=pc
 ## https://www.xiling.cn/
 
+# [All Navy Wrestling Champion (1956)](https://en.wikipedia.org/wiki/Donald_Rumsfeld)
+# [Navy Athletics](https://www.youtube.com/@NavyAthletics)
+# [GoArmyWestPoint](https://www.youtube.com/@GoArmyWestPoint)
+
+# <p align="center"> *Go Navy ! Beat Army !* </p>
+# <p align="center"> *Go Army ! Sink Navy !* </p>
+
+
+# <p align="center"> *[A brutal elimination round is reshaping the world’s biggest market](https://edition.cnn.com/2024/04/24/business/china-ev-industry-competition-analysis-intl-hnk/index.html)* </p>
+
+# <p align="center"> *[Companies that survive the life-and-death struggles of China’s markets — often described as a “Gladiators Arena” — often emerge as global champions. Think of CATL (batteries), BYD (batteries and electric vehicles), Tongwei (solar), Goldwind (wind), or Huawei (information and communications technology).](https://hbr.org/2024/08/the-4-key-strengths-of-chinas-economy-and-what-they-mean-for-multinational-companies)* </p>
+
+# <p align="center"> *Gladiators battling to death in Roman arena* </p>
+
+
 ## [朝鲜男足在机场接热水吃泡面！网友：国足输球怪这怪那只配吃草料 ! "缺钱"从来都不能当作你 "没进展,没突破,没成果" 的借口 ! ](https://baijiahao.baidu.com/s?id=1813309746057068618&wfr=spider&for=pc)
 
 ## "没进展,没突破,没成果", 那么你就只配吃草料, 饭菜是给有本事的人吃的 !
