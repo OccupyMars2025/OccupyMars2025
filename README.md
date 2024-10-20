@@ -8,6 +8,10 @@
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 
 ---
+
+# 等一下, 让我做一道题缓口气
+# 等一下, 让我把这道题做完
+
 ## 2024/10/16: 2024/12/21-22,After the exam, I will sleep a full day, then go to Xiling Snow Mountain for hiking, sightseeing and accommodation, and have a good time for 4 days as a reward for this year's hard work!
 ## https://baijiahao.baidu.com/s?id=1812493626758366078&wfr=spider&for=pc
 ## https://www.xiling.cn/
@@ -29,6 +33,9 @@
 ## 2024/10/2 - 10/16: I practiced 300-meter cartwheels every day and finally I can do cartwheels gracefully.
 ## 2024/10/19: 105 consecutive push-ups
 ## 2024/10/20: 115 consecutive push-ups
+## 2024/10/21: run 10km in 53min (On a certain day in 2023/10, run 10 km in 52min)
+
+---
 
 # [15岁少年一次性1050个俯卧撑，用时1小时，全程不塌腰](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
 
