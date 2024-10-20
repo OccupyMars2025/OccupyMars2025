@@ -4,6 +4,7 @@
 
 # <p align="center"> *五千年终于轮到我上场* </p>
 # Be a man of high integrity, having strong moral principles that you refuse to change
+# 我要在火星上建一所房子，面朝大海，春暖花开 ! 否则我就没地方住了
 
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 
@@ -68,8 +69,6 @@
 # <p align="center"> *Space Race: the technological sprint to the Mars. Gearing up and preparing to seek wealth in the universe* </p>
 
 # <p align="center"> *就算中华文明将来会彻底消亡在历史的长河中, "征服火星" 的荣誉也必须属于我们中国人 !* </p>
-
-# 我要在火星上建一所房子，面朝大海，春暖花开 ! 否则我就没地方住了
 
 # <p align="center"> *[SpaceX Mars colonization program](https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program)* </p>
 
