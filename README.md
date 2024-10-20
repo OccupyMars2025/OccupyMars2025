@@ -15,6 +15,8 @@
 
 # <p align="center"> *年轻人渴望建立不朽功勋 !* </p>
 
+# <p align="center"> *大丈夫济世报国,若能建立功业,便三十岁亦已足够,何必四十?要是碌碌一生,纵然年过百岁,亦只徒然多耗粮食而已* </p>
+
 # <p align="center"> *Racing to Mars !* </p>
 # <p align="center"> *Space Race: the technological sprint to the Mars. Gearing up and preparing to seek wealth in the universe* </p>
 
