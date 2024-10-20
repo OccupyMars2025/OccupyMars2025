@@ -7,9 +7,14 @@
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 
 ---
+## 2024/10/16: 2024/12/21-22,After the exam, I will sleep a full day, then go to Xiling Snow Mountain for hiking, sightseeing and accommodation, and have a good time for 4 days as a reward for this year's hard work!
+## https://baijiahao.baidu.com/s?id=1812493626758366078&wfr=spider&for=pc
+## https://www.xiling.cn/
 
-# 我只能说: 还得练, 加大训练量, 如果你的训练量不够,那麽什么技巧都没用, 量变才能引起质变. 不要被所谓"天才"骗了, 鬼知道他们背后看了多少书,做了多少练习,他们早已把人类最前沿的知识消化吸收,融会贯通,才会有所谓"灵感", 这和 ChatGPT 有什么区别 ? "天才", "灵感", 多么具有欺骗性的话术 ! 只有废物才会把"别人是天才"当作自己不肯努力的借口 ! 
-# 当你的阅读量,训练量是别人的100倍的时候, 在别人眼中你就是"天才" !
+## [你还只给了我 14 天准备功课的时间,等我把那几门功课考完了,回家我就休克了,这不是体制之万恶吗? 是你让我休克哒 ! 我恨你 !](https://www.bilibili.com/video/BV11Y4y1e7Ke/?spm_id_from=333.999.0.0&vd_source=ca461cbebf465923c42455295302af8f)
+
+## 我只能说: 还得练, 加大训练量, 如果你的训练量不够,那麽什么技巧都没用, 量变才能引起质变. 不要被所谓"天才"骗了, 鬼知道他们背后看了多少书,做了多少练习,他们早已把人类最前沿的知识消化吸收,融会贯通,才会有所谓"灵感", 这和 ChatGPT 有什么区别 ? "天才", "灵感", 多么具有欺骗性的话术 ! 只有废物才会把"别人是天才"当作自己不肯努力的借口 ! 
+## 当你的阅读量,训练量是别人的100倍的时候, 在别人眼中你就是"天才" !
 # What I have done in 2024:
 ## 2024/9/17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
 ## 2024/10/10: 80 consecutive push-ups
@@ -49,12 +54,6 @@
 # 2024/10/16: 随着AI成百上千倍地提升了个人的学习效率, 从现在开始, 每个人精通五六门学科已经是 "时代的基本要求" (也将在一两年内成为常态), 如此, 人类征服火星的时间表将会提前几十年, 人类征服太阳系,征服宇宙的时间表将会提前几百年,甚至提前上千年 ! 不只是占领,而且要复制出无数个地球, 传播人类文明 ! 这么大的宇宙,我就不相信找不到外星人 !
 
 
-
-# 2024/10/16: 2024/12/21-22,After the exam, I will sleep a full day, then go to Xiling Snow Mountain for hiking, sightseeing and accommodation, and have a good time for 4 days as a reward for this year's hard work!
-## https://baijiahao.baidu.com/s?id=1812493626758366078&wfr=spider&for=pc
-## https://www.xiling.cn/
-
-# [你还只给了我 14 天准备功课的时间,等我把那几门功课考完了,回家我就休克了,这不是体制之万恶吗? 是你让我休克哒 ! 我恨你 !](https://www.bilibili.com/video/BV11Y4y1e7Ke/?spm_id_from=333.999.0.0&vd_source=ca461cbebf465923c42455295302af8f)
 
 # [朝鲜男足在机场接热水吃泡面！网友：国足输球怪这怪那只配吃草料 ! "缺钱"从来都不能当作你 "没进展,没突破,没成果" 的借口 ! ](https://baijiahao.baidu.com/s?id=1813309746057068618&wfr=spider&for=pc)
 
