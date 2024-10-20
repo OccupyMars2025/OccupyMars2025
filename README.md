@@ -26,6 +26,18 @@
 
 ---
 
+# [2024/10/10: 媒体爆料：特斯拉Optimus在发布会上被远程操控 其实没有那么智能](https://baijiahao.baidu.com/s?id=1812922793293211276&wfr=spider&for=pc)
+# You need to convince your investors that your company is worth their investment.
+# [2024/10/11: Tesla shares drop 9% after Cybercab robotaxi reveal ‘underwhelmed’ investors](https://www.cnbc.com/2024/10/11/tesla-tsla-stock-drops-in-premarket-after-cybercab-robotaxi-reveal.html)
+# [2024/10/12: SpaceX gets approval for Starship launch amid standoff with FAA](https://edition.cnn.com/2024/10/12/science/faa-spacex-starship-test-flight-5/index.html)
+# [2024/10/13: 马斯克这是用行动告诉我们，失败不是停止的借口，继续冲！ 通辽狠人绝对应该加上马斯克,是个狠人 ! 外界的评价似乎从未动摇过他的决心 ! 各种失败挫折从未打击过他的信心 ! 又拥有超强的执行力 ! 马斯克这是在向全世界秀肌肉！(有肌肉当然要秀出来,就怕你没肌肉可秀啊)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9964675970468221172%22%7D&n_type=-1&p_from=-1)
+# [2024/10/13: 火速获批今天就飞！马斯克“星舰”第五次试飞或将表演“筷子夹火箭”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9964675970468221172%22%7D&n_type=-1&p_from=-1)
+# [2024/10/13: The tower has caught the rocket!!](https://x.com/elonmusk/status/1845446365717156265)
+![Screenshot from 2024-10-14 20-33-33](https://github.com/user-attachments/assets/794cd1b5-ebdc-4476-a0e4-14d55bf0409f)
+# [2024/10/14: 历史性探索！“欧罗巴”升空，将研究木星卫星是否适合居住](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9831207774469615681%22%7D&n_type=1&p_from=3)
+
+---
+
 # <p align="center"> *Even though the Soviet Union has dissolved, the honor of being the first human to journey into space will forever belong to Yuri Gagarin and the Soviet Union, immortalized in the annals of human history !* </p>
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
@@ -47,6 +59,8 @@
 # <p align="center"> *那就看看究竟是谁能先登上火星. 不较量一番,怎知最终结果 ? 如果结果一开始就注定了,那这比赛还有啥看头 ! "百舸争流千帆竞" 才是竞赛的最大乐趣和无穷魅力 !* </p>
 
 # <p align="center"> *这天下本就是大争之世，我们是要征服宇宙的人，不只要争，而且要争得光芒万丈 !* </p>
+
+# <p align="center"> *死也要死在征服宇宙的征途上, 死在冲锋的路上* </p>
 
 # <p align="center"> *如果我倒在了征服宇宙的征途上, 后人也将踏着我的尸骨继续前进, 直到人类彻底征服宇宙 !* </p>
 
