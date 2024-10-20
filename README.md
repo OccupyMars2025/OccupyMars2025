@@ -21,7 +21,7 @@
 ## 2024/10/14: 100 consecutive push-ups
 ## 2024/10/2 - 10/16: I practiced 300-meter cartwheels every day and finally I can do cartwheels gracefully.
 ## 2024/10/19: 105 consecutive push-ups
-## 2024/10/20: 110 consecutive push-ups
+## 2024/10/20: 115 consecutive push-ups
 
 ---
 
