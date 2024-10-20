@@ -6,6 +6,20 @@
 
 # <p align="center"> *2024: Study 24 world-renowned textbooks or courses* </p>
 
+---
+
+# 我只能说: 还得练, 加大训练量, 如果你的训练量不够,那麽什么技巧都没用, 量变才能引起质变. 不要被所谓"天才"骗了, 鬼知道他们背后看了多少书,做了多少练习,他们早已把人类最前沿的知识消化吸收,融会贯通,才会有所谓"灵感", 这和 ChatGPT 有什么区别 ? "天才", "灵感", 多么具有欺骗性的话术 ! 只有废物才会把"别人是天才"当作自己不肯努力的借口 ! 
+# 当你的阅读量,训练量是别人的100倍的时候, 在别人眼中你就是"天才" !
+# What I have done in 2024:
+## 2024/9/17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
+## 2024/10/10: 80 consecutive push-ups
+## 2024/10/14: 100 consecutive push-ups
+## 2024/10/2 - 10/16: I practiced 300-meter cartwheels every day and finally I can do cartwheels gracefully.
+## 2024/10/19: 105 consecutive push-ups
+## 2024/10/20: 110 consecutive push-ups
+
+---
+
 # <p align="center"> *Even though the Soviet Union has dissolved, the honor of being the first human to journey into space will forever belong to Yuri Gagarin and the Soviet Union, immortalized in the annals of human history !* </p>
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
@@ -48,16 +62,6 @@
 
 # 实力差距只是一方面, 作战是否勇猛顽强则是另一方面。作战勇猛顽强，敢打硬仗、恶仗、苦仗，关键时刻过得硬、顶得住、上得去、拿得下
 
----
-
-# 我只能说: 还得练, 加大训练量, 如果你的训练量不够,那麽什么技巧都没用, 量变才能引起质变. 不要被所谓"天才"骗了, 鬼知道他们背后看了多少书,做了多少练习,他们早已把人类最前沿的知识消化吸收,融会贯通,才会有所谓"灵感", 这和 ChatGPT 有什么区别 ? "天才", "灵感", 多么具有欺骗性的话术 ! 只有废物才会把"别人是天才"当作自己不肯努力的借口 ! 
-# 当你的阅读量,训练量是别人的100倍的时候, 在别人眼中你就是"天才" !
-# What I have done in 2024:
-## 2024/9/17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
-## 2024/10/10: 80 consecutive push-ups
-## 2024/10/14: 100 consecutive push-ups
-## 2024/10/2 - 10/16: I practiced 300-meter cartwheels every day and finally I can do cartwheels gracefully.
-## 2024/10/19: 105 consecutive push-ups
 
 ---
 
