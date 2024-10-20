@@ -69,6 +69,8 @@
 
 # <p align="center"> *就算中华文明将来会彻底消亡在历史的长河中, "征服火星" 的荣誉也必须属于我们中国人 !* </p>
 
+# 我要在火星上建一所房子，面朝大海，春暖花开 ! 否则我就没地方住了
+
 # <p align="center"> *[SpaceX Mars colonization program](https://en.wikipedia.org/wiki/SpaceX_Mars_colonization_program)* </p>
 
 # <p align="center"> *那就看看究竟是谁能先登上火星. 不较量一番,怎知最终结果 ? 如果结果一开始就注定了,那这比赛还有啥看头 ! "百舸争流千帆竞" 才是竞赛的最大乐趣和无穷魅力 !* </p>
