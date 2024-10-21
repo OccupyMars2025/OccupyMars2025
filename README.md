@@ -16,6 +16,8 @@
 
 # <p align="center"> *Keep on taking risks, keep on fighting, live an extraordinary life like Kakarot !* </p>
 
+# <p align="center"> *live the greatest life, die the greatest death* </p>
+
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *至少精通五六门学科* </p>
 # <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
