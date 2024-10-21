@@ -3,6 +3,9 @@
 
 
 # <p align="center"> *五千年终于轮到我上场* </p>
+# <p align="center"> *等了138亿年，终于轮到我上场 !* </p>
+# <p align="center"> *I've waited 13.8 billion years, and finally, it's my turn to take the stage !* </p>
+
 # Be a man of high integrity, having strong moral principles that you refuse to change
 # 我要在火星上建一所房子，面朝大海，春暖花开 ! 否则我就没地方住了
 
