@@ -8,6 +8,8 @@
 
 # <p align="center"> *极大地促进人类文明在宇宙中的扩张* </p>
 
+# <p align="center"> *打败死神, 获得永生, 征服宇宙* </p>
+
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
@@ -15,6 +17,7 @@
 
 ## 2024 goals: Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
 ## 2024 goals: Run 10km in 40min, do 100 pull-ups in a row, 300 push-ups in a row, 100 parallel bar dips in a row, 10 muscle ups in a row, 300 dumbbell curls in a row and 300 sit-ups in a row. Master backflips, front flips, cartwheels, handstand push-ups, human flag, front lever, back lever, L-sit, spin/roll on the bar
+# 打败卡卡罗特
 
 ---
 
