@@ -6,7 +6,10 @@
 # Be a man of high integrity, having strong moral principles that you refuse to change
 # 我要在火星上建一所房子，面朝大海，春暖花开 ! 否则我就没地方住了
 
+# <p align="center"> *极大地促进人类文明在宇宙中的扩张* </p>
+
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
+# <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
 
 ## 2024 goals: Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
 ## 2024 goals: Run 10km in 40min, do 100 pull-ups in a row, 300 push-ups in a row, 100 parallel bar dips in a row, 10 muscle ups in a row, 300 dumbbell curls in a row and 300 sit-ups in a row. Master backflips, front flips, cartwheels, handstand push-ups, human flag, front lever, back lever, L-sit, spin/roll on the bar
