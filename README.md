@@ -12,6 +12,8 @@
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
+# <p align="center"> *不断冒险, 不断战斗, 像卡卡罗特一样度过不平凡的一生, 这一辈子活得痛快 !* </p>
+
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *至少精通五六门学科* </p>
 # <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
@@ -19,7 +21,6 @@
 ## 2024 goals: Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
 ## 2024 goals: Run 10km in 40min, do 100 pull-ups in a row, 300 push-ups in a row, 100 parallel bar dips in a row, 10 muscle ups in a row, 300 dumbbell curls in a row and 300 sit-ups in a row. Master backflips, front flips, cartwheels, handstand push-ups, human flag, front lever, back lever, L-sit, spin/roll on the bar
 # 梦想是不断变强，打败卡卡罗特, 成为宇宙第一武道家, 为追求力量而刻苦修行
-# 不断冒险,不断战斗,像卡卡罗特一样度过不平凡的一生
 
 ---
 
