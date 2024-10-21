@@ -21,7 +21,7 @@
 # <p align="center"> *live the greatest life, die the greatest death* </p>
 
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
-# <p align="center"> *至少精通五六门学科* </p>
+# <p align="center"> *运用AI这个最强大的武器, 至少精通五六门学科* </p>
 # <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
 
 ## 2024 goals: Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
