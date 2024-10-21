@@ -19,6 +19,7 @@
 ## 2024 goals: Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
 ## 2024 goals: Run 10km in 40min, do 100 pull-ups in a row, 300 push-ups in a row, 100 parallel bar dips in a row, 10 muscle ups in a row, 300 dumbbell curls in a row and 300 sit-ups in a row. Master backflips, front flips, cartwheels, handstand push-ups, human flag, front lever, back lever, L-sit, spin/roll on the bar
 # 梦想是不断变强，打败卡卡罗特, 成为宇宙第一武道家, 为追求力量而刻苦修行
+# 不断冒险,不断战斗,像卡卡罗特一样度过不平凡的一生
 
 ---
 
