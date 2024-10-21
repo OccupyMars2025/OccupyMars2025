@@ -8,6 +8,8 @@
 
 # <p align="center"> *极大地促进人类文明在宇宙中的扩张* </p>
 
+# <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
 
