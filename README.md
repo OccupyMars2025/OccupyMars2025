@@ -14,6 +14,8 @@
 
 # <p align="center"> *不断冒险, 不断战斗, 像卡卡罗特一样度过不平凡的一生, 这一辈子活得痛快 !* </p>
 
+# <p align="center"> *Keep on taking risks, keep on fighting, live an extraordinary life like Kakarot !* </p>
+
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *至少精通五六门学科* </p>
 # <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
