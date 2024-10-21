@@ -16,6 +16,8 @@
 
 # <p align="center"> *Keep on taking risks, keep on fighting, live an extraordinary life like Kakarot !* </p>
 
+# <p align="center"> *痛痛快快活一场, 轰轰烈烈干一番事业, 也就不枉此生了* </p>
+
 # <p align="center"> *live the greatest life, die the greatest death* </p>
 
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
