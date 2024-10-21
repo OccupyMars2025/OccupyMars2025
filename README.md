@@ -13,6 +13,7 @@
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
+# <p align="center"> *至少精通五六门学科* </p>
 # <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
 
 ## 2024 goals: Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
