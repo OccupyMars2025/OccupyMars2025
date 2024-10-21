@@ -3,7 +3,7 @@
 
 
 # <p align="center"> *五千年终于轮到我上场* </p>
-# <p align="center"> *等了138亿年，终于轮到我上场 !* </p>
+# <p align="center"> *我等了138亿年，终于轮到我上场 !* </p>
 # <p align="center"> *I've waited 13.8 billion years, and finally, it's my turn to take the stage !* </p>
 
 # Be a man of high integrity, having strong moral principles that you refuse to change
