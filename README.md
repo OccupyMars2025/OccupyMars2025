@@ -68,6 +68,10 @@
 
 ---
 
+# [2024/10/22: 打破核心技术垄断，“纯血鸿蒙”正式发布]
+
+---
+
 # [15岁少年一次性1050个俯卧撑，用时1小时，全程不塌腰](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
 # [【3:36/km】纽约节奏跑实录](https://www.bilibili.com/video/BV16Xy7YiE44/?t=16&spm_id_from=333.1007.tianma.4-2-12.click&vd_source=ca461cbebf465923c42455295302af8f)
 
@@ -94,4 +98,23 @@
 
 # 强迫自己开口说话,去喊,去叫,去跑,去跳,去疯,去冲,强迫自己去锻炼,强迫自己去参加各种激烈的体育比赛,强迫自己去参加各种对抗性团体活动,强迫自己积极与人交流,甚至激烈交锋,就像一团熊熊燃烧的烈火,哪怕几秒钟后就会燃成灰烬,也要迸发出无穷的力量,这样的人远比那些性格孤傲,孤僻,冷淡的人更容易取得辉煌的成就 !
 
+# 战天斗地
+# 狂风大作, 大雨滂沱, 电闪雷鸣, 巨浪滔天
+# 不管冬夏, 偏要在烈风暴雨惊雷的时候, 去暴雨中做引体向上
+# 偏要在大冬天每天洗冷水澡
+# 偏要在大冬天,迎着寒风,光着膀子跑步,做引体向上
+# 偏要在盛夏中午顶着烈日跑步,做引体向上
+# 寒风凛冽, 那便要与寒风赛一场; 大雨滂沱, 那便要与暴雨战一场; 烈日当空, 那更要与太阳较量一番
 
+---
+
+# 灭绝立马赏了丁敏君一个耳光: "输了就是输了, 难道 '天下第一' 都是自封的吗? "
+# [2024/10/10: 媒体爆料：特斯拉Optimus在发布会上被远程操控 其实没有那么智能](https://baijiahao.baidu.com/s?id=1812922793293211276&wfr=spider&for=pc)
+# You need to convince your investors that your company is worth their investment.
+# [2024/10/11: Tesla shares drop 9% after Cybercab robotaxi reveal ‘underwhelmed’ investors](https://www.cnbc.com/2024/10/11/tesla-tsla-stock-drops-in-premarket-after-cybercab-robotaxi-reveal.html)
+# [2024/10/12: SpaceX gets approval for Starship launch amid standoff with FAA](https://edition.cnn.com/2024/10/12/science/faa-spacex-starship-test-flight-5/index.html)
+# [2024/10/13: 马斯克这是用行动告诉我们，失败不是停止的借口，继续冲！ 通辽狠人绝对应该加上马斯克,是个狠人 ! 外界的评价似乎从未动摇过他的决心 ! 各种失败挫折从未打击过他的信心 ! 又拥有超强的执行力 ! 马斯克这是在向全世界秀肌肉！(有肌肉当然要秀出来,就怕你没肌肉可秀啊)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9964675970468221172%22%7D&n_type=-1&p_from=-1)
+# [2024/10/13: 火速获批今天就飞！马斯克“星舰”第五次试飞或将表演“筷子夹火箭”](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9964675970468221172%22%7D&n_type=-1&p_from=-1)
+# [2024/10/13: The tower has caught the rocket!!](https://x.com/elonmusk/status/1845446365717156265)
+![Screenshot from 2024-10-14 20-33-33](https://github.com/user-attachments/assets/794cd1b5-ebdc-4476-a0e4-14d55bf0409f)
+# [2024/10/14: 历史性探索！“欧罗巴”升空，将研究木星卫星是否适合居住](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9831207774469615681%22%7D&n_type=1&p_from=3)
