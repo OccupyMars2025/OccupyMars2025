@@ -10,16 +10,17 @@
 
 # <p align="center"> *不断冒险, 不断战斗, 像卡卡罗特一样度过不平凡的一生, 这一辈子活得痛快 !* </p>
 
-# <p align="center"> *Keep on taking risks, keep on fighting, live an extraordinary life like Kakarot !* </p>
+# <p align="center"> *Keep on taking risks, keep on fighting, and live an extraordinary life like Kakarot. Live this life to the fullest !* </p>
 
 # <p align="center"> *痛痛快快活一场, 轰轰烈烈干一番事业, 也就不枉此生了* </p>
 
 # <p align="center"> *live the greatest life, die the greatest death* </p>
 
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
-# <p align="center"> *运用AI这个最强大的武器, 至少精通五六门学科* </p>
-# [2017: MIT陈刚教授：美国科研多学科交叉非常普遍](http://www.polymer.cn/sci/kjxw12567.html)
-# 2024/10/16: 随着AI成百上千倍地提升了个人的学习效率, 从现在开始, 每个人精通五六门学科已经是 "时代的基本要求" (也将在一两年内成为常态), 如此, 人类征服火星的时间表将会提前几十年, 人类征服太阳系,征服宇宙的时间表将会提前几百年,甚至提前上千年 ! 不只是征服其它星球,而且要复制出无数个地球, 传播人类文明 ! 这么大的宇宙,我就不相信找不到外星人 !
+# <p align="center"> *Utilize AI, the most powerful tool, to master at least five or six disciplines.* </p>
+# [2017: MIT Professor Gang Chen: Interdisciplinary innovation is very common in U.S. research.](http://www.polymer.cn/sci/kjxw12567.html)
+# 2024/10/16: As AI increases personal learning efficiency by hundreds or even thousands of times, from now on, mastering five or six disciplines will be the 'basic requirement of the era' (and will become the norm within a year or two). In this way, humanity’s timetable for conquering Mars will be advanced by decades, and the timeline for conquering the solar system and the universe will be pushed forward by hundreds, or even thousands, of years! It’s not just about conquering other planets, but also about replicating countless Earths and spreading human civilization! With such a vast universe, I refuse to believe we won’t find extraterrestrial life!
+
 
 # <p align="center"> *打败死神, 获得永生, 征服宇宙* </p>
 # <p align="center"> *Defeat the god of death, gain immortality, and conquer the universe* </p>
