@@ -64,7 +64,7 @@
 ## 2024/10/19: 105 consecutive push-ups
 ## 2024/10/20: 115 consecutive push-ups
 ## 2024/10/21: run 10km in 53min (On a certain day in 2023/10, run 10 km in 52min)
-## 2024/10/23: run 10km in 52min (After a year, I finally reach the record of "running 10km in 52min" again!)
+## 2024/10/23: run 10km in 52min (After a year, I finally reach the record of "running 10km in 52min" again!), 70 consecutive handstand push-ups
 
 ---
 
