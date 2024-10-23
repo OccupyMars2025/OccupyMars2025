@@ -1,16 +1,42 @@
-## Hi there 👋
+# <p align="center"> *10, 11, 12* </p>
+# <p align="center"> *2025/1/28: 除夕* </p>
 
-<!--
-**OccupyMars2025/OccupyMars2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 等一下, 让我做一道题缓口气
+# 等一下, 让我把这道题做完
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2024/10/16: 2024/12/21-22,After the exam, I will sleep a full day, then go to Xiling Snow Mountain for hiking, sightseeing and accommodation, and have a good time for 4 days as a reward for this year's hard work!
+## https://baijiahao.baidu.com/s?id=1812493626758366078&wfr=spider&for=pc
+## https://www.xiling.cn/
+# [你还只给了我 14 天准备功课的时间,等我把那几门功课考完了,回家我就休克了,这不是体制之万恶吗? 是你让我休克哒 ! 我恨你 !](https://www.bilibili.com/video/BV11Y4y1e7Ke/?spm_id_from=333.999.0.0&vd_source=ca461cbebf465923c42455295302af8f)
+
+# What I have done in 2024:
+## 2024/9/17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
+## 2024/10/10: 80 consecutive push-ups
+## 2024/10/14: 100 consecutive push-ups
+## 2024/10/2 - 10/16: I practiced 300-meter cartwheels every day and finally I can do cartwheels gracefully.
+## 2024/10/19: 105 consecutive push-ups
+## 2024/10/20: 115 consecutive push-ups
+## 2024/10/21: run 10km in 53min (On a certain day in 2023/10, run 10 km in 52min)
+## 2024/10/23: run 10km in 52min (After a year, I finally reach the record of "running 10km in 52min" again!)
+
+---
+
+# [15岁少年一次性1050个俯卧撑，用时1小时，全程不塌腰](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
+
+---
+
+
+
+# [朝鲜男足在机场接热水吃泡面！网友：国足输球怪这怪那只配吃草料 ! "缺钱"从来都不能当作你 "没进展,没突破,没成果" 的借口 ! ](https://baijiahao.baidu.com/s?id=1813309746057068618&wfr=spider&for=pc)
+
+# "没进展,没突破,没成果", 那么你就只配吃草料, 饭菜是给有本事的人吃的 !
+
+# 实力差距只是一方面, 作战是否勇猛顽强则是另一方面。作战勇猛顽强，敢打硬仗、恶仗、苦仗，关键时刻过得硬、顶得住、上得去、拿得下
+
+
+
+# 我只能说: 还得练, 加大训练量, 如果你的训练量不够,那麽什么技巧都没用, 量变才能引起质变. 不要被所谓"天才"骗了, 鬼知道他们背后看了多少书,做了多少练习,他们早已把人类最前沿的知识消化吸收,融会贯通,才会有所谓"灵感", 这和 ChatGPT 有什么区别 ? "天才", "灵感", 多么具有欺骗性的话术 ! 只有废物才会把"别人是天才"当作自己不肯努力的借口 ! 
+# 当你的阅读量,训练量是别人的100倍的时候, 在别人眼中你就是"天才" !
+
