@@ -1,6 +1,40 @@
 # <p align="center"> *10, 11, 12* </p>
 # <p align="center"> *2025/1/28: 除夕* </p>
 
+
+# <p align="center"> *五千年终于轮到我上场* </p>
+# <p align="center"> *我等了138亿年，终于轮到我上场 !* </p>
+# <p align="center"> *I've waited 13.8 billion years, and finally, it's my turn to take the stage !* </p>
+
+![image](https://github.com/user-attachments/assets/64a5c4eb-4005-4c29-9738-c66bb9de7fa0)
+
+
+# Be a man of high integrity, having strong moral principles that you refuse to change
+# 我要在火星上建一所房子，面朝大海，春暖花开 ! 否则我就没地方住了
+
+# <p align="center"> *极大地促进人类文明在宇宙中的扩张* </p>
+
+# <p align="center"> *打败死神, 获得永生, 征服宇宙* </p>
+
+# <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
+# <p align="center"> *不断冒险, 不断战斗, 像卡卡罗特一样度过不平凡的一生, 这一辈子活得痛快 !* </p>
+
+# <p align="center"> *Keep on taking risks, keep on fighting, live an extraordinary life like Kakarot !* </p>
+
+# <p align="center"> *痛痛快快活一场, 轰轰烈烈干一番事业, 也就不枉此生了* </p>
+
+# <p align="center"> *live the greatest life, die the greatest death* </p>
+
+# <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
+# <p align="center"> *运用AI这个最强大的武器, 至少精通五六门学科* </p>
+# <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
+
+## 2024 goals: Use a neck training cap to strengthen your neck, reducing the risk of serious injury during MMA practice.
+## 2024 goals: Run 10km in 40min, do 100 pull-ups in a row, 300 push-ups in a row, 100 parallel bar dips in a row, 10 muscle ups in a row, 300 dumbbell curls in a row and 300 sit-ups in a row. Master backflips, front flips, cartwheels, handstand push-ups, human flag, front lever, back lever, L-sit, spin/roll on the bar
+# 梦想是不断变强，打败卡卡罗特, 成为宇宙第一武道家, 为追求力量而刻苦修行
+
+
 ---
 
 # 等一下, 让我做一道题缓口气
