@@ -33,6 +33,7 @@
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
 # <p align="center"> *运用AI这个最强大的武器, 至少精通五六门学科* </p>
 # [2017: MIT陈刚教授：美国科研多学科交叉非常普遍](http://www.polymer.cn/sci/kjxw12567.html)
+# 2024/10/16: 随着AI成百上千倍地提升了个人的学习效率, 从现在开始, 每个人精通五六门学科已经是 "时代的基本要求" (也将在一两年内成为常态), 如此, 人类征服火星的时间表将会提前几十年, 人类征服太阳系,征服宇宙的时间表将会提前几百年,甚至提前上千年 ! 不只是征服其它星球,而且要复制出无数个地球, 传播人类文明 ! 这么大的宇宙,我就不相信找不到外星人 !
 
 # <p align="center"> *Speed, Strength, Flexibility, Endurance, Explosiveness* </p>
 
