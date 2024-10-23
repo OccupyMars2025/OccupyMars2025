@@ -59,6 +59,7 @@
 ---
 
 # [15岁少年一次性1050个俯卧撑，用时1小时，全程不塌腰](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
+# [【3:36/km】纽约节奏跑实录](https://www.bilibili.com/video/BV16Xy7YiE44/?t=16&spm_id_from=333.1007.tianma.4-2-12.click&vd_source=ca461cbebf465923c42455295302af8f)
 
 ---
 
