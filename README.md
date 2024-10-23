@@ -13,8 +13,10 @@
 # 我要在火星上建一所房子，面朝大海，春暖花开 ! 否则我就没地方住了
 
 # <p align="center"> *极大地促进人类文明在宇宙中的扩张* </p>
+# <p align="center"> *Greatly promote the expansion of human civilization in the universe* </p>
 
 # <p align="center"> *打败死神, 获得永生, 征服宇宙* </p>
+# <p align="center"> *Defeat the god of death, gain immortality, and conquer the universe* </p>
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
