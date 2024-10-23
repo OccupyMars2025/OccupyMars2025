@@ -20,6 +20,8 @@
 
 # <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1N34y1U7qH/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
+# <p align="center"> *这天下本就是大争之世，我们是要征服宇宙的人，不只要争，而且要争得光芒万丈 !* </p>
+
 # <p align="center"> *不断冒险, 不断战斗, 像卡卡罗特一样度过不平凡的一生, 这一辈子活得痛快 !* </p>
 
 # <p align="center"> *Keep on taking risks, keep on fighting, live an extraordinary life like Kakarot !* </p>
