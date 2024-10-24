@@ -17,6 +17,8 @@
 # <p align="center"> *live the greatest life, die the greatest death* </p>
 
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
+# Imagine someone working on a project and getting overly concerned with small, insignificant issues, such as font sizes or minor formatting, while overlooking the main objective or deadline. They are "not seeing the forest for the trees" because they're missing the big picture.
+
 # <p align="center"> *Utilize AI, the most powerful tool, to master at least five or six disciplines.* </p>
 # [2017: MIT Professor Gang Chen: Interdisciplinary innovation is very common in U.S. research.](http://www.polymer.cn/sci/kjxw12567.html)
 # 2024/10/16: As AI increases personal learning efficiency by hundreds or even thousands of times, from now on, mastering five or six disciplines will be the 'basic requirement of the era' (and will become the norm within a year or two). In this way, humanity’s timetable for conquering Mars will be advanced by decades, and the timeline for conquering the solar system and the universe will be pushed forward by hundreds, or even thousands, of years! It’s not just about conquering other planets, but also about replicating countless Earths and spreading human civilization! With such a vast universe, I refuse to believe we won’t find extraterrestrial life!
