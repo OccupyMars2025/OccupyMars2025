@@ -62,7 +62,10 @@
 # 2024/10/24: Congratulations! I ran 10 km in 48 minutes, breaking my personal record. It's the first time I've ever run 10 km in under 50 minutes!
 ### Don't just sprint. Study how great runners run! They lift their heads, straighten their backs, and stride as wide and as quickly as possible.
 ## 2024/10/24: 80 consecutive handstand push-ups
+### 2024/10/25: Soon, I hear the rhythmic sound of footsteps 30 meters behind me, and I know the masters have arrived. These masters are remarkable: while I’m sprinting, barely able to catch my breath, they keep pace effortlessly, chatting and laughing as if it’s nothing. And when I’m too tired to continue and stop, they give me a friendly reminder, “Take a break. Then take a shortcut over there; catch up with us on the other side.” Today, I managed to follow them for 200 meters before I stopped. I really wish I had taken that break and continued to follow them for another few hundred meters— even just another 100 meters.
+
 ---
+# Every morning, I wake up full of energy and in high spirits. With bare arms, I face the crisp winter breeze and start running! Along the way, I make it a point to shout "Good morning!" to at least five pedestrians who pass by. 
 
 # [A 15-year-old boy completed 1,050 push-ups in one go, taking 1 hour, without sagging his back throughout.](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
 # [[3:36/km] New York Pace Run Record](https://www.bilibili.com/video/BV16Xy7YiE44/?t=16&spm_id_from=333.1007.tianma.4-2-12.click&vd_source=ca461cbebf465923c42455295302af8f)
