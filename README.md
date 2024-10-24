@@ -44,6 +44,10 @@
 # 等一下, 让我再做5个俯卧撑
 # 等一下, 让我再做一个引体向上
 
+# Take one step toward your dream, then take the second step... You begin walking toward your dream, then you realize you're running, and soon after you find yourself sprinting toward your dream !
+# Just do it !
+# Just keep swimming, just keep swimming...
+
 ---
 
 # What I have done in 2024:
