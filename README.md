@@ -66,3 +66,4 @@
 
 # [A 15-year-old boy completed 1,050 push-ups in one go, taking 1 hour, without sagging his back throughout.](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
 # [[3:36/km] New York Pace Run Record](https://www.bilibili.com/video/BV16Xy7YiE44/?t=16&spm_id_from=333.1007.tianma.4-2-12.click&vd_source=ca461cbebf465923c42455295302af8f)
+# [RESPECT 🥶 AGE IS JUST A NUMBER](https://www.youtube.com/shorts/vSBcweACIts)
