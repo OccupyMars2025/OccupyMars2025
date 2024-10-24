@@ -57,6 +57,7 @@
 ## 2024/10/23: run 10km in 52min (After a year, I finally reach the record of "running 10km in 52min" again!), 70 consecutive handstand push-ups
 # 2024/10/24: Congratulations! I ran 10 km in 48 minutes, breaking my personal record. It's the first time I've ever run 10 km in under 50 minutes!
 ### Don't just sprint. Study how great runners run! They lift their heads, straighten their backs, and stride as wide and as quickly as possible.
+## 2024/10/24: 80 consecutive handstand push-ups
 ---
 
 # [A 15-year-old boy completed 1,050 push-ups in one go, taking 1 hour, without sagging his back throughout.](https://www.bilibili.com/video/BV1j6xheMExB/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)
