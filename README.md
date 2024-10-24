@@ -36,6 +36,16 @@
 ## https://www.xiling.cn/
 # [你还只给了我 14 天准备功课的时间,等我把那几门功课考完了,回家我就休克了,这不是体制之万恶吗? 是你让我休克哒 ! 我恨你 !](https://www.bilibili.com/video/BV11Y4y1e7Ke/?spm_id_from=333.999.0.0&vd_source=ca461cbebf465923c42455295302af8f)
 
+# 走一步, 再走一步
+# 等一下, 让我再看两句话
+# 等一下, 让我做一道题缓口气
+# 等一下, 让我把这题做完
+# 等一下, 让我再冲50米
+# 等一下, 让我再做5个俯卧撑
+# 等一下, 让我再做一个引体向上
+
+---
+
 # What I have done in 2024:
 ## 2024/9/17: 46 consecutive pull-ups, 41 consecutive parallel bar dips
 ## 2024/10/10: 80 consecutive push-ups
