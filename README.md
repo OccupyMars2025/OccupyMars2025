@@ -18,7 +18,7 @@
 
 # <p align="center"> *强迫自己开口说话,去喊,去叫,去跑,去跳,去疯,去冲,强迫自己去锻炼,强迫自己去参加各种激烈的体育比赛,强迫自己去参加各种对抗性团体活动,强迫自己积极与人交流,甚至激烈交锋,就像一团熊熊燃烧的烈火,哪怕几秒钟后就会燃成灰烬,也要迸发出无穷的力量,这样的人远比那些性格孤傲,孤僻,冷淡的人更容易取得辉煌的成就 !* </p>
 
-# <p align="center"> *Force yourself to speak, to shout, to call out, to run, to jump, to go wild, to charge ahead. Push yourself to exercise, to participate in intense sports competitions, to engage in various competitive team activities. Force yourself to actively communicate with others, even to clash fiercely. Be like a raging fire— even if it burns to ashes in seconds, it must release immense power. Such people are far more likely to achieve great success than those who are aloof, introverted, or indifferent !* </p>
+# <p align="center"> *Force yourself to speak, to shout, to yell, to run, to jump, to go wild, to charge ahead. Push yourself to exercise, to participate in intense sports competitions, to engage in various competitive team activities. Force yourself to actively communicate with others, even to clash fiercely. Be like a raging fire— even if it burns to ashes in seconds, it must release immense power. Such people are far more likely to achieve great success than those who are aloof, introverted, or indifferent !* </p>
 
 # <p align="center"> *2024 goals: Study 24 world-renowned textbooks or courses* </p>
 # Imagine someone working on a project and getting overly concerned with small, insignificant issues, such as font sizes or minor formatting, while overlooking the main objective or deadline. They are "not seeing the forest for the trees" because they're missing the big picture.
