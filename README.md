@@ -1,4 +1,11 @@
 # [Grok 2](https://x.com/i/grok?focus=1)
+## To accomplish something, a good plan only accounts for 5%; the remaining 95% depends on how you execute it and how you adjust on the fly according to the actual situation. 
+## Learn to swim by swimming, learn to fight by fighting in the war.
+
+## “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
+
+## https://x.com/ProfFeynman
+---
 # The lifespan of a housefly: 28 days
 ### Giant burrowing mayflies are aquatic insects that have a unique life history. Found throughout North America, these insects emerge by the thousands from lakes and streams throughout the spring and summer to breed. The life of adult mayflies is short-lived—only two days! Females can produce up to 8000 eggs, which are laid on the water’s surface and then sink to the bottom. Naiads (newly-hatched mayflies) live in the water for several months before they emerge, beginning the cycle again.
 ### Hyenas and lions are large predators found throughout African ecosystems and their geographic ranges often overlap. Hyenas and lions hunt similar prey and scavenge the same remains of dead animals. In turn, hyenas and lions often steal food, chase, and harass one another. On occasion, they even kill each other's young cubs.
@@ -21,16 +28,17 @@
 - [x] 1/10 17:19 - 1/11 17:10: Unit 1: Ecology and natural systems
 - [ ] 1/11 17:10 - : Unit 2: From cells to organisms
 ### [Khan Academy: AP®︎/College Biology](https://www.khanacademy.org/science/ap-biology)
+- [ ]
+
+### 2025/1/11 18:38 - : [Khan Academy: High school chemistry](https://www.khanacademy.org/science/hs-chemistry)
+- [ ] 1/11 18:39 - : Unit 1: Atoms, isotopes, and ions
+
+### [Khan Academy: AP®︎/College Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
+- [ ] 
 
 ---
 ## 2025/1/1 - 1/20 goals: I will continue to study based on the [official website](https://www.askhelpu.com/): first study the drug pipeline (clinical stage), then the drug pipeline (preclinical stage), followed by preclinical basic research, and then the monthly work updates. I aim to learn all the knowledge on the official website within 20 days (by January 20, 2025) and keep up with the work progress of Cai Lei's team.
----
-## To accomplish something, a good plan only accounts for 5%; the remaining 95% depends on how you execute it and how you adjust on the fly according to the actual situation. 
-## Learn to swim by swimming, learn to fight by fighting in the war.
 
-## “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
-
-## https://x.com/ProfFeynman
 ---
 ## https://insilico.com/
 ## https://als.ai/
