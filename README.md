@@ -46,10 +46,23 @@
 ### [Khan Academy: AP®︎/College Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 - [ ] 
 
----
 ### https://github.com/OccupyMars2025/Introductory-Biology-7.016-Fall-2018-Undergraduate
 ### https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/
 ### https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
+
+---
+# 2025/1/11 - 1/20: 
+Khan Academy: High school biology, AP®︎/College Biology,  High school chemistry, AP®︎/College Chemistry     
+https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/      
+https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/      
+https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/   
+# 争取在2025/1/20之前学完这7份资料, 然后我就去吉布鲁牛排海鲜自助(成都温江合生汇店), 去吃自助餐犒劳自己
+
+## [2025/1/11: 98年女孩患渐冻症容貌巨变，做短视频博主赚治疗费，母亲：刚从ICU出来，一清醒就想做视频](https://baijiahao.baidu.com/s?id=1820946137125711733&wfr=spider&for=pc)
+## [2025/1/11: 陈静雯，女，1998年出生，湖南溆浦县人，“渐冻症”患者，自媒体博主]
+
+# 我在想如果我得了渐冻症, 我会怎么做: 我会从零开始学习AI制药, 争分夺秒, 在我死之前干掉渐冻症。死神想要我的命, 那要看我答不答应 !
+
 ---
 ## 2025/1/1 - 1/20 goals: I will continue to study based on the [official website](https://www.askhelpu.com/): first study the drug pipeline (clinical stage), then the drug pipeline (preclinical stage), followed by preclinical basic research, and then the monthly work updates. I aim to learn all the knowledge on the official website within 20 days (by January 20, 2025) and keep up with the work progress of Cai Lei's team.
 
