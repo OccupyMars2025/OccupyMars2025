@@ -74,8 +74,10 @@
 # <p align="center"> *你有本事就去把人救回来, 别TM到处瞎放屁 !* </p>
 # <p align="center"> *有多少人在垂死挣扎, 你却在挥霍自己的生命* </p>
 # <p align="center"> *Life is counting down. Instead of waiting to die, it is better to fight!* </p>
-# [2025/1/10: 98年女生确诊渐冻症，短短一年容貌巨变 吞咽都要尽全力](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4762905859828686580&sourceFrom=qmj)
-# [2025/1/10: 1月10日报道，湖南怀化98年女生小陈（化名）确诊渐冻症，其发布记录自己和渐冻症抗争的过程，短短一年容貌巨变，吞咽都要尽全力。](https://baijiahao.baidu.com/s?id=1820853784412177685&wfr=spider&for=pc)
+## [2025/1/10: 98年女生确诊渐冻症，短短一年容貌巨变 吞咽都要尽全力](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4762905859828686580&sourceFrom=qmj)
+## [2025/1/10: 1月10日报道，湖南怀化98年女生小陈（化名）确诊渐冻症，其发布记录自己和渐冻症抗争的过程，短短一年容貌巨变，吞咽都要尽全力。](https://baijiahao.baidu.com/s?id=1820853784412177685&wfr=spider&for=pc)
+## [2025/1/11: 98年女孩患渐冻症容貌巨变，做短视频博主赚治疗费，母亲：刚从ICU出来，一清醒就想做视频](https://baijiahao.baidu.com/s?id=1820946137125711733&wfr=spider&for=pc)
+## [2025/1/11: 陈静雯，女，1998年出生，湖南溆浦县人，“渐冻症”患者，自媒体博主](https://baike.baidu.com/item/%E9%99%88%E9%9D%99%E9%9B%AF/65098546?fr=api_baidu_opex_festival)
 # 打败死神, 获得永生, 征服宇宙。 有AI的帮助, 人类可以早日实现这些目标。反正我有太多的东西要学, 有太多的事情要做。当然人生短短几十年, 想怎么活, 是个人选择问题, 自己想清楚了, 临死的时候不后悔就够了
 ---
 
