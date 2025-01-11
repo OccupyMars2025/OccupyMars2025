@@ -70,6 +70,7 @@
 
 ![Goku Physique](https://github.com/user-attachments/assets/89ef033c-7f35-46ba-b4f4-19feefa46941)
 
+## The dearest possession of any person is life. It is given only once, and it must not be lived only to feel tortured by regrets for wasted years or to know the burning shame of a mean and petty past; so live that when dying you have a right to say: all my life, all my strength was given to the finest cause in the world – the fight for the liberation of humankind.
 
 ---
 
