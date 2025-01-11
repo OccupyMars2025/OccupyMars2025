@@ -1,5 +1,7 @@
 # [Grok 2](https://x.com/i/grok?focus=1)
 # <p align="center"> *2025/1/31之前, 干掉渐冻症* </p>
+# <p align="center"> *Your only wealth is time.* </p>
+
 
 # “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
 
