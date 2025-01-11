@@ -62,6 +62,7 @@ https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
 
 ## [2025/1/11: 98年女孩患渐冻症容貌巨变，做短视频博主赚治疗费，母亲：刚从ICU出来，一清醒就想做视频](https://baijiahao.baidu.com/s?id=1820946137125711733&wfr=spider&for=pc)
 ## [2025/1/11: 陈静雯，女，1998年出生，湖南溆浦县人，“渐冻症”患者，自媒体博主](https://baike.baidu.com/item/%E9%99%88%E9%9D%99%E9%9B%AF/65098546?fr=api_baidu_opex_festival)
+## 这个女孩应该是SOD1基因突变型ALS患者, 她的母亲说一个月打一针要十万元, 我猜这药物应该就是中美瑞康的李龙承博士团队开发的RAG-17 (https://www.askhelpu.com/?guanxian_118/), 我读的第一篇关于ALS的论文就是关于RAG-17的论文, 这药只能延缓病情发展, 根本无法根治。 都说AI发展迅速, 但是病人死得更快, 全世界每天都有多少病人死去? 大力推进AI制药, 要争分夺秒救人 !
 
 # If I get ALS, here's what I would do: I would start learning AI drug discovery from scratch, racing against time to eradicate ALS before I die. If the Grim Reaper wants my life, well, it depends on whether I agree or not !
 
