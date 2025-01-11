@@ -40,7 +40,7 @@
 - [ ]
 
 ### 2025/1/11 18:38 - : [Khan Academy: High school chemistry](https://www.khanacademy.org/science/hs-chemistry)
-- [ ] 1/11 18:39 - 1/12 00:57: Unit 1: Atoms, isotopes, and ions
+- [x] 1/11 18:39 - 1/12 00:57: Unit 1: Atoms, isotopes, and ions
 - [ ] Unit 2: Atomic models and periodicity
 
 ### [Khan Academy: AP®︎/College Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
