@@ -1,8 +1,10 @@
 # [Grok 2](https://x.com/i/grok?focus=1)
 # [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
+
+
 # <p align="center"> *Before 2025/1/31, eradicate ALS.* </p>
 # <p align="center"> *Your only wealth is time.* </p>
-
+# 2024/12/23: If I get ALS, here's what I would do: I would start learning AI drug discovery from scratch, racing against time to eradicate ALS before I die. If the Grim Reaper wants my life, well, it depends on whether I agree or not !
 
 # “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
 
