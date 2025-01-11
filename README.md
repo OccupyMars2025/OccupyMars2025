@@ -1,20 +1,25 @@
 # [Grok 2](https://x.com/i/grok?focus=1)
+# <p align="center"> *2025/2/28之前, 干掉渐冻症* </p>
+
+# “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
+
+## https://x.com/ProfFeynman
+
+# The life of adult mayflies is short-lived—only 2 days!
+# The lifespan of a housefly: 28 days
+
+
+
 ## To accomplish something, a good plan only accounts for 5%; the remaining 95% depends on how you execute it and how you adjust on the fly according to the actual situation. 
 ## Learn to swim by swimming, learn to fight by fighting in the war.
 
-## “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
-
-## https://x.com/ProfFeynman
 ---
-# The lifespan of a housefly: 28 days
-### Giant burrowing mayflies are aquatic insects that have a unique life history. Found throughout North America, these insects emerge by the thousands from lakes and streams throughout the spring and summer to breed. The life of adult mayflies is short-lived—only two days! Females can produce up to 8000 eggs, which are laid on the water’s surface and then sink to the bottom. Naiads (newly-hatched mayflies) live in the water for several months before they emerge, beginning the cycle again.
-### Hyenas and lions are large predators found throughout African ecosystems and their geographic ranges often overlap. Hyenas and lions hunt similar prey and scavenge the same remains of dead animals. In turn, hyenas and lions often steal food, chase, and harass one another. On occasion, they even kill each other's young cubs.
-### Key deer are an endangered species that are found only in the Florida Keys, a small set of islands off the southern coast of Florida. The overall key deer population is quite small, numbering between 700 to 800 individuals.In 2016, an infestation of screw worms (small, parasitic flies) was discovered in the Florida Keys. These flies lay their eggs in the wounds of larger animals. After the eggs hatch, the fly larvae (maggots) feed on the animal host. Once infested, key deer become prone to infections and may die within a week.
+
+
 
 # https://www.askhelpu.com/
 # <p align="center"> *How the Steel Was Tempered* </p>
 # <p align="center"> *向死而生, 决战渐冻 !* </p>
-# <p align="center"> *2025/2/28之前, 干掉渐冻症* </p>
 # <p align="center"> *2024/12/23 7:00: start to conquer ALS* </p>
 ### 2024/12/23 - 12/25: study https://www.als.org/
 ### 2024/12/26 7:00 - 12/29 11:25: study https://en.wikipedia.org/wiki/ALS
@@ -82,6 +87,10 @@
 
 
 ## 蔡磊组建了科研团队研发药物，每天工作16个小时以上。至少有七八个骨干同事，每天和他一起都奋战到晚上十点、十一点。
+### Giant burrowing mayflies are aquatic insects that have a unique life history. Found throughout North America, these insects emerge by the thousands from lakes and streams throughout the spring and summer to breed. The life of adult mayflies is short-lived—only two days! Females can produce up to 8000 eggs, which are laid on the water’s surface and then sink to the bottom. Naiads (newly-hatched mayflies) live in the water for several months before they emerge, beginning the cycle again.
+### Hyenas and lions are large predators found throughout African ecosystems and their geographic ranges often overlap. Hyenas and lions hunt similar prey and scavenge the same remains of dead animals. In turn, hyenas and lions often steal food, chase, and harass one another. On occasion, they even kill each other's young cubs.
+### Key deer are an endangered species that are found only in the Florida Keys, a small set of islands off the southern coast of Florida. The overall key deer population is quite small, numbering between 700 to 800 individuals.In 2016, an infestation of screw worms (small, parasitic flies) was discovered in the Florida Keys. These flies lay their eggs in the wounds of larger animals. After the eggs hatch, the fly larvae (maggots) feed on the animal host. Once infested, key deer become prone to infections and may die within a week.
+
 ---
 
 # <p align="center"> *A strong physique and robust character form the foundation of all success.* </p>
@@ -91,3 +100,12 @@
 
 ## newest record: run 10km in 45min
 ## newest record: Do 60 dumbbell curls in a row
+
+# 青青园中葵，朝露待日晞。
+# 阳春布德泽，万物生光辉。
+# 常恐秋节至，焜黄华叶衰。
+# 百川东到海，何时复西归？
+# [少壮不努力，老大徒伤悲。](https://baike.baidu.com/item/%E9%95%B7%E6%AD%8C%E8%A1%8C/277)
+
+
+# 莫等闲、白了少年头，空悲切
