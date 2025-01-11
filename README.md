@@ -1,5 +1,7 @@
 # [Grok 2](https://x.com/i/grok?focus=1)
 # The lifespan of a housefly: 28 days
+## Giant burrowing mayflies are aquatic insects that have a unique life history. Found throughout North America, these insects emerge by the thousands from lakes and streams throughout the spring and summer to breed. The life of adult mayflies is short-lived—only two days! Females can produce up to 8000 eggs, which are laid on the water’s surface and then sink to the bottom. Naiads (newly-hatched mayflies) live in the water for several months before they emerge, beginning the cycle again.
+
 # https://www.askhelpu.com/
 # <p align="center"> *向死而生, 决战渐冻 !* </p>
 # <p align="center"> *2025/2/28之前, 干掉渐冻症* </p>
