@@ -35,12 +35,13 @@
 # (why so slow)2025/1/2 23:50 - 1/10 12:00: study the news: SNUG01 is an innovative gene therapy drug developed by Shenji Changhua based on the endogenous neuroprotective molecule SG001 and using adeno-associated virus (AAV) as a vector.
 ### 2025/1/10 12:00 - : [Khan Academy: High school biology](https://www.khanacademy.org/science/hs-bio)
 - [x] 1/10 17:19 - 1/11 17:10: Unit 1: Ecology and natural systems
-- [ ] 1/11 17:10 - : Unit 2: From cells to organisms
+- [ ] Unit 2: From cells to organisms
 ### [Khan Academy: AP®︎/College Biology](https://www.khanacademy.org/science/ap-biology)
 - [ ]
 
 ### 2025/1/11 18:38 - : [Khan Academy: High school chemistry](https://www.khanacademy.org/science/hs-chemistry)
-- [ ] 1/11 18:39 - : Unit 1: Atoms, isotopes, and ions
+- [ ] 1/11 18:39 - 1/12 00:57: Unit 1: Atoms, isotopes, and ions
+- [ ] Unit 2: Atomic models and periodicity
 
 ### [Khan Academy: AP®︎/College Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 - [ ] 
