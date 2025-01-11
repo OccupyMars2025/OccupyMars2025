@@ -57,4 +57,9 @@
 # <p align="center"> *Venturing Into the Unknown* </p>
 
 
-# 蔡磊组建了科研团队研发药物，每天工作16个小时以上。至少有七八个骨干同事，每天和他一起都奋战到晚上十点、十一点。
+## 蔡磊组建了科研团队研发药物，每天工作16个小时以上。至少有七八个骨干同事，每天和他一起都奋战到晚上十点、十一点。
+---
+
+### 2025/1/11 5:45-6:30: Location - Guanghua Park, Wenjiang, Chengdu: Ran 10km in 45 minutes. I hadn't run for 10 days, but today's performance was unexpectedly good; I actually ran it in under 45 minutes, breaking my personal record. I thought there would be few runners, but to my surprise, there were at least sixty or seventy people running on the track. Running shirtless in the cold winter wind was incredibly refreshing. Kolmogorov, in his sixties or seventies, could still ski shirtless in the dead of winter, compete with young people, swim in cold water, box, and hike for dozens of kilometers. Kolmogorov also advised his students to swim several kilometers before studying mathematics. In terms of academic achievement, I can't compare to Kolmogorov, but in physical fitness, I'd really like to arm wrestle him. I remember an American statistician once said: 'I came to the Soviet Union to find out one thing - is Kolmogorov a person or an entire research institute?' Kolmogorov's productivity is astonishing, but from my analysis, he spent at least a quarter of his life on physical exercise. I firmly believe that physical exercise and high productivity do not conflict; on the contrary, physical exercise aids in the generation and development of brain neurons, thereby promoting more efficient learning and work. Yesterday, I finished Unit 1: Ecology and Natural Systems, and I'm aiming to complete "Khan Academy: High School Biology" as soon as possible.
+
+## newest record: run 10km in 45min
