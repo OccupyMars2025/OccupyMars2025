@@ -24,6 +24,8 @@
 
 ## https://x.com/ProfFeynman
 ---
+## https://insilico.com/
+## https://als.ai/
 ## https://tdcommons.ai/
 ## https://github.com/OccupyMars2025/Multimodal-Foundation-for-Therapeutic-Science
 ## https://zitniklab.hms.harvard.edu/
