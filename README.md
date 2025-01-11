@@ -17,6 +17,9 @@
 ---
 ## 2025/1/1 - 1/20 goals: I will continue to study based on the [official website](https://www.askhelpu.com/): first study the drug pipeline (clinical stage), then the drug pipeline (preclinical stage), followed by preclinical basic research, and then the monthly work updates. I aim to learn all the knowledge on the official website within 20 days (by January 20, 2025) and keep up with the work progress of Cai Lei's team.
 ---
+# To accomplish something, a good plan only accounts for 5%; the remaining 95% depends on how you execute it and how you adjust on the fly according to the actual situation. 
+# Learn to swim by swimming, learn to fight by fighting in the war.
+
 # “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
 
 # https://x.com/ProfFeynman
