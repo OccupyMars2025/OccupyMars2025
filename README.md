@@ -1,7 +1,7 @@
 # [Grok 2](https://x.com/i/grok?focus=1)
 # https://www.askhelpu.com/
 # <p align="center"> *向死而生, 决战渐冻 !* </p>
-# <p align="center"> *2025年, 干掉渐冻症* </p>
+# <p align="center"> *2025/2/28之前, 干掉渐冻症* </p>
 # <p align="center"> *2024/12/23 7:00: start to conquer ALS* </p>
 ### 2024/12/23 - 12/25: study https://www.als.org/
 ### 2024/12/26 7:00 - 12/29 11:25: study https://en.wikipedia.org/wiki/ALS
@@ -39,7 +39,7 @@
 ![image](https://github.com/user-attachments/assets/a093e798-b2b8-4fca-b750-bd5df722e4b9)
 
 # <p align="center"> *向死而生, 决战渐冻 !* </p>
-# <p align="center"> *2025年, 干掉渐冻症* </p>
+# <p align="center"> *2025/2/28之前, 干掉渐冻症* </p>
 # <p align="center"> *Conquer ALS 2025* </p>
 # <p align="center"> *Race Against Time* </p>
 # <p align="center"> *人救不回来, 说什么都是废话 !* </p>
