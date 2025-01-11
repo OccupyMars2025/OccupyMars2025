@@ -47,6 +47,10 @@
 - [ ] 
 
 ---
+### https://github.com/OccupyMars2025/Introductory-Biology-7.016-Fall-2018-Undergraduate
+### https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/
+### https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
+---
 ## 2025/1/1 - 1/20 goals: I will continue to study based on the [official website](https://www.askhelpu.com/): first study the drug pipeline (clinical stage), then the drug pipeline (preclinical stage), followed by preclinical basic research, and then the monthly work updates. I aim to learn all the knowledge on the official website within 20 days (by January 20, 2025) and keep up with the work progress of Cai Lei's team.
 
 ---
