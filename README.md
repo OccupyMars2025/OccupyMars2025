@@ -1,5 +1,5 @@
 # [Grok 2](https://x.com/i/grok?focus=1)
-# <p align="center"> *2025/1/31之前, 干掉渐冻症* </p>
+# <p align="center"> *Before 2025/1/31, eradicate ALS.* </p>
 # <p align="center"> *Your only wealth is time.* </p>
 
 
