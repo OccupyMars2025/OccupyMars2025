@@ -18,7 +18,8 @@
 ### 2025/1/1 0:42 - 1/2 23:50: [Intrathecal administration of a novel siRNA modality extends survival and improves motor function in the SOD1G93A ALS mouse model](https://www.ractigen.com/publications/)
 # (why so slow)2025/1/2 23:50 - 1/10 12:00: study the news: SNUG01 is an innovative gene therapy drug developed by Shenji Changhua based on the endogenous neuroprotective molecule SG001 and using adeno-associated virus (AAV) as a vector.
 ### 2025/1/10 12:00 - : [Khan Academy: High school biology](https://www.khanacademy.org/science/hs-bio)
-- [ ] 2025/1/10 17:19 - : Unit 1: Unit 1: Ecology and natural systems
+- [x] 1/10 17:19 - 1/11 17:10: Unit 1: Ecology and natural systems
+- [ ] 1/11 17:10 - : Unit 2: From cells to organisms
 ### [Khan Academy: AP®︎/College Biology](https://www.khanacademy.org/science/ap-biology)
 
 ---
