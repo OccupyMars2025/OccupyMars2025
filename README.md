@@ -62,6 +62,7 @@ https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/
 https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/   
 # 争取在2025/1/20之前学完这7份资料, 然后我就去吉布鲁牛排海鲜自助(成都温江合生汇店), 去吃自助餐犒劳自己
 
+## [2024/11/10: 陈静雯, 26岁女孩患上渐冻症：希望我可以重生](https://baijiahao.baidu.com/s?id=1815316664235190102&wfr=spider&for=pc)
 ## [2025/1/10: 98年女生确诊渐冻症，短短一年容貌巨变 吞咽都要尽全力](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4762905859828686580&sourceFrom=qmj)
 ## [2025/1/10: 1月10日报道，湖南怀化98年女生小陈（化名）确诊渐冻症，其发布记录自己和渐冻症抗争的过程，短短一年容貌巨变，吞咽都要尽全力。](https://baijiahao.baidu.com/s?id=1820853784412177685&wfr=spider&for=pc)
 ## [2025/1/11: 98年女孩患渐冻症容貌巨变，做短视频博主赚治疗费，母亲：刚从ICU出来，一清醒就想做视频](https://baijiahao.baidu.com/s?id=1820946137125711733&wfr=spider&for=pc)
