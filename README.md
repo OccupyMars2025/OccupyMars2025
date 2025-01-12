@@ -62,8 +62,11 @@ https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/
 https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/   
 # 争取在2025/1/20之前学完这7份资料, 然后我就去吉布鲁牛排海鲜自助(成都温江合生汇店), 去吃自助餐犒劳自己
 
+## [2025/1/10: 98年女生确诊渐冻症，短短一年容貌巨变 吞咽都要尽全力](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4762905859828686580&sourceFrom=qmj)
+## [2025/1/10: 1月10日报道，湖南怀化98年女生小陈（化名）确诊渐冻症，其发布记录自己和渐冻症抗争的过程，短短一年容貌巨变，吞咽都要尽全力。](https://baijiahao.baidu.com/s?id=1820853784412177685&wfr=spider&for=pc)
 ## [2025/1/11: 98年女孩患渐冻症容貌巨变，做短视频博主赚治疗费，母亲：刚从ICU出来，一清醒就想做视频](https://baijiahao.baidu.com/s?id=1820946137125711733&wfr=spider&for=pc)
 ## [2025/1/11: 陈静雯，女，1998年出生，湖南溆浦县人，“渐冻症”患者，自媒体博主](https://baike.baidu.com/item/%E9%99%88%E9%9D%99%E9%9B%AF/65098546?fr=api_baidu_opex_festival)
+
 ## 这个女孩应该是SOD1基因突变型ALS患者, 她的母亲说一个月打一针要十万元, 我猜这药物应该就是中美瑞康的李龙承博士团队开发的RAG-17 (https://www.askhelpu.com/?guanxian_118/), 我读的第一篇关于ALS的论文就是关于RAG-17的论文, 这药只能延缓病情发展, 根本无法根治。 都说AI发展迅速, 但是病人死得更快, 全世界每天都有多少病人死去? 大力推进AI制药, 要争分夺秒救人 !
 
 # If I get ALS, here's what I would do: I would start learning AI drug discovery from scratch, racing against time to eradicate ALS before I die. If the Grim Reaper wants my life, well, it depends on whether I agree or not !
@@ -85,18 +88,12 @@ https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
 
 ![image](https://github.com/user-attachments/assets/a093e798-b2b8-4fca-b750-bd5df722e4b9)
 
-# <p align="center"> *向死而生, 决战渐冻 !* </p>
-# <p align="center"> *2025/2/28之前, 干掉渐冻症* </p>
-# <p align="center"> *Conquer ALS 2025* </p>
 # <p align="center"> *Race Against Time* </p>
 # <p align="center"> *人救不回来, 说什么都是废话 !* </p>
 # <p align="center"> *你有本事就去把人救回来, 别TM到处瞎放屁 !* </p>
 # <p align="center"> *有多少人在垂死挣扎, 你却在挥霍自己的生命* </p>
 # <p align="center"> *Life is counting down. Instead of waiting to die, it is better to fight!* </p>
-## [2025/1/10: 98年女生确诊渐冻症，短短一年容貌巨变 吞咽都要尽全力](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4762905859828686580&sourceFrom=qmj)
-## [2025/1/10: 1月10日报道，湖南怀化98年女生小陈（化名）确诊渐冻症，其发布记录自己和渐冻症抗争的过程，短短一年容貌巨变，吞咽都要尽全力。](https://baijiahao.baidu.com/s?id=1820853784412177685&wfr=spider&for=pc)
-## [2025/1/11: 98年女孩患渐冻症容貌巨变，做短视频博主赚治疗费，母亲：刚从ICU出来，一清醒就想做视频](https://baijiahao.baidu.com/s?id=1820946137125711733&wfr=spider&for=pc)
-## [2025/1/11: 陈静雯，女，1998年出生，湖南溆浦县人，“渐冻症”患者，自媒体博主](https://baike.baidu.com/item/%E9%99%88%E9%9D%99%E9%9B%AF/65098546?fr=api_baidu_opex_festival)
+
 # 打败死神, 获得永生, 征服宇宙。 有AI的帮助, 人类可以早日实现这些目标。反正我有太多的东西要学, 有太多的事情要做。当然人生短短几十年, 想怎么活, 是个人选择问题, 自己想清楚了, 临死的时候不后悔就够了
 ---
 
