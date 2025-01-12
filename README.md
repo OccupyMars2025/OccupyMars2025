@@ -2,7 +2,7 @@
 ## [doubao](https://www.doubao.com)
 ## [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
 ## https://www.askhelpu.com/
-
+# [我们满怀憧憬与期待，希望在不久的将来，能够颁发5000万的大奖，那将标志着拯救无数患者生命的英雄出现，攻克渐冻症、改写人类200年历史的时刻到来。我们不区分西医、中医，现代医学、传统医学，任何能够通过科学验证、具备稳定可重复性，实现生命救治突破的方法与成果，都是我们全力以赴追求的目标。](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 
 # <p align="center"> *Before 2025/1/31, eradicate ALS.* </p>
 # <p align="center"> *向死而生, 决战渐冻 !* </p>
