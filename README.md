@@ -4,10 +4,14 @@
 
 
 # <p align="center"> *Before 2025/1/31, eradicate ALS.* </p>
+# <p align="center"> *向死而生, 决战渐冻 !* </p>
 # <p align="center"> *Your only wealth is time.* </p>
-# 2024/12/23: If I get ALS, here's what I would do: I would start learning AI drug discovery from scratch, racing against time to eradicate ALS before I die. If the Grim Reaper wants my life, well, it depends on whether I agree or not !
+## 2024/12/23: If I get ALS, here's what I would do: I would start learning AI drug discovery from scratch, racing against time to eradicate ALS before I die. If the Grim Reaper wants my life, well, it depends on whether I agree or not !
+## [2024/12/26: 蔡磊还在冲刺，把生命的每分每秒投入到渐冻症的攻克。他说：“身体越来越差，但希望越来越大。”](https://mp.weixin.qq.com/s/dvjlTBA2nPaS2VJm18FRog)
+## [2025/1/1: 蔡磊致渐冻症病友的新年公开信：接力棒不会掉落，让我们一起扛起渐冻症抗争的大旗](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 
-# “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
+
+## “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” — Richard P. Feynman
 
 ## https://x.com/ProfFeynman
 
@@ -24,7 +28,6 @@
 
 
 # <p align="center"> *How the Steel Was Tempered* </p>
-# <p align="center"> *向死而生, 决战渐冻 !* </p>
 # <p align="center"> *2024/12/23 7:00: start to conquer ALS* </p>
 ### 2024/12/23 - 12/25: study https://www.als.org/
 ### 2024/12/26 7:00 - 12/29 11:25: study https://en.wikipedia.org/wiki/ALS
@@ -32,7 +35,6 @@
 
 ---
 
-# [2025/1/1: 蔡磊致渐冻症病友的新年公开信：接力棒不会掉落，让我们一起扛起渐冻症抗争的大旗](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 ### 2025/1/1 0:42 - 1/2 23:50: [Intrathecal administration of a novel siRNA modality extends survival and improves motor function in the SOD1G93A ALS mouse model](https://www.ractigen.com/publications/)
 # (why so slow)2025/1/2 23:50 - 1/10 12:00: study the news: SNUG01 is an innovative gene therapy drug developed by Shenji Changhua based on the endogenous neuroprotective molecule SG001 and using adeno-associated virus (AAV) as a vector.
 ### 2025/1/10 12:00 - : [Khan Academy: High school biology](https://www.khanacademy.org/science/hs-bio)
