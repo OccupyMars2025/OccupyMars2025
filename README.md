@@ -1,6 +1,7 @@
-# [Grok 2](https://x.com/i/grok?focus=1)
-# [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
-# https://www.askhelpu.com/
+## [Grok 2](https://x.com/i/grok?focus=1)
+## [doubao](https://www.doubao.com)
+## [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
+## https://www.askhelpu.com/
 
 
 # <p align="center"> *Before 2025/1/31, eradicate ALS.* </p>
