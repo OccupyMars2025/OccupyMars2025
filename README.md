@@ -6,7 +6,10 @@
 # <p align="center"> *Before 2025/1/31, eradicate ALS.* </p>
 # <p align="center"> *向死而生, 决战渐冻 !* </p>
 # <p align="center"> *Your only wealth is time.* </p>
+
 ## 2024/12/23: If I get ALS, here's what I would do: I would start learning AI drug discovery from scratch, racing against time to eradicate ALS before I die. If the Grim Reaper wants my life, well, it depends on whether I agree or not !
+## 2024/12/23: 所有的绝症患者, 如果全都争分夺秒投入药物研发, 哪怕从零开始学习生物化学(在这个AI时代, 互联网时代, 在家自学已经很容易了), 每个患者都可以成为所患疾病的世界顶级专家, 所有的绝症都将被攻克。所有绝症患者都应该成为药物研发的最核心的力量, 最先锋的力量, 因为只有绝症患者本人在与死神赛跑 !
+## 2024/12/23: All terminally ill patients, if they all race against time to engage in drug development, even if they start learning biology and chemistry from scratch (in this AI era, the Internet era, self-study at home has become very easy), each patient can become a world-leading expert in the disease they suffer from. All terminal illnesses will be eradicated by patients. All terminally ill patients should become the core, the vanguard force in drug development, because only the terminally ill are racing against death !"
 ## [2024/12/26: 蔡磊还在冲刺，把生命的每分每秒投入到渐冻症的攻克。他说：“身体越来越差，但希望越来越大。”](https://mp.weixin.qq.com/s/dvjlTBA2nPaS2VJm18FRog)
 ## [2025/1/1: 蔡磊致渐冻症病友的新年公开信：接力棒不会掉落，让我们一起扛起渐冻症抗争的大旗](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 
