@@ -6,6 +6,8 @@
 ## https://app.grammarly.com/
 # https://www.askhelpu.com/
 
+# <p align="center"> *Before you are completely paralyzed, burn your life to the fullest.* </p>
+
 ## [2025/1/1: We are filled with anticipation and hope that in the near future, we will be able to award a prize of 50 million, which will signify the emergence of heroes who have saved countless lives, conquering ALS and rewriting 200 years of human history. We do not differentiate between Western medicine and traditional Chinese medicine, modern medicine, or traditional medicine; any method or achievement that can be scientifically validated, has stable reproducibility, and achieves a breakthrough in life-saving is what we strive for with all our efforts.](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 ## [2025/1/1: 我们满怀憧憬与期待，希望在不久的将来，能够颁发5000万的大奖，那将标志着拯救无数患者生命的英雄出现，攻克渐冻症、改写人类200年历史的时刻到来。我们不区分西医、中医，现代医学、传统医学，任何能够通过科学验证、具备稳定可重复性，实现生命救治突破的方法与成果，都是我们全力以赴追求的目标。](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 
@@ -171,12 +173,16 @@ https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
 
 ### 2025/1/11 5:45-6:30: Location - Guanghua Park, Wenjiang, Chengdu: Ran 10km in 45 minutes. I hadn't run for 10 days, but today's performance was unexpectedly good; I actually ran it in under 45 minutes, breaking my personal record. I thought there would be few runners, but to my surprise, there were at least sixty or seventy people running on the track. Running shirtless in the cold winter wind was incredibly refreshing. Kolmogorov, in his sixties or seventies, could still ski shirtless in the dead of winter, compete with young people, swim in cold water, boxing, and hike for dozens of kilometers. Kolmogorov also advised his students to swim several kilometers before studying mathematics. In terms of academic achievement, I can't compare to Kolmogorov, but in physical fitness, I'd really like to arm wrestle him. I remember an American statistician once said: 'I came to the Soviet Union to find out one thing - is Kolmogorov a person or an entire research institute?' Kolmogorov's productivity is astonishing, but from my analysis, he spent at least a quarter of his life on physical exercise. I firmly believe that physical exercise and high productivity do not conflict; on the contrary, physical exercise aids in the generation and development of brain neurons, thereby promoting more efficient learning and work. Yesterday, I finished Unit 1: Ecology and Natural Systems, and I'm aiming to complete "Khan Academy: High School Biology" as soon as possible.
 ### 2025/1/11: 80 push-ups in a row
-### 2025/1/12 5:39-6:32: run 10km in 53min
-### 2025/1/13 Monday 5:41-6:35: run 10km in 54min
+### 2025/1/12: run 10km in 53min(5:39-6:32)
+### 2025/1/13 Monday: run 10km in 54min(5:41-6:35), 30 pull-ups, 100 handstand push ups
 
 ## newest record: run 10km in 45min
-## newest record: Do 60 dumbbell curls in a row
+## newest record: 60 dumbbell curls in a row
 ## newest record: 80 push-ups in a row
+## newest record: 30 pull-ups in a row
+## newest record: 100 handstand push ups in a row
+
+# <p align="center"> *Before you are completely paralyzed, burn your life to the fullest.* </p>
 
 # 青青园中葵，朝露待日晞。
 # 阳春布德泽，万物生光辉。
