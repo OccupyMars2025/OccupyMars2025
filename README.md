@@ -5,6 +5,11 @@
 ## [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
 ## https://www.askhelpu.com/
 ## https://www.paralympic.org/
+
+
+# <p align="center"> *A strong physique is the foundation for conquering the universe* </p>
+![Goku Physique](https://github.com/user-attachments/assets/89ef033c-7f35-46ba-b4f4-19feefa46941)
+
 # <p align="center"> *[Change Starts with Sport](https://www.youtube.com/user/ParalympicSportTV)* </p>
 # <p align="center"> *Cycle from Shanghai to Lhasa* </p>
 # <p align="center"> *Swim across the Arctic Ocean* </p>
@@ -126,8 +131,6 @@ https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
 ---
 
 ## Running shirtless in the cold winter wind was incredibly refreshing. Kolmogorov, in his sixties or seventies, could still ski shirtless in the dead of winter, compete with young people, swim in cold water, boxing, and hike for dozens of kilometers. Kolmogorov also advised his students to swim several kilometers before studying mathematics. In terms of academic achievement, I can't compare to Kolmogorov, but in physical fitness, I'd really like to arm wrestle him. I remember an American statistician once said: 'I came to the Soviet Union to find out one thing - is Kolmogorov a person or an entire research institute?' Kolmogorov's productivity is astonishing, but from my analysis, he spent at least a quarter of his life on physical exercise. I firmly believe that physical exercise and high productivity do not conflict; on the contrary, physical exercise aids in the generation and development of brain neurons, thereby promoting more efficient learning and work.
-
-![Goku Physique](https://github.com/user-attachments/assets/89ef033c-7f35-46ba-b4f4-19feefa46941)
 
 
 
