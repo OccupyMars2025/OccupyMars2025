@@ -4,7 +4,7 @@
 ## [wenxin yiyan](https://yiyan.baidu.com/)
 ## [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
 ## https://app.grammarly.com/
-## https://www.askhelpu.com/
+# https://www.askhelpu.com/
 
 ## [2025/1/1: We are filled with anticipation and hope that in the near future, we will be able to award a prize of 50 million, which will signify the emergence of heroes who have saved countless lives, conquering ALS and rewriting 200 years of human history. We do not differentiate between Western medicine and traditional Chinese medicine, modern medicine, or traditional medicine; any method or achievement that can be scientifically validated, has stable reproducibility, and achieves a breakthrough in life-saving is what we strive for with all our efforts.](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 ## [2025/1/1: 我们满怀憧憬与期待，希望在不久的将来，能够颁发5000万的大奖，那将标志着拯救无数患者生命的英雄出现，攻克渐冻症、改写人类200年历史的时刻到来。我们不区分西医、中医，现代医学、传统医学，任何能够通过科学验证、具备稳定可重复性，实现生命救治突破的方法与成果，都是我们全力以赴追求的目标。](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
