@@ -6,29 +6,6 @@
 ## https://www.askhelpu.com/
 ## https://www.paralympic.org/
 
-
-# <p align="center"> *A strong physique is the foundation for conquering the universe* </p>
-![Goku Physique](https://github.com/user-attachments/assets/89ef033c-7f35-46ba-b4f4-19feefa46941)
-
-# <p align="center"> *[Change Starts with Sport](https://www.youtube.com/user/ParalympicSportTV)* </p>
-# <p align="center"> *Cycle from Shanghai to Lhasa* </p>
-# <p align="center"> *Swim across the Arctic Ocean* </p>
-# <p align="center"> *Swim across the Pacific Ocean* </p>
-
-## 2025: Become a master of street workout.
-## 2025: Master various types of flips, including the backflip and front flip.
-## 2025: Break the world record for pull-ups, break the world record for muscle-ups, and break the world record for push-ups.
-## 2025: Become the world champion in the men's 10km swim, and the world champion in the men's 10km run. 
-
-
-# <p align="center"> *The World Needs Heroes* </p>
-# <p align="center"> *The World Needs Pioneers* </p>
-
-## Be the first human to eradicate ALS and other neurodegenerative diseases.
-## Be the first human to land on the Moon in the 21st century.
-## Be the first human to land on Mars.
-## Be the first human to fly out of the solar system.
-
 ## [2025/1/1: We are filled with anticipation and hope that in the near future, we will be able to award a prize of 50 million, which will signify the emergence of heroes who have saved countless lives, conquering ALS and rewriting 200 years of human history. We do not differentiate between Western medicine and traditional Chinese medicine, modern medicine, or traditional medicine; any method or achievement that can be scientifically validated, has stable reproducibility, and achieves a breakthrough in life-saving is what we strive for with all our efforts.](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 ## [2025/1/1: 我们满怀憧憬与期待，希望在不久的将来，能够颁发5000万的大奖，那将标志着拯救无数患者生命的英雄出现，攻克渐冻症、改写人类200年历史的时刻到来。我们不区分西医、中医，现代医学、传统医学，任何能够通过科学验证、具备稳定可重复性，实现生命救治突破的方法与成果，都是我们全力以赴追求的目标。](https://mp.weixin.qq.com/s/GwhTrFLBzcDayYwNZeSwfA)
 
@@ -147,6 +124,30 @@ https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
 ### Giant burrowing mayflies are aquatic insects that have a unique life history. Found throughout North America, these insects emerge by the thousands from lakes and streams throughout the spring and summer to breed. The life of adult mayflies is short-lived—only two days! Females can produce up to 8000 eggs, which are laid on the water’s surface and then sink to the bottom. Naiads (newly-hatched mayflies) live in the water for several months before they emerge, beginning the cycle again.
 ### Hyenas and lions are large predators found throughout African ecosystems and their geographic ranges often overlap. Hyenas and lions hunt similar prey and scavenge the same remains of dead animals. In turn, hyenas and lions often steal food, chase, and harass one another. On occasion, they even kill each other's young cubs.
 ### Key deer are an endangered species that are found only in the Florida Keys, a small set of islands off the southern coast of Florida. The overall key deer population is quite small, numbering between 700 to 800 individuals.In 2016, an infestation of screw worms (small, parasitic flies) was discovered in the Florida Keys. These flies lay their eggs in the wounds of larger animals. After the eggs hatch, the fly larvae (maggots) feed on the animal host. Once infested, key deer become prone to infections and may die within a week.
+
+---
+# <p align="center"> *A strong physique is the foundation for conquering the universe* </p>
+![Goku Physique](https://github.com/user-attachments/assets/89ef033c-7f35-46ba-b4f4-19feefa46941)
+
+# <p align="center"> *[Change Starts with Sport](https://www.youtube.com/user/ParalympicSportTV)* </p>
+# <p align="center"> *Cycle from Shanghai to Lhasa* </p>
+# <p align="center"> *Swim across the Arctic Ocean* </p>
+# <p align="center"> *Swim across the Pacific Ocean* </p>
+
+## 2025: Become a master of street workout.
+## 2025: Master various types of flips, including the backflip and front flip.
+## 2025: Break the world record for pull-ups, break the world record for muscle-ups, and break the world record for push-ups.
+## 2025: Become the world champion in the men's 10km swim, and the world champion in the men's 10km run. 
+
+
+# <p align="center"> *The World Needs Heroes* </p>
+# <p align="center"> *The World Needs Pioneers* </p>
+
+## Be the first human to eradicate ALS and other neurodegenerative diseases.
+## Be the first human to land on the Moon in the 21st century.
+## Be the first human to land on Mars.
+## Be the first human to fly out of the solar system.
+
 
 ---
 
