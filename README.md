@@ -1,5 +1,7 @@
 ## [Grok 2](https://x.com/i/grok?focus=1)
 ## [doubao](https://www.doubao.com)
+## [tongyi](https://tongyi.aliyun.com/)
+## [wenxin yiyan](https://yiyan.baidu.com/)
 ## [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
 ## https://www.askhelpu.com/
 ## https://www.paralympic.org/
