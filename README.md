@@ -59,6 +59,19 @@
 ### [Khan Academy: AP®︎/College Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 - [ ] 
 
+---
+Watch the whole General Chemistry playlist: http://bit.ly/ProfDaveGenChem
+
+Study for the AP Chemistry exam with me: https://bit.ly/ProfDaveAPChem
+
+Organic Chemistry Tutorials: http://bit.ly/ProfDaveOrgChem
+Biochemistry Tutorials: http://bit.ly/ProfDaveBiochem
+Biology Tutorials: http://bit.ly/ProfDaveBio
+Classical Physics Tutorials: http://bit.ly/ProfDavePhysics1
+Modern Physics Tutorials: http://bit.ly/ProfDavePhysics2
+Mathematics Tutorials: http://bit.ly/ProfDaveMaths
+
+---
 ### https://github.com/OccupyMars2025/Introductory-Biology-7.016-Fall-2018-Undergraduate
 ### https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/
 ### https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/
