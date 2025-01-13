@@ -2,6 +2,17 @@
 ## [doubao](https://www.doubao.com)
 ## [Periodic Table of Elements](https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table)
 ## https://www.askhelpu.com/
+## https://www.paralympic.org/
+# <p align="center"> *[Change Starts with Sport](https://www.youtube.com/user/ParalympicSportTV)* </p>
+# <p align="center"> *Cycle from Shanghai to Lhasa* </p>
+# <p align="center"> *Swim across the Arctic Ocean* </p>
+# <p align="center"> *Swim across the Pacific Ocean* </p>
+
+## 2025: Become a master of street workout.
+## 2025: Master various types of flips, including the backflip and front flip.
+## 2025: Break the world record for pull-ups, break the world record for muscle-ups, and break the world record for push-ups.
+## 2025: Become the world champion in the men's 10km swim, and the world champion in the men's 10km run. 
+
 
 # <p align="center"> *The World Needs Heroes* </p>
 # <p align="center"> *The World Needs Pioneers* </p>
