@@ -3,6 +3,9 @@
 
 ## <p align="center"> *Every Engineer is an Athlete* </p>
 ## <p align="center"> *An engineer who doesn’t aspire to be an Olympic champion isn’t a qualified engineer.* </p>
+
+## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
+
 ## <p align="center"> *Eat when hungry, sleep when tired, work when awake.* </p>
 ---
 ## Goals 2025/5/30 - 6/10: 
