@@ -1,7 +1,11 @@
 ## 6, 7, 8
 ## 9, 10, 11, 12
 ---
-## Goals 2025/5/30 - 6/10: 
+## Current progress:
+### 2025/5/30 7:00 - 6/3 23:00 : study the paper of AlphaFold 3: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)
+
+---
+## Goals 2025/5/30 - 6/20: 
 ### 0. Run 10km in 40 minutes, run a half marathon in 1 hour and 30 minutes, do 300 push-ups in a row, do 50 pull-ups in a row
 ### 1. Complete the study of all papers and source codes related to AlphaFold 2&3
 
