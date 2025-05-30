@@ -1,5 +1,6 @@
 ## 6, 7, 8
 ## 9, 10, 11, 12
+## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 ---
 ## Current progress:
 ### 2025/5/30 7:00 - 6/3 23:00 : study the paper of AlphaFold 3: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)
@@ -21,7 +22,5 @@
 
 ## <p align="center"> *Every Engineer is an Athlete* </p>
 ## <p align="center"> *An engineer who doesn’t aspire to be an Olympic champion isn’t a qualified engineer.* </p>
-
-## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
 ## <p align="center"> *Eat when hungry, sleep when tired, work when awake.* </p>
