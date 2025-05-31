@@ -10,7 +10,8 @@
 2025/5/31 6:46-7:37: section "Network architecture and training"
 2025/5/31 7:37-10:12: section "Accuracy across complex types"
 2025/5/31 10:12-13:08: section "Predicted confidences track accuracy"
-2025/5/31 13:08-: section "Model limitations"
+2025/5/31 13:08-14:29: section "Model limitations"
+2025/5/31 14:29-: section "Discussion"
 ```
 
 ---
