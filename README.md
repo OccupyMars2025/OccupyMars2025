@@ -40,4 +40,7 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 ## <p align="center"> *Every Engineer is an Athlete* </p>
 ## <p align="center"> *An engineer who doesn’t aspire to be an Olympic champion isn’t a qualified engineer.* </p>
 
-## <p align="center"> *Eat when hungry, sleep when tired, work when awake.* </p>
+## <p align="center"> *破釜沉舟* </p>
+## *History has shown that many great victories were achieved not by those who kept an escape route open, but by those who burned the bridges behind them, forcing themselves to advance against all odds.*
+
+
