@@ -11,7 +11,11 @@
 2025/5/31 7:37-10:12: section "Accuracy across complex types"
 2025/5/31 10:12-13:08: section "Predicted confidences track accuracy"
 2025/5/31 13:08-14:29: section "Model limitations"
-2025/5/31 14:29-: section "Discussion"
+2025/5/31 14:29-14:57: section "Discussion"
+
+Let’s tackle the hardest part now—this is the core and most challenging section of the paper.
+2025/5/31 14:57-: section "Methods"
+2025/5/31 14:57-: Supplementary information(https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07487-w/MediaObjects/41586_2024_7487_MOESM1_ESM.pdf), 45 pages in total
 ```
 
 ---
