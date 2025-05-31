@@ -45,4 +45,6 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 ## <p align="center"> *破釜沉舟* </p>
 ## *History has shown that many great victories were achieved not by those who kept an escape route open, but by those who burned the bridges behind them, forcing themselves to advance against all odds.*
 
+![goku](https://github.com/user-attachments/assets/a573a685-7a42-4b9f-bfcf-06e51447ed28)
+
 
