@@ -4,7 +4,7 @@
 ---
 ## Current progress:
 ### 2025/5/30 7:00 - 6/3 23:00 : study the paper of AlphaFold 3: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)
-#### 2025/5/31:  {push ups + Mountain Climbers: 200}, {cartwheels: 0}, {running: 0}
+#### 2025/5/31:  {"push ups + Mountain Climbers": 200}, {"cartwheels": 0}, {"running": 0}
 #### 2025/5/31 6:46-7:37: section "Network architecture and training"
 #### 2025/5/31 7:37-: section "Accuracy across complex types"
 
