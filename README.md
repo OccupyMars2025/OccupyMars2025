@@ -36,7 +36,7 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 
 ## <p align="center"> *Go Navy, Beat Army !* </p>
 ## <p align="center"> *Go Army, Sink Navy !* </p>
-
+## <p align="center"> *欲文明其精神,先自野蛮其体魄* </p>
 ## <p align="center"> *Every Engineer is an Athlete* </p>
 ## <p align="center"> *An engineer who doesn’t aspire to be an Olympic champion isn’t a qualified engineer.* </p>
 
