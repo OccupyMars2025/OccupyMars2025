@@ -38,6 +38,8 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 ## <p align="center"> *Go Navy, Beat Army !* </p>
 ## <p align="center"> *Go Army, Sink Navy !* </p>
 ## <p align="center"> *Every Engineer is an Athlete* </p>
+## <p align="center"> *Swimming across the Pacific Ocean* </p>
+## <p align="center"> *Swimming across the Arctic Ocean* </p>
 ## <p align="center"> *An engineer who doesn’t aspire to be an Olympic champion isn’t a qualified engineer.* </p>
 
 ## <p align="center"> *破釜沉舟* </p>
