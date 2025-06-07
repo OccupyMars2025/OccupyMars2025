@@ -20,6 +20,8 @@
 ---
 ## Current progress:
 ### 2025/5/30 7:00 - : study the paper of AlphaFold 3: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)  
+
+
 ```
 2025/5/31: {"push ups + Mountain Climbers": 460}, {"cartwheels": 100 meters}, {"running": 5km}
 2025/5/31 6:46-7:37: section "Network architecture and training"
@@ -61,8 +63,9 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 6/6 6:17-6:43: run 5km in 24:53, Average Pace: 4:58 per kilometer
 6/6 9:05-10:00: 2.5 Training data(To be continued)
 
-2025/6/7: {"running": 5km},
+2025/6/7: {"running": 5km}, {"pull ups + Parallel Bar Dips": 100}
 6/7 6:24-6:48: run 5km in 22:59, Average Pace: 4:35
-6/7 7:55-: 2.5 Training data
+6/7 7:55-16:20: 2.5 Training data
+6/7 16:20-: 2.6 Tokenization
 
 ```
