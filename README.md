@@ -73,5 +73,6 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 6/8 9:15-10:00: 2.7 Cropping(continued)
 6/8 10:00-21:20: 2.8 Featurisation and model inputs
 6/8 21:20-: 3 Model architecture
+6/8 21:46-: Algorithm 1 Main Inference Loop
 
 ```
