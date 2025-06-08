@@ -67,6 +67,9 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 6/7 6:24-6:48: run 5km in 22:59, Average Pace: 4:35
 6/7 7:55-16:20: 2.5 Training data
 6/7 16:20-16:31: 2.6 Tokenization
-6/7 18:05-22:10: 2.7 Cropping
+6/7 18:05-22:10: 2.7 Cropping(To be continued)
+
+2025/6/8:
+6/8 9:15-: 2.7 Cropping(continued)
 
 ```
