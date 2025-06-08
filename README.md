@@ -69,7 +69,8 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 6/7 16:20-16:31: 2.6 Tokenization
 6/7 18:05-22:10: 2.7 Cropping(To be continued)
 
-2025/6/8:
-6/8 9:15-: 2.7 Cropping(continued)
+2025/6/8: {"pull ups + Parallel Bar Dips": 100},
+6/8 9:15-21:20: 2.7 Cropping(continued)
+6/8 21:20-: 3 Model architecture
 
 ```
