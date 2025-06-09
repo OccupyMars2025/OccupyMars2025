@@ -2,6 +2,7 @@
 ## 7, 8
 ## 9, 10, 11, 12
 
+## <p align="center"> *They were in a state of euphoria for days after they won the prize.* </p>
 ## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
 ---
