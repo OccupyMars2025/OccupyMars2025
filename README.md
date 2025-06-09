@@ -76,7 +76,7 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 
 Finally, we start learning the algorithm details. Let's do it!
 
-2025/6/9: {"running": 5km}
+2025/6/9: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200},
 6/9 8:06-10:42: Algorithm 1 Main Inference Loop
 Great ! The first algorithm is completed !
 6/9 10:42-: 3.1 Input embeddings
