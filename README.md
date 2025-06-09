@@ -79,10 +79,9 @@ Let’s tackle the hardest part now—this is the core and most challenging sect
 Finally, we start learning the algorithm details. Let's do it!
 
 2025/6/9: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200},
-6/9 8:06-10:42: Algorithm 1 Main Inference Loop
-Great ! The first algorithm is completed !
-After completing 200 "pull ups + Parallel Bar Dips", my entire body feels invigorated, muscles relaxed,
-and my mind sharper than ever—pure bliss! Every drop of sweat was worth it. That post-workout physical + mental refreshment. Absolutely addictive !
-6/9 10:42-: 3.1 Input embeddings
+6/9 8:06-10:42: Algorithm 1 Main Inference Loop. (Great ! The first algorithm is completed !)
+6/9 10:42-11:35:  {"pull ups + Parallel Bar Dips": 200}, After completing 200 "pull ups + Parallel Bar Dips", my entire body feels invigorated, muscles relaxed, and my mind sharper than ever—pure bliss! Every drop of sweat was worth it. That post-workout physical + mental refreshment. Absolutely addictive !
+6/9 12:56-: 3.1 Input embeddings
+
 
 ```
