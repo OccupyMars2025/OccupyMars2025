@@ -4,6 +4,9 @@
 
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *纳于大麓, 烈风雷雨弗迷* </p>
+### Run to embrace the first golden rays of morning sunlight. 
+### Challenge yourself with an invigorating cold shower each winter day.
+### Brave the chill of winter with a daily cold shower—awaken your spirit.
 ## 孔子之劲能拓国门之关，而不肯以力闻。
 ## [孔子会武术，谁能挡得住](https://zqb.cyol.com/html/2018-04/11/nw.D110000zgqnb_20180411_2-10.htm)
 ## [孔子的崇志与尚勇](http://military.people.com.cn/n/2015/0324/c172467-26738328.html)
