@@ -85,7 +85,8 @@ Finally, we start learning the algorithm details. Let's do it!
 
 2025/6/10:  {"running": half marathon}
 6/10 6:12-8:14:  run a half marathon in 1:54:32
-6/10 10:11-: 3.1 Input embeddings
+6/10 10:11-10:25: 3.1 Input embeddings
+6/10 10:25-: 3.2 Sequence-local atom attention
 
 
 ```
