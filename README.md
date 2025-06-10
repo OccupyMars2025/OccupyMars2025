@@ -3,6 +3,9 @@
 ## 9, 10, 11, 12
 
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
+## <p align="center"> *纳于大麓, 烈风雷雨弗迷* </p>
+## 孔子之劲能拓国门之关，而不肯以力闻。
+## [孔子会武术，谁能挡得住](https://zqb.cyol.com/html/2018-04/11/nw.D110000zgqnb_20180411_2-10.htm)
 ## <p align="center"> *That post-workout physical + mental refreshment. Absolutely addictive !* </p>
 ## <p align="center"> *They were in a state of euphoria for days after they won the prize.* </p>
 ## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
