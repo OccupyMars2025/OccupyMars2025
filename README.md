@@ -83,5 +83,9 @@ Finally, we start learning the algorithm details. Let's do it!
 6/9 10:42-11:35:  {"pull ups + Parallel Bar Dips": 200}, After completing 200 "pull ups + Parallel Bar Dips", my entire body feels invigorated, muscles relaxed, and my mind sharper than ever—pure bliss! Every drop of sweat was worth it. That post-workout physical + mental refreshment. Absolutely addictive !
 6/9 12:56-21:52: 3.1 Input embeddings(To be continued)
 
+2025/6/10:  {"running": half marathon}
+6/10 6:12-8:14:  run a half marathon in 1:54:32
+6/10 10:11-: 3.1 Input embeddings
+
 
 ```
