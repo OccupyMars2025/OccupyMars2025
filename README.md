@@ -8,7 +8,7 @@
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
 ## <p align="center"> *纳于大麓, 烈风雷雨弗迷* </p>
 ### 三从一大，即“从严、从难、从实战出发、大运动量训练”
-### [When it comes to "devil coaches," many people think of German football manager Felix Magath. Magath is notorious for his hellish physical training regimens. Norwegian striker Jan Åge Fjørtoft once humorously remarked on the intensity of Magath's training: "I don’t know if Magath could have saved the Titanic, but if he had been on board, all the passengers would surely have swum back to Southampton alive.](https://www.163.com/sports/article/GNHVP7N200059A81.html)
+### [When it comes to "devil coaches," many people think of German football manager Felix Magath. Magath is notorious for his hellish physical training regimens. Norwegian striker Jan Åge Fjørtoft once remarked on the intensity of Magath's training: "I don’t know if Magath could have saved the Titanic, but if he had been on board, all the passengers would surely have swum back to Southampton alive.](https://www.163.com/sports/article/GNHVP7N200059A81.html)
 ### Run to embrace the first golden rays of morning sunlight. 
 ### Challenge yourself with an invigorating cold shower each winter day.
 ### Brave the chill of winter with a daily cold shower—awaken your spirit.
