@@ -6,7 +6,10 @@
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
-## <p align="center"> *纳于大麓, 烈风雷雨弗迷* </p>
+### The moment he clinches the championship, he throws his arms skyward, bursting into uncontrollable shrieks of delight—his voice raw with triumph, his face alight with unbridled joy. The roar of the crowd fades into the background as pure elation takes over, every ounce of effort, every sacrifice, culminating in this euphoric release.
+## <p align="center"> *They were in a state of euphoria for days after they won the prize.* </p>
+
+
 ## [Sailing Through the Storm: Battling Wind and Waves](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/Sailing%20Through%20the%20Storm.md)
 ## 驾驶帆船在暴风雨中, 在惊涛骇浪中搏击风浪
 ### 三从一大，即“从严、从难、从实战出发、大运动量训练”
@@ -18,7 +21,6 @@
 ## [孔子会武术，谁能挡得住](https://zqb.cyol.com/html/2018-04/11/nw.D110000zgqnb_20180411_2-10.htm)
 ## [孔子的崇志与尚勇](http://military.people.com.cn/n/2015/0324/c172467-26738328.html)
 ## <p align="center"> *That post-workout physical + mental refreshment. Absolutely addictive !* </p>
-## <p align="center"> *They were in a state of euphoria for days after they won the prize.* </p>
 ## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
 ---
