@@ -9,6 +9,10 @@
 ### The moment he clinches the championship, he throws his arms skyward, bursting into uncontrollable shrieks of delight—his voice raw with triumph, his face alight with unbridled joy. The roar of the crowd fades into the background as pure elation takes over, every ounce of effort, every sacrifice, culminating in this euphoric release.
 ## <p align="center"> *They were in a state of euphoria for days after they won the championship.* </p>
 
+## 损人不利己的事情, 坚决不做; 
+## 损人利己的事情, 尽量不做; 
+## 利人利己的事情, 全力去做; 
+## 利人不利己的事情, 你自己决定做不做
 
 ## [Sailing Through the Storm: Battling Wind and Waves](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/Sailing%20Through%20the%20Storm.md)
 ## 驾驶帆船在暴风雨中, 在惊涛骇浪中搏击风浪
