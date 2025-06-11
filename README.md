@@ -6,6 +6,12 @@
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
+
+### *A wild boar barged into the vegetable garden, eager to take a bite out of everything it saw.*
+### *The messier your exploration, the richer the feast of knowledge you’ll uncover.*
+### *Richard Feynmann — 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.'*
+
+
 ### The moment he clinches the championship, he throws his arms skyward, bursting into uncontrollable shrieks of delight—his voice raw with triumph, his face alight with unbridled joy. The roar of the crowd fades into the background as pure elation takes over, every ounce of effort, every sacrifice, culminating in this euphoric release.
 ## <p align="center"> *They were in a state of euphoria for days after they won the championship.* </p>
 
