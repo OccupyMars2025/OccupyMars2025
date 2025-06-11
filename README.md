@@ -7,7 +7,7 @@
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
 
-### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate.*
+### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 
 ### *A wild boar barged into the vegetable garden, eager to take a bite out of everything it saw.*
 ### *The messier your exploration, the richer the feast of knowledge you’ll uncover.*
