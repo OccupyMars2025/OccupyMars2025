@@ -54,6 +54,7 @@
 ---
 ## Current progress:
 ### 2025/5/30 7:00 - : study the paper of AlphaFold 3: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)  
+### 2025/6/11 14:20- : [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
 
 
 ```
@@ -120,7 +121,10 @@ Finally, we start learning the algorithm details. Let's do it!
 6/10 10:11-10:25: 3.1 Input embeddings
 6/10 10:25-20:51: 3.2 Sequence-local atom attention, (stop at "Algorithm 5 Atom attention encoder"(page 17))
 
-2025/6/11: {"running": 5km},
+2025/6/11: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 200}, {"cartwheels": 100 meters}
 6/11 6:05-6:30: run 5km in 23:59, Average Pace: 4:47
+6/11 7:40-13:50: 3.2 Sequence-local atom attention (completed)
+
+6/11 14:20-:  [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
 
 ```
