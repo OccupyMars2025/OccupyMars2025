@@ -9,11 +9,6 @@
 ### The moment he clinches the championship, he throws his arms skyward, bursting into uncontrollable shrieks of delight—his voice raw with triumph, his face alight with unbridled joy. The roar of the crowd fades into the background as pure elation takes over, every ounce of effort, every sacrifice, culminating in this euphoric release.
 ## <p align="center"> *They were in a state of euphoria for days after they won the championship.* </p>
 
-### 损人不利己的事情, 坚决不做; 
-### 损人利己的事情, 尽量不做; 
-### 利人利己的事情, 全力去做; 
-### 利人不利己的事情, 你自己决定做不做
-
 ## [Sailing Through the Storm: Battling Wind and Waves](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/Sailing%20Through%20the%20Storm.md)
 ## 驾驶帆船在暴风雨中, 在惊涛骇浪中搏击风浪
 ### 三从一大，即“从严、从难、从实战出发、大运动量训练”
@@ -26,6 +21,14 @@
 ## [孔子的崇志与尚勇](http://military.people.com.cn/n/2015/0324/c172467-26738328.html)
 ## <p align="center"> *That post-workout physical + mental refreshment. Absolutely addictive !* </p>
 ## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
+
+---
+
+### "Everyone has a dark side within their heart. You just need to follow these four principles:
+1. Never do things that harm others without benefiting yourself;
+2. Try not to do things that benefit yourself at others' expense;
+3. Do your utmost to do things that benefit both others and yourself;
+4. Whether to do things that benefit others without benefiting yourself is entirely your own decision.
 
 ---
 
