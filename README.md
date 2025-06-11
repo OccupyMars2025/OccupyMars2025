@@ -2,6 +2,7 @@
 ## 7, 8
 ## 9, 10, 11, 12
 
+## <p align="center"> *[Universe](https://en.wikipedia.org/wiki/Universe)* </p>
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *纳于大麓, 烈风雷雨弗迷* </p>
 ### Run to embrace the first golden rays of morning sunlight. 
@@ -91,10 +92,12 @@ Finally, we start learning the algorithm details. Let's do it!
 6/9 10:42-11:35:  {"pull ups + Parallel Bar Dips": 200}, After completing 200 "pull ups + Parallel Bar Dips", my entire body feels invigorated, muscles relaxed, and my mind sharper than ever—pure bliss! Every drop of sweat was worth it. That post-workout physical + mental refreshment. Absolutely addictive !
 6/9 12:56-21:52: 3.1 Input embeddings(To be continued)
 
-2025/6/10:  {"running": half marathon}, {"push ups + Mountain Climbers": 200}, {"cartwheels": 100 meters}
+2025/6/10: {"running": half marathon}, {"push ups + Mountain Climbers": 200}, {"cartwheels": 100 meters}
 6/10 6:12-8:14:  run a half marathon in 1:54:32
 6/10 10:11-10:25: 3.1 Input embeddings
 6/10 10:25-20:51: 3.2 Sequence-local atom attention, (stop at "Algorithm 5 Atom attention encoder"(page 17))
 
+2025/6/11: {"running": 5km},
+6/11 6:05-6:30: run 5km in 23:59, Average Pace: 4:47
 
 ```
