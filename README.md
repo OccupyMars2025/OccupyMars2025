@@ -1,7 +1,7 @@
 ## 6
 ## 7, 8
 ## 9, 10, 11, 12
-
+## https://github.com/zou-group/CellVoyager
 ## <p align="center"> *[Universe](https://en.wikipedia.org/wiki/Universe)* </p>
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
@@ -14,29 +14,8 @@
 ### *Richard Feynmann — 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.'*
 
 
-### The moment he clinches the championship, he throws his arms skyward, bursting into uncontrollable shrieks of delight—his voice raw with triumph, his face alight with unbridled joy. The roar of the crowd fades into the background as pure elation takes over, every ounce of effort, every sacrifice, culminating in this euphoric release.
-## <p align="center"> *They were in a state of euphoria for days after they won the championship.* </p>
 
-## [Sailing Through the Storm: Battling Wind and Waves](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/Sailing%20Through%20the%20Storm.md)
-## 驾驶帆船在暴风雨中, 在惊涛骇浪中搏击风浪
-### 三从一大，即“从严、从难、从实战出发、大运动量训练”
-### [When it comes to "devil coaches," many people think of German football manager Felix Magath. Magath is notorious for his hellish physical training regimens. Norwegian striker Jan Åge Fjørtoft once remarked on the intensity of Magath's training: "I don’t know if Magath could have saved the Titanic, but if he had been on board, all the passengers would surely have swum back to Southampton alive.](https://www.163.com/sports/article/GNHVP7N200059A81.html)
-### Run to embrace the first golden rays of morning sunlight. 
-### Challenge yourself with an invigorating cold shower each winter day.
-### Brave the chill of winter with a daily cold shower—awaken your spirit.
-## 孔子之劲能拓国门之关，而不肯以力闻。
-## [孔子会武术，谁能挡得住](https://zqb.cyol.com/html/2018-04/11/nw.D110000zgqnb_20180411_2-10.htm)
-## [孔子的崇志与尚勇](http://military.people.com.cn/n/2015/0324/c172467-26738328.html)
-## <p align="center"> *That post-workout physical + mental refreshment. Absolutely addictive !* </p>
-## <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
-
----
-
-### Morality is essentially a matter of interests. Rather than making moral judgments, it's better to analyze the pros and cons. Everyone has a dark side within their heart. You just need to follow these four principles:
-1. Never do things that harm others without benefiting yourself;
-2. Try not to do things that benefit yourself at others' expense;
-3. Do your utmost to do things that benefit both others and yourself;
-4. Whether to do things that benefit others without benefiting yourself is entirely your own decision.
+### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
 ---
 
@@ -128,3 +107,27 @@ Finally, we start learning the algorithm details. Let's do it!
 6/11 14:20-:  [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
 
 ```
+
+
+### The moment he clinches the championship, he throws his arms skyward, bursting into uncontrollable shrieks of delight—his voice raw with triumph, his face alight with unbridled joy. The roar of the crowd fades into the background as pure elation takes over, every ounce of effort, every sacrifice, culminating in this euphoric release.
+## <p align="center"> *They were in a state of euphoria for days after they won the championship.* </p>
+
+## [Sailing Through the Storm: Battling Wind and Waves](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/Sailing%20Through%20the%20Storm.md)
+## 驾驶帆船在暴风雨中, 在惊涛骇浪中搏击风浪
+### 三从一大，即“从严、从难、从实战出发、大运动量训练”
+### [When it comes to "devil coaches," many people think of German football manager Felix Magath. Magath is notorious for his hellish physical training regimens. Norwegian striker Jan Åge Fjørtoft once remarked on the intensity of Magath's training: "I don’t know if Magath could have saved the Titanic, but if he had been on board, all the passengers would surely have swum back to Southampton alive.](https://www.163.com/sports/article/GNHVP7N200059A81.html)
+### Run to embrace the first golden rays of morning sunlight. 
+### Challenge yourself with an invigorating cold shower each winter day.
+### Brave the chill of winter with a daily cold shower—awaken your spirit.
+## 孔子之劲能拓国门之关，而不肯以力闻。
+## [孔子会武术，谁能挡得住](https://zqb.cyol.com/html/2018-04/11/nw.D110000zgqnb_20180411_2-10.htm)
+## [孔子的崇志与尚勇](http://military.people.com.cn/n/2015/0324/c172467-26738328.html)
+## <p align="center"> *That post-workout physical + mental refreshment. Absolutely addictive !* </p>
+
+---
+
+### Morality is essentially a matter of interests. Rather than making moral judgments, it's better to analyze the pros and cons. Everyone has a dark side within their heart. You just need to follow these four principles:
+1. Never do things that harm others without benefiting yourself;
+2. Try not to do things that benefit yourself at others' expense;
+3. Do your utmost to do things that benefit both others and yourself;
+4. Whether to do things that benefit others without benefiting yourself is entirely your own decision.
