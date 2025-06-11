@@ -24,7 +24,7 @@
 
 ---
 
-### "Everyone has a dark side within their heart. You just need to follow these four principles:
+### Everyone has a dark side within their heart. You just need to follow these four principles:
 1. Never do things that harm others without benefiting yourself;
 2. Try not to do things that benefit yourself at others' expense;
 3. Do your utmost to do things that benefit both others and yourself;
