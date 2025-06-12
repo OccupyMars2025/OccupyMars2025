@@ -41,6 +41,7 @@
 ## Current progress:
 ### 2025/5/30 7:00 - : study the paper of AlphaFold 3: [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)  
 ### 2025/6/11 14:20- : [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
+### The central purpose of CellVoyager is to find a single-cell analysis distinct from the ones conducted in the paper but still biologically interesting and in line with the research goals of the paper
 
 
 ```
@@ -119,7 +120,8 @@ Finally, we start learning the algorithm details. Let's do it!
 6/12 13:25-14:07: CellVoyager, 2 Related Work (page 2-3)
 6/12 14:07-15:09: 3 CellVoyager Methodology (page 3-)
 6/12 15:09-15:54: {"cartwheels": 100 meters}
-6/12 15:54-: 3 CellVoyager Methodology (page 3-)
+6/12 15:54-16:40: 3 CellVoyager Methodology (page 3-)
+6/12 21:00-22:00: 3.2 Analysis planning, Execution, and Replanning
 
 ```
 
