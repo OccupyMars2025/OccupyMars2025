@@ -106,7 +106,22 @@ Finally, we start learning the algorithm details. Let's do it!
 
 6/11 14:20-21:58:  [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf), ask DeepSeek to summarize this paper, now stop at page 1
 
+2025/6/12: {"running": 5km},
+6/12 6:19-6:48: run 5km in 28:41, Average Pace: 5:26  (very slow)
+6/12 8:01-: CellVoyager, page 1-
+
 ```
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### The moment he clinches the championship, he throws his arms skyward, bursting into uncontrollable shrieks of delight—his voice raw with triumph, his face alight with unbridled joy. The roar of the crowd fades into the background as pure elation takes over, every ounce of effort, every sacrifice, culminating in this euphoric release.
