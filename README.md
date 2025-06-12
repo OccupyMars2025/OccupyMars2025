@@ -111,7 +111,8 @@ Finally, we start learning the algorithm details. Let's do it!
 
 2025/6/12: {"running": 5km},
 6/12 6:19-6:48: run 5km in 28:41, Average Pace: 5:26  (very slow)
-6/12 8:01-: CellVoyager, page 1-
+6/12 8:01-13:25: CellVoyager, 1 Introduction (page 1-2)
+6/12 13:25-: CellVoyager, 2 Related Work (page 2-)
 
 ```
 
