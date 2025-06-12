@@ -15,7 +15,7 @@
 ### *The messier your exploration, the richer the feast of knowledge you’ll uncover.*
 ### *Richard Feynmann — 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.'*
 
-### <p align="center"> *No matter what you face, you have to solve it.* </p> 
+### <p align="center"> *[No matter what you face, you have to solve it.](https://baijiahao.baidu.com/s?id=1834641092455296655)* </p> 
 ### <p align="center"> *[Don't think about the difficulties, just do it and move forward step by step.](https://baijiahao.baidu.com/s?id=1834542017720126488&wfr=spider&for=pc)* </p>
 
 ### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
