@@ -135,8 +135,8 @@ Finally, we start learning the algorithm details. Let's do it!
 
 2025/6/13: {"running": 5km},{"push ups + Mountain Climbers": 120},  {"pull ups + Parallel Bar Dips": 200}
 6/13 6:22-6:56: run 5.39km in 33:07, Average Pace: 6:08  (even slower)
-6/13 7:55-10:50: CellVoyager, 4 Evaluating CellVoyager Analysis Generation with CellBench (page 5-), (stop at Figure 2A)
-6/13 10:50-11:44:  {"pull ups + Parallel Bar Dips": 200}
+6/13 7:55-15:22: CellVoyager, 4 Evaluating CellVoyager Analysis Generation with CellBench (page 5-7)
+6/13 15:22-: CellVoyager, 5 Computational Biology Case Studies (page 7-)
 
 ```
 
