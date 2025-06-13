@@ -137,6 +137,7 @@ Finally, we start learning the algorithm details. Let's do it!
 6/13 6:22-6:56: run 5.39km in 33:07, Average Pace: 6:08  (even slower)
 6/13 7:55-15:22: CellVoyager, 4 Evaluating CellVoyager Analysis Generation with CellBench (page 5-7)
 6/13 15:22-: CellVoyager, 5 Computational Biology Case Studies (page 7-)
+6/13 16:16-: CellVoyager, 5.1 COVID-19 PBMCs 
 
 ```
 
