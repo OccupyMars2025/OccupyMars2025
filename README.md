@@ -7,6 +7,7 @@
 # TODO:
 ### https://github.com/zou-group/CellVoyager
 ### https://github.com/Future-House/paper-qa
+### https://www.futurehouse.org/
 ### study the latest work: https://x.com/FutureHouseSF
 ### https://github.com/scverse
 
