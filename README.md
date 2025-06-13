@@ -126,7 +126,7 @@ Finally, we start learning the algorithm details. Let's do it!
 6/12 15:54-16:40: 3 CellVoyager Methodology (page 3-)
 6/12 21:00-22:18: 3.2 Analysis planning, Execution, and Replanning (page 5)
 
-2025/6/13: {"running": 5km},
+2025/6/13: {"running": 5km},{"push ups + Mountain Climbers": 120}, 
 6/13 7:55-: CellVoyager, 4 Evaluating CellVoyager Analysis Generation with CellBench (page 5-)
 
 ```
