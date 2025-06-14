@@ -133,11 +133,20 @@ Finally, we start learning the algorithm details. Let's do it!
 6/12 15:54-16:40: 3 CellVoyager Methodology (page 3-)
 6/12 21:00-22:18: 3.2 Analysis planning, Execution, and Replanning (page 5)
 
-2025/6/13: {"running": 5km},{"push ups + Mountain Climbers": 120},  {"pull ups + Parallel Bar Dips": 200}
+2025/6/13: {"running": 5km}, {"push ups + Mountain Climbers": 120},  {"pull ups + Parallel Bar Dips": 300}, {"cartwheels": 100 meters}
 6/13 6:22-6:56: run 5.39km in 33:07, Average Pace: 6:08  (even slower)
 6/13 7:55-15:22: CellVoyager, 4 Evaluating CellVoyager Analysis Generation with CellBench (page 5-7)
-6/13 15:22-: CellVoyager, 5 Computational Biology Case Studies (page 7-)
-6/13 16:16-: CellVoyager, 5.1 COVID-19 PBMCs 
+6/13 15:22-16:16: CellVoyager, 5 Computational Biology Case Studies (page 7-) (stop at " 5.1 COVID-19 PBMCs ")
+6/13 16:16-17:20: {"cartwheels": 100 meters}, {"pull ups + Parallel Bar Dips": 100}
+
+
+2025/6/14: {"running": 3.77km}
+6/14 6:44-7:15: run 3.77km in 26:30, Average Pace: 7:00
+6/14 8:17-: CellVoyager, 5.1 COVID-19 PBMCs
+
+Tomorrow, aim to push my running pace under 5 minutes per kilometer.
+
+
 
 ```
 
