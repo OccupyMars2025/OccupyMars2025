@@ -140,8 +140,8 @@ Finally, we start learning the algorithm details. Let's do it!
 6/13 16:16-17:20: {"cartwheels": 100 meters}, {"pull ups + Parallel Bar Dips": 100}
 
 
-2025/6/14: {"running": 3.77km}
-6/14 6:44-7:15: run 3.77km in 26:30, Average Pace: 7:00
+2025/6/14: {"running": 3.77km}, {"push ups + Mountain Climbers": 200}
+6/14 6:44-7:15: run 3.77km in 26:30, Average Pace: 7:00 (why so slow ?)
 6/14 8:17-: CellVoyager, 5.1 COVID-19 PBMCs
 
 Tomorrow, aim to push my running pace under 5 minutes per kilometer.
@@ -149,10 +149,4 @@ Tomorrow, aim to push my running pace under 5 minutes per kilometer.
 
 
 ```
-
-
-
-
-
-
 
