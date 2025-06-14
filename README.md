@@ -10,6 +10,7 @@
 ### https://www.futurehouse.org/
 ### study the latest work: https://x.com/FutureHouseSF
 ### https://github.com/scverse
+### study UMAP (Uniform Manifold Approximation and Projection)
 
 ---
 
