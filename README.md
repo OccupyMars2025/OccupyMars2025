@@ -186,9 +186,12 @@ Finally, we start learning the algorithm details. Let's do it!
 
 Tomorrow, aim to push my running pace under 5 minutes per kilometer.
 
-2025/6/15: {"running": 5km},  {"push ups + Mountain Climbers": 100},
+2025/6/15: {"running": 5km},  {"push ups + Mountain Climbers": 100}, {"cartwheels": 100 meters}, {"pull ups + Parallel Bar Dips": 200}
 6/15 6:15-6:41: run 5km in 24:55, Average Pace: 4:59/km 
-6/15 7:55-: CellVoyager, 5.2 Endometrium Atlas
+6/15 7:55-15:25: CellVoyager, 5.2 Endometrium Atlas
+6/15 15:25-16:30: {"cartwheels": 100 meters}, {"pull ups + Parallel Bar Dips": 200}
+6/15 16:42-: CellVoyager, Figure 5D
+
 
 Goal achieved. Tomorrow's target: Run 5 km in under 4:48/km.
 
