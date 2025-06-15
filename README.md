@@ -67,7 +67,7 @@
 ### *The harder the task, the smaller the first step should be.*
 ### *suffer the pain of discipline or suffer the pain of regret*
 
-### *We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.*
+### *Pain is inevitable. You either suffer the pain of discipline or the pain of regret. The difference is the pain of discipline is temporary while that of regret is permanent.*
 
 
 ### *A wild boar barged into the vegetable garden, eager to take a bite out of everything it saw.*
