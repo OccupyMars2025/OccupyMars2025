@@ -4,6 +4,8 @@
 ## [庞众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
 ## <p align="center"> *2025/6/1 - 2026/1/1(214 days): Carefully study 100 research papers* </p>
+### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
+
 ## current progress: 0
 
 ---
@@ -49,7 +51,6 @@
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
 
-### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 
 ## <p align="center"> *兄弟登山, 各自努力, 让我们在顶峰相聚* </p>
 
