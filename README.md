@@ -191,7 +191,7 @@ Tomorrow, aim to push my running pace under 5 minutes per kilometer.
 6/15 7:55-15:25: CellVoyager, 5.2 Endometrium Atlas
 6/15 15:25-16:30: {"cartwheels": 100 meters}, {"pull ups + Parallel Bar Dips": 200}
 6/15 16:42-: CellVoyager, Figure 5D
-6/15 19:38-: CellVoyager, 5.3 Aging in the Brain
+6/15 19:38-21:54: CellVoyager, 5.3 Aging in the Brain (to be continued)
 
 
 Goal achieved. Tomorrow's target: Run 5 km in under 4:48/km.
