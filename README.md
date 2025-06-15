@@ -46,7 +46,10 @@
 
 ## <p align="center"> *[中国航天飞行中队，五十岁以上的，出列！](https://www.bilibili.com/video/BV1CQFjeGEaZ/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
-
+## <p align="center"> *赢就要赢得光明磊落, 输更要输得光芒万丈 !* </p>
+## <p align="center"> *开疆拓土, 天纵风华* </p>
+## <p align="center"> *干大事而惜身,见小利而忘命* </p>
+## <p align="center"> *像卡卡罗特一样, 吃得香, 睡得死* </p>
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
@@ -170,7 +173,7 @@ Finally, we start learning the algorithm details. Let's do it!
 
 Tomorrow, aim to push my running pace under 5 minutes per kilometer.
 
-2025/6/15: {"running": 5km},
+2025/6/15: {"running": 5km},  {"push ups + Mountain Climbers": 100},
 6/15 6:15-6:41: run 5km in 24:55, Average Pace: 4:59/km 
 6/15 7:55-: CellVoyager, 5.2 Endometrium Atlas
 
