@@ -3,6 +3,20 @@
 ## 9, 10, 11, 12
 ## [庞众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
+## <p align="center"> *2025/6/1 - 2026/1/1(214 days): Carefully study 100 research papers* </p>
+## current progress: 0
+
+---
+## Goals 2025/6/1 - 2026/1/1 (214 days):
+### 0. Run 10km in 40 minutes, run a half marathon in 1 hour and 25 minutes, do 500 push-ups in a row, do 150 pull-ups in a row
+### 1. Carefully study 100 research papers
+
+---
+
+## Goals 2025/5/30 - 6/20: 
+### 0. Run 10km in 50 minutes, run a half marathon in 1 hour and 45 minutes, do 100 push-ups in a row, do 50 pull-ups in a row
+### 1. Complete the study of all papers and source codes related to AlphaFold 2&3
+
 ---
 # TODO:
 ### https://github.com/zou-group/CellVoyager
@@ -46,12 +60,6 @@
 
 
 ### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
-
----
-
-## Goals 2025/5/30 - 6/20: 
-### 0. Run 10km in 50 minutes, run a half marathon in 1 hour and 45 minutes, do 100 push-ups in a row, do 50 pull-ups in a row
-### 1. Complete the study of all papers and source codes related to AlphaFold 2&3
 
 ---
 ## newest personal records
