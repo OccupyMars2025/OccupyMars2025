@@ -61,6 +61,15 @@
 
 ## <p align="center"> *兄弟登山, 各自努力, 让我们在顶峰相聚* </p>
 
+## <p align="center"> *Done is better than perfect.* </p>
+
+## <p align="center"> *Achieve small victories every hour* </p>
+### *The harder the task, the smaller the first step should be.*
+### *suffer the pain of discipline or suffer the pain of regret*
+
+### *We must all suffer from one of two pains: the pain of discipline or the pain of regret. The difference is discipline weighs ounces while regret weighs tons.*
+
+
 ### *A wild boar barged into the vegetable garden, eager to take a bite out of everything it saw.*
 ### *The messier your exploration, the richer the feast of knowledge you’ll uncover.*
 ### *Richard Feynmann — 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.'*
