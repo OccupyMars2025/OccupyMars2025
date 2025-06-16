@@ -1,3 +1,14 @@
+
+### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
+
+```
+2025/6/17, Tuesday: {"running": 5km}
+6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km 
+
+```
+
+
+
 ## <p align="center"> *Become the first human to set foot on Mars and immortalize your name among the greatest explorers of all time.* </p>
 
 ---
@@ -99,14 +110,4 @@
 ### 2025/6/11 14:20- : [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
 ### The central purpose of CellVoyager is to find a single-cell analysis distinct from the ones conducted in the paper but still biologically interesting and in line with the research goals of the paper
 
-
----
-
-### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
-
-```
-2025/6/17, Tuesday: {"running": 5km}
-6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km 
-
-```
 
