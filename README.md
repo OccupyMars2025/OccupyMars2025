@@ -100,6 +100,10 @@
 ### The central purpose of CellVoyager is to find a single-cell analysis distinct from the ones conducted in the paper but still biologically interesting and in line with the research goals of the paper
 
 
+---
+
+### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
+
 ```
 2025/6/17, Tuesday: {"running": 5km}
 6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km 
