@@ -202,7 +202,7 @@ Tomorrow, aim to push my running pace under 5 minutes per kilometer.
 
 Goal achieved. Tomorrow's target: Run 5 km in under 4:48/km.
 
-2025/6/16:  {"running": 4.04km},  {"push ups + Mountain Climbers": 200}, {"cartwheels": 0 meters}, {"pull ups + Parallel Bar Dips": 200}
+2025/6/16:  {"running": 4.04km},  {"push ups + Mountain Climbers": 300}, {"pull ups + Parallel Bar Dips": 200}
 6/16 6:17-6:46:  (failure)run 4.04km in 28:38, Average Pace: 7:05/km 
 6/16 7:55-11:05: CellVoyager, Figure 6A
 6/16 12:50-13:48: CellVoyager, Figure 6B
