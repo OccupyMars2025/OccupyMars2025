@@ -197,7 +197,7 @@ Tomorrow, aim to push my running pace under 5 minutes per kilometer.
 Goal achieved. Tomorrow's target: Run 5 km in under 4:48/km.
 
 2025/6/16:
-6/16 7:55-: CellVoyager, 5.3 Aging in the Brain 
+6/16 7:55-11:05: CellVoyager, Figure 6A
 
 
 
