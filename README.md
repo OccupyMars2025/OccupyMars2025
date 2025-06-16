@@ -69,6 +69,8 @@
 ## <p align="center"> *Done is better than perfect.* </p>
 
 ## <p align="center"> *Achieve small victories every hour* </p>
+
+### *The teams performed exceptionally by quickly pivoting to meet the increased demand from our customers.*
 ### *The harder the task, the smaller the first step should be.*
 ### *suffer the pain of discipline or suffer the pain of regret*
 
