@@ -51,6 +51,10 @@
 
 ## <p align="center"> *[中国航天飞行中队，五十岁以上的，出列！](https://www.bilibili.com/video/BV1CQFjeGEaZ/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
+## <p align="center"> *坚忍不拔酬壮志  药济天下慨而慷* </p>
+
+## <p align="center"> *求实求真  大气大为* </p>
+
 ## <p align="center"> *赢就要赢得光明磊落, 输更要输得光芒万丈 !* </p>
 ## <p align="center"> *开疆拓土, 天纵风华* </p>
 ## <p align="center"> *干大事而惜身,见小利而忘命* </p>
