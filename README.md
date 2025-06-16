@@ -202,7 +202,8 @@ Goal achieved. Tomorrow's target: Run 5 km in under 4:48/km.
 6/16 12:50-13:48: CellVoyager, Figure 6B
 6/16 13:48-14:20: CellVoyager, Figure 6C
 6/16 14:20-15:19: {"pull ups + Parallel Bar Dips": 200}
-6/16 15:19-: CellVoyager, Figure 6D
+6/16 15:19-15:53: CellVoyager, Figure 6D
+6/16 15:53-: CellVoyager, 6 Discussion
 
 
 Failed! Tomorrow's goal: Run 5km at a speed of 4:50/km
