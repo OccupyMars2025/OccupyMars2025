@@ -5,7 +5,11 @@
 2025/6/17, Tuesday: {"running": 5km}
 6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km
 6/17 6:40-9:13: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation), ... (A.1.4 Re-evaluating the Analysis Plan)
-6/17 9:13-: A.2 CellBench
+6/17 9:13-10:58: A.2 CellBench
+
+
+
+complete the whole paper: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
 
 ```
 
