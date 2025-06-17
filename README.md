@@ -2,10 +2,12 @@
 ### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
 
 ```
-2025/6/17, Tuesday: {"running": 5km}
+2025/6/17, Tuesday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}
 6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km
 6/17 6:40-9:13: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation), ... (A.1.4 Re-evaluating the Analysis Plan)
 6/17 9:13-10:58: A.2 CellBench
+6/17 16:10-16:50: {"pull ups + Parallel Bar Dips": 200}
+6/17 : study the source code https://github.com/zou-group/CellVoyager
 
 
 
