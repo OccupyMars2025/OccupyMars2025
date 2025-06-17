@@ -111,6 +111,7 @@ complete the whole paper: [CellVoyager: AI CompBio Agent Generates New Insights 
 ### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
 ---
+### Just 100 metres from the finishing line he forged ahead.
 ## newest personal records
 ### feat: 2025/6/17,  run 5km in 22:50, Average Pace: 4:34/km 
 ### 2025/6/1 6:09-8:21: run a half marathon in 1:51:53
