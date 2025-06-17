@@ -4,7 +4,8 @@
 ```
 2025/6/17, Tuesday: {"running": 5km}
 6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km
-6/17 6:40-: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation)
+6/17 6:40-9:13: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation), ... (A.1.4 Re-evaluating the Analysis Plan)
+6/17 9:13-: A.2 CellBench
 
 ```
 
