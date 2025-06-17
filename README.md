@@ -7,7 +7,7 @@
 6/17 6:40-9:13: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation), ... (A.1.4 Re-evaluating the Analysis Plan)
 6/17 9:13-10:58: A.2 CellBench
 6/17 16:10-16:50: {"pull ups + Parallel Bar Dips": 200}
-6/17 19:10-: study the source code https://github.com/zou-group/CellVoyager
+6/17 19:10-22:44: study the source code https://github.com/zou-group/CellVoyager
 
 
 
