@@ -80,6 +80,10 @@ complete the whole paper: [CellVoyager: AI CompBio Agent Generates New Insights 
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
 
+## <p align="center"> *Eliminate the terminal illness before I get it.* </p>
+
+
+
 
 ## <p align="center"> *兄弟登山, 各自努力, 让我们在顶峰相聚* </p>
 
