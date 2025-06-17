@@ -71,6 +71,8 @@ complete the whole paper: [CellVoyager: AI CompBio Agent Generates New Insights 
 ## <p align="center"> *[中国航天飞行中队，五十岁以上的，出列！](https://www.bilibili.com/video/BV1CQFjeGEaZ/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
+## *记住,一所大学的名气和学术水平,很大程度上也是学生们拼出来,打出来的 !*
+## *Remember, a university's prestige and academic excellence are largely built and proven by the hard work and accomplishments of its students.*
 
 ## <p align="center"> *求实求真，大气大为* </p>
 
