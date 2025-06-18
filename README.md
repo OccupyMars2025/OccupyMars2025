@@ -10,7 +10,7 @@
 6/17 19:10-22:44: study the source code https://github.com/zou-group/CellVoyager, try to figure out how to run it
 
 
-2025/6/18, Wednesday: {"running": 0km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}
+2025/6/18, Wednesday: {"running": 0km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 100}
 6/18 7:19-: study the source code https://github.com/zou-group/CellVoyager
 
 
