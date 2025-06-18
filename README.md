@@ -7,11 +7,11 @@
 6/17 6:40-9:13: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation), ... (A.1.4 Re-evaluating the Analysis Plan)
 6/17 9:13-10:58: A.2 CellBench
 6/17 16:10-16:50: {"pull ups + Parallel Bar Dips": 200}
-6/17 19:10-22:44: study the source code https://github.com/zou-group/CellVoyager, try to figure out how to run it
+6/17 19:10-22:44: study the source code https://github.com/zou-group/CellVoyager, try to figure out how to run it(https://github.com/OccupyMars2025/CellVoyager/blob/my-playground/playground.ipynb)
 
 
 2025/6/18, Wednesday: {"running": 0km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 100}
-6/18 7:19-: study the source code https://github.com/zou-group/CellVoyager
+6/18 7:19-: study the source code https://github.com/zou-group/CellVoyager,  (https://github.com/OccupyMars2025/CellVoyager/blob/my-playground/playground.ipynb)
 
 
 complete the whole paper: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
