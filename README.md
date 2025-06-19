@@ -73,6 +73,8 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## *We're here to put a dent in the universe. Otherwise why else even be here?*
 
+## <p align="center"> *[不由己](https://www.bilibili.com/video/BV17FWCeKE8k/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
 ## <p align="center"> *[千百年之后 谁又还记得谁](https://www.bilibili.com/video/BV1ZD4y1274q/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 ## <p align="center"> *[元狩六年（前117年），霍去病病逝，年仅二十三岁。](https://baike.baidu.com/item/%E9%9C%8D%E5%8E%BB%E7%97%85/137234)* </p>
