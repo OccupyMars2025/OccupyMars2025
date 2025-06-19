@@ -71,6 +71,8 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## *人生如同白驹过隙，转瞬即逝，你所取得的一切成就荣耀,你所经历的一切失败,痛苦,磨难, 在你死后都将随风消散.在宇宙面前,你又算是什么?既然如此,何不痛痛快快活一场, 轰轰烈烈干一番事业, 不枉此生, 也就足够了*
 
+## *We're here to put a dent in the universe. Otherwise why else even be here?*
+
 ## <p align="center"> *[千百年之后 谁又还记得谁](https://www.bilibili.com/video/BV1ZD4y1274q/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 ## <p align="center"> *[元狩六年（前117年），霍去病病逝，年仅二十三岁。](https://baike.baidu.com/item/%E9%9C%8D%E5%8E%BB%E7%97%85/137234)* </p>
