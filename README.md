@@ -73,6 +73,8 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## *人生如同白驹过隙，转瞬即逝，你所取得的一切成就荣耀,你所经历的一切失败,痛苦,磨难, 在你死后都将随风消散.在宇宙面前,你又算是什么?既然如此,何不痛痛快快活一场, 轰轰烈烈干一番事业, 不枉此生, 也就足够了*
 
+## *You only live once, but if you do it right, once is enough.*
+
 ## *We're here to put a dent in the universe. Otherwise why else even be here?*
 
 ## <p align="center"> *Become the first human to set foot on Mars and immortalize your name among the greatest explorers of all time.* </p>
