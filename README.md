@@ -62,6 +62,7 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 ### https://github.com/scverse
 ### study UMAP (Uniform Manifold Approximation and Projection)
 ### https://github.com/chanzuckerberg/cellxgene
+### https://github.com/MCBRLab
 
 ---
 
