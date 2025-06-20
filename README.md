@@ -38,6 +38,7 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 ## <p align="center"> *2025/6/1 - 2025/9/1(6, 7, 8): Carefully study 45 research papers* </p>
 ## <p align="center"> *2025/6/1 - 2026/1/1(214 days): Carefully study 100 research papers* </p>
 ### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
+### [MEL Computational Biology Research Lab](https://space.bilibili.com/577881905)
 
 ## current progress: 0
 
