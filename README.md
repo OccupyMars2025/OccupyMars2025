@@ -17,7 +17,7 @@
 6/19 6:04-6:30:  run 5km in 25:08, Average Pace: 5:01/km
 6/19 7:20-19:20: study "class AnalysisAgent" (https://github.com/zou-group/CellVoyager)
 
-2025/6/20, Friday:  {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}
+2025/6/20, Friday:  {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 200}
 6/20 6:19-6:52:  run 5km in 32:24, Average Pace: 6:28/km
 6/20 7:58-: study "class AnalysisAgent" (https://github.com/zou-group/CellVoyager)
 
