@@ -85,9 +85,12 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## *We're here to put a dent in the universe. Otherwise why else even be here?*
 
+## <p align="center"> *开疆拓土, 天纵风华* </p>
+
 ## <p align="center"> *Become the first human to set foot on Mars and immortalize your name among the greatest explorers of all time.* </p>
 
 ## <p align="center"> *[千百年之后 谁又还记得谁](https://www.bilibili.com/video/BV1ZD4y1274q/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
 
 ## <p align="center"> *[元狩六年（前117年），霍去病病逝，年仅二十三岁。](https://baike.baidu.com/item/%E9%9C%8D%E5%8E%BB%E7%97%85/137234)* </p>
 ## *[同治二年（1863年）6月27日，石达开在成都公堂受审，慷慨陈词，大义凛然，令主审官崇实理屈词穷，无言以对。而后从容就义，临刑之际，神色怡然，身受凌迟酷刑，从始至终默然无声，享年32岁](https://baike.baidu.com/item/%E7%9F%B3%E8%BE%BE%E5%BC%80/368474)*
@@ -101,8 +104,11 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## <p align="center"> *求实求真，大气大为* </p>
 
+## <p align="center"> *立大志 明大德 成大才 担大任* </p>
+
+## <p align="center"> *Set lofty aspirations, uphold great virtue, cultivate great talent, shoulder great responsibilities.* </p>
+
 ## <p align="center"> *赢就要赢得光明磊落, 输更要输得光芒万丈 !* </p>
-## <p align="center"> *开疆拓土, 天纵风华* </p>
 ## <p align="center"> *干大事而惜身,见小利而忘命* </p>
 ## <p align="center"> *像卡卡罗特一样, 吃得香, 睡得死* </p>
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
