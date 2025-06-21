@@ -85,6 +85,8 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## *We're here to put a dent in the universe. Otherwise why else even be here?*
 
+## <p align="center"> *Make Humanity Great Again* </p>
+
 ## <p align="center"> *开疆拓土, 天纵风华* </p>
 
 ## <p align="center"> *Become the first human to set foot on Mars and immortalize your name among the greatest explorers of all time.* </p>
