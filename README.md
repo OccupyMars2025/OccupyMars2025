@@ -110,6 +110,11 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## <p align="center"> *Set lofty aspirations, uphold great virtue, cultivate great talent, shoulder great responsibilities.* </p>
 
+### *"Duty, Honor, Country": Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be. They are your rallying points: to build courage when courage seems to fail; to regain faith when there seems to be little cause for faith; to create hope when hope becomes forlorn.*
+
+## *"Ask not what your country can do for you—ask what you can do for your country."*
+
+
 ## <p align="center"> *赢就要赢得光明磊落, 输更要输得光芒万丈 !* </p>
 ## <p align="center"> *干大事而惜身,见小利而忘命* </p>
 ## <p align="center"> *像卡卡罗特一样, 吃得香, 睡得死* </p>
