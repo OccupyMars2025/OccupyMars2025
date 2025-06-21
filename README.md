@@ -23,6 +23,8 @@
 6/20 14:30-15:40 : Participate in the online public welfare seminar—"Observations and Reflections on the Application of AI in Clinical Drug Development"
 6/20 15:40-22:00 :  study "class AnalysisAgent", DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
 
+2025/6/21, Saturday: {"running": 0km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}
+9:46-: study "class AnalysisAgent", DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
 
 
 
