@@ -33,12 +33,11 @@
 2025/6/22: complete the whole paper and part of its source code: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)  To fully understand the source code, I need to dive deeper into key tools like Scanpy and scVI. For now, I’ve decided to pause my study of this paper (which I’ll consider completed) and return to my work on AlphaFold 3.
 
 6/22 12:16-19:30: 3.3 MSA Module (AlphaFold 3, https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07487-w/MediaObjects/41586_2024_7487_MOESM1_ESM.pdf)
-6/22 19:30-: 3.4 Triangle updates of the pair representation (AlphaFold 3)
+6/22 19:30-21:10: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
 
-
-
-
-
+2025/6/23, Monday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}
+6/23 6:18-6:42: run 5km in 22:55, Average Pace: 4:35/km
+6/23 : study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
 
 ```
 
