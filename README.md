@@ -29,12 +29,15 @@
 2025/6/22, Sunday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}
 6:42-7:10: run 5.25km in 28:39, Average Pace: 5:27/km
 8:00-10:45: DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
-10:45-: study "class AnalysisAgent" (https://github.com/zou-group/CellVoyager)
+
+2025/6/22: complete the whole paper and part of its source code: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)  To fully understand the source code, I need to dive deeper into key tools like Scanpy and scVI. For now, I’ve decided to pause my study of this paper (which I’ll consider completed) and return to my work on AlphaFold 3.
+
+6/22 12:16-: 3.3 MSA Module (AlphaFold 3, https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07487-w/MediaObjects/41586_2024_7487_MOESM1_ESM.pdf)
 
 
 
 
-complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)
+
 
 ```
 
@@ -51,7 +54,8 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 ### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 ### [MEL Computational Biology Research Lab](https://space.bilibili.com/577881905)
 
-## current progress: 0
+## current progress: 1 paper
+#### 2025/6/11 14:20- 6/22 10:45: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf) (Study of the paper's codebase is pending completion. I need to study the new tools Scanpy, scVI, etc)
 
 ---
 ## Goals 2025/6/1 - 2026/1/1 (214 days):
