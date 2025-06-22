@@ -88,7 +88,7 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 
 ## <p align="center"> *亿万年之后 谁又还记得谁* </p>
 
-## *人生如同白驹过隙，转瞬即逝，你所取得的一切成就荣耀,你所经历的一切失败,痛苦,磨难, 在你死后都将随风消散.在宇宙面前,你又算是什么?既然如此,何不痛痛快快活一场, 轰轰烈烈干一番事业, 不枉此生, 也就足够了*
+## *人生如同白驹过隙，转瞬即逝，你所取得的一切成就荣耀,你所经历的一切失败,痛苦,磨难, 在你死后都将随风消散.在宇宙面前,你又算是什么? 亿万年之后, 谁又还记得谁 ? 既然如此,何不痛痛快快活一场, 轰轰烈烈干一番事业, 不枉此生, 也就足够了*
 
 ## *You only live once, but if you do it right, once is enough.*
 
