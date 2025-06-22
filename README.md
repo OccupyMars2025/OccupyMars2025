@@ -127,7 +127,7 @@
 
 ## *"Ask not what your country can do for you—ask what you can do for your country."*
 
-
+## <p align="center"> *[We believe in the power of competition. Without a target you'll miss every time.](https://www.xprize.org/)* </p>
 ## <p align="center"> *赢就要赢得光明磊落, 输更要输得光芒万丈 !* </p>
 ## <p align="center"> *干大事而惜身,见小利而忘命* </p>
 ## <p align="center"> *像卡卡罗特一样, 吃得香, 睡得死* </p>
