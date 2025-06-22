@@ -85,6 +85,7 @@
 ![960px-Time_is_money,_Efficiency_is_life](https://github.com/user-attachments/assets/ac6eea06-fd3c-4f87-946b-1e250f7e2136)
 
 # <p align="center"> *[Universe](https://en.wikipedia.org/wiki/Universe)* </p>
+# <p align="center"> *Eliminate all terminal illnesses 2030* </p>
 # <p align="center"> *Create a Second Earth 2040* </p>
 # <p align="center"> *Conquer the Universe 2050* </p>
 ## <p align="center"> *To conquer the universe, we need to attain eternal life.* </p>
