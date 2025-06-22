@@ -26,7 +26,7 @@
 2025/6/21, Saturday: {"push ups + Mountain Climbers": 300}
 9:46-12:00: study "class AnalysisAgent", DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
 
-2025/6/22, Sunday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}
+2025/6/22, Sunday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}
 6:42-7:10: run 5.25km in 28:39, Average Pace: 5:27/km
 8:00-10:45: DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
 
