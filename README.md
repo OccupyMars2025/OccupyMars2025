@@ -101,6 +101,7 @@
 ## *We're here to put a dent in the universe. Otherwise why else even be here?*
 
 ## <p align="center"> *Make Humanity Great Again* </p>
+## <p align="center"> *The World Needs Heroes* </p>
 
 ## <p align="center"> *开疆拓土, 天纵风华* </p>
 
