@@ -80,6 +80,9 @@ complete the whole paper and its source code: [CellVoyager: AI CompBio Agent Gen
 ![960px-Time_is_money,_Efficiency_is_life](https://github.com/user-attachments/assets/ac6eea06-fd3c-4f87-946b-1e250f7e2136)
 
 ## <p align="center"> *To conquer the universe, we need to attain eternal life.* </p>
+## <p align="center"> *To conquer the universe, I need a physique as powerful as Goku's, along with his unyielding spirit and relentless determination.* </p>
+
+
 ## <p align="center"> *[Universe](https://en.wikipedia.org/wiki/Universe)* </p>
 
 ## <p align="center"> *亿万年之后 谁又还记得谁* </p>
