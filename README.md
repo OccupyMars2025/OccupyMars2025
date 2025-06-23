@@ -39,9 +39,12 @@
 6/22 12:16-19:30: 3.3 MSA Module (AlphaFold 3, https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07487-w/MediaObjects/41586_2024_7487_MOESM1_ESM.pdf)
 6/22 19:30-21:10: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
 
-2025/6/23, Monday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 22}
+2025/6/23, Monday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 22}
 6/23 6:18-6:42: run 5km in 22:55, Average Pace: 4:35/km
-6/23 8:02-: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
+6/23 8:02-18:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), I am a little confused by the implementation of "trunc_normal_init_"
+
+2025/6/24, Tuesday: {"running": rainy}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": }
+6/24 6:59-: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
 
 ```
 
