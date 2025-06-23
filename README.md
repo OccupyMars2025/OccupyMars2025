@@ -147,6 +147,7 @@
 ## <p align="center"> *兄弟登山, 各自努力, 让我们在顶峰相聚* </p>
 
 ## <p align="center"> *Done is better than perfect.* </p>
+## <p align="center"> *Keep it up, boys ! Fight ! Fight to the finish !* </p>
 
 ## <p align="center"> *Achieve small victories every hour* </p>
 
