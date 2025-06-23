@@ -161,8 +161,7 @@
 ### *A wild boar barged into the vegetable garden, eager to take a bite out of everything it saw.*
 ### *The messier your exploration, the richer the feast of knowledge you’ll uncover.*
 ### *Richard Feynmann — 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.'*
-
-
+## <p align="center"> *大考大玩、小考小玩、不考不玩* </p>
 
 ### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
