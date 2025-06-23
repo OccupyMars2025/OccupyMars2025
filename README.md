@@ -1,7 +1,7 @@
 # <p align="center"> *[Gaza genocide](https://en.wikipedia.org/wiki/Gaza_genocide)* </p>
 # <p align="center"> *[Gaza genocide](https://www.google.com/search?sca_esv=4443c35cc00d3ade&sxsrf=AE3TifO5XpH8Zw9fzXV-ItofLHPN4wySyA:1750659116523&q=gaza+genocide&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJjYuUnSkczEhozYdaq1wZrEheAY38UjnRKVLYFDREDmzxDQH5cf73Nv5SUwLly1WG2RRTz5Zp2Uvco3Dr76giEv7KoLdER8DerohCvE5WYq8IvfNQRQHkwcsZAmUfFI3CBSx3HjRSebGup2eLjFz8thpHIe2Q&sa=X&sqi=2&ved=2ahUKEwiZn4228YaOAxW8UvUHHWagEAUQtKgLKAF6BAgYEAE&biw=927&bih=540&dpr=2)* </p>
 
-# <p align="center"> *记住:你是靠自己的真本事在这世上混口饭吃,从来不是靠任何人的施舍!* </p>
+### <p align="center"> *记住:你是靠自己的真本事在这世上混口饭吃,从来不是靠任何人的施舍!* </p>
 
 ### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
 
