@@ -37,7 +37,7 @@
 
 2025/6/23, Monday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}
 6/23 6:18-6:42: run 5km in 22:55, Average Pace: 4:35/km
-6/23 : study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
+6/23 8:02-: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
 
 ```
 
