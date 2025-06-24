@@ -36,7 +36,7 @@
 
 2025/6/23, Monday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 22}
 6/23 6:18-6:42: run 5km in 22:55, Average Pace: 4:35/km
-6/23 8:02-18:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), I am a little confused by the implementation of "trunc_normal_init_"
+6/23 8:02-18:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), I am a little confused by the implementation of "trunc_normal_init_"(I get it now, this is actually very simple.)
 
 2025/6/24, Tuesday: {"running": rainy}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": }
 6/24 6:59-: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
