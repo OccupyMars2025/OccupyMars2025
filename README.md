@@ -1,7 +1,7 @@
 ### *Extroverted and cheerful individuals always adapt to new environments and embrace new challenges more easily than introverted ones.*
 
-## <p align="center"> *Achieve small victories every hour* </p>
-## <p align="center"> *The harder the task, the smaller your first step should be.* </p>
+### <p align="center"> *Achieve small victories every hour* </p>
+### <p align="center"> *The harder the task, the smaller your first step should be.* </p>
 
 
 ### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
