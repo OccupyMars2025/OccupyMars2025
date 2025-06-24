@@ -1,5 +1,9 @@
 ### *Extroverted and cheerful individuals always adapt to new environments and embrace new challenges more easily than introverted ones.*
 
+## <p align="center"> *Achieve small victories every hour* </p>
+## <p align="center"> *The harder the task, the smaller your first step should be.* </p>
+
+
 ### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
 
 ```
@@ -156,7 +160,6 @@
 ## <p align="center"> *Done is better than perfect.* </p>
 ## <p align="center"> *Keep it up, boys ! Fight ! Fight to the finish !* </p>
 
-## <p align="center"> *Achieve small victories every hour* </p>
 
 ### *Remember: You survive in this world by relying on your own genuine abilities—not by anyone’s charity!* 
 
