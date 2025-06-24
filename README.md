@@ -61,6 +61,7 @@
 ## <p align="center"> *2025/6/1 - 2026/1/1(214 days): Carefully study 100 research papers* </p>
 ### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 ### [MEL Computational Biology Research Lab](https://space.bilibili.com/577881905)
+### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
 ## current progress: 1 paper
 #### 2025/6/11 14:20- 6/22 10:45: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf) (Study of the paper's codebase is pending completion. I need to study the new tools Scanpy, scVI, etc)
@@ -175,8 +176,6 @@
 ### *The messier your exploration, the richer the feast of knowledge you’ll uncover.*
 ### *Richard Feynmann — 'Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.'*
 ## <p align="center"> *大考大玩、小考小玩、不考不玩* </p>
-
-### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
 ---
 ### Just 100 metres from the finishing line he forged ahead.
