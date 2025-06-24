@@ -94,6 +94,7 @@
 ![960px-Time_is_money,_Efficiency_is_life](https://github.com/user-attachments/assets/ac6eea06-fd3c-4f87-946b-1e250f7e2136)
 
 # <p align="center"> *[Universe](https://en.wikipedia.org/wiki/Universe)* </p>
+## <p align="center"> *Eliminate the terminal illness before I get it.* </p>
 
 # <p align="center"> *[Conquer ALS 2025](https://www.youtube.com/watch?v=SY--gmuyGTo)* </p>
 # <p align="center"> *Eliminate all terminal illnesses 2030* </p>
@@ -152,9 +153,6 @@
 ## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
-
-## <p align="center"> *Eliminate the terminal illness before I get it.* </p>
-
 
 
 
