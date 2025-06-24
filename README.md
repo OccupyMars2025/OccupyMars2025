@@ -67,7 +67,7 @@
 ## 6
 ## 7, 8
 ## 9, 10, 11, 12
-## [庞众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
+## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
 ## <p align="center"> *2025/6/1 - 2025/9/1(6, 7, 8): Carefully study 45 research papers* </p>
 ## <p align="center"> *2025/6/1 - 2026/1/1(214 days): Carefully study 100 research papers* </p>
