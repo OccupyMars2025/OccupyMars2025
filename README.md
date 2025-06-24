@@ -98,8 +98,11 @@
 
 
 ## <p align="center"> *亿万年之后 谁又还记得谁* </p>
+## <p align="center"> *Billions of years later, who will still remember whom ?* </p>
 
 ## *人生如同白驹过隙，转瞬即逝，你所取得的一切成就荣耀,你所经历的一切失败,痛苦,磨难, 在你死后都将随风消散.在宇宙面前,你又算是什么? 亿万年之后, 谁又还记得谁 ? 既然如此,何不痛痛快快活一场, 轰轰烈烈干一番事业, 不枉此生, 也就足够了*
+
+### *Life is as fleeting as a white steed’s shadow—gone in the blink of an eye. All the achievements and honors you’ve earned, all the failures, pain, and hardships you’ve endured, will vanish like dust in the wind after your death. In the face of the universe, what are you? Billions of years later, who will still remember whom? Since that’s the case, why not live boldly, pursue great endeavors passionately, and make this life truly worthwhile? That alone is enough.*
 
 ## *You only live once, but if you do it right, once is enough.*
 
