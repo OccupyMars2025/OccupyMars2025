@@ -13,6 +13,7 @@
 ---
 ### <p align="center"> *Go Navy ! Beat Army !* </p>
 ### <p align="center"> *Go Army ! Sink Navy !* </p>
+### <p align="center"> *competitive sport* </p>
 ### <p align="center"> *[Every Engineer is an Athlete](https://www.westpoint.edu/athletics)* </p>
 ### <p align="center"> *除了胜利一无所求,为了胜利一无所惜* </p>
 ### <p align="center"> *[Seek nothing but victory, spare nothing for victory.](https://www.westpoint.edu/athletics/intramurals)* </p>
