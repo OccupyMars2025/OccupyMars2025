@@ -1,4 +1,5 @@
 ### *Extroverted and cheerful individuals always adapt to new environments and embrace new challenges more easily than introverted ones.*
+### *Since you believe that your introverted personality has caused many setbacks and failures in your life, then actively change your personality!*
 
 ### <p align="center"> *Achieve small victories every hour* </p>
 ### <p align="center"> *The harder the task, the smaller your first step should be.* </p>
@@ -60,7 +61,7 @@
 6/24 6:59-16:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), study "LinearNoBias"
 
 
-2025/6/25, Wednesday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}
+2025/6/25, Wednesday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 0}
 6/25 8:00-: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
 
 
