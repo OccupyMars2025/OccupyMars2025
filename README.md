@@ -1,5 +1,8 @@
+### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
+
 ### *Extroverted and cheerful individuals always adapt to new environments and embrace new challenges more easily than introverted ones.*
 ### *Since you believe that your introverted personality has caused many setbacks and failures in your life, then actively change your personality!*
+### *Since you regard a weak body as an obstacle to your success, be proactive about exercising so you can build a strong, healthy physique.*
 
 ### <p align="center"> *Achieve small victories every hour* </p>
 ### <p align="center"> *The harder the task, the smaller your first step should be.* </p>
@@ -79,7 +82,7 @@ TODO: study [Association between resolved hepatitis B virus infection and depres
 
 ## <p align="center"> *2025/6/1 - 2025/9/1(6, 7, 8): Carefully study 45 research papers* </p>
 ## <p align="center"> *2025/6/1 - 2026/1/1(214 days): Carefully study 100 research papers* </p>
-### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
+
 ### [MEL Computational Biology Research Lab](https://space.bilibili.com/577881905)
 ### <p align="center"> *[At Harvard, knowledge enters my mind at a terrifying rate every day.](http://xhslink.com/a/jZMjaSoybOLdb)* </p>
 
