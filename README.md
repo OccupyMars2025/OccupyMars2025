@@ -4,6 +4,8 @@
 ### *Since you believe that your introverted personality has caused many setbacks and failures in your life, then actively change your personality!*
 ### *Since you regard a weak body as an obstacle to your success, be proactive about exercising so you can build a strong, healthy physique.*
 
+### *Root out every bad habit that has turned into a stumbling block on your road to success.*
+
 ### <p align="center"> *Achieve small victories every hour* </p>
 ### <p align="center"> *The harder the task, the smaller your first step should be.* </p>
 
