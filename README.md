@@ -100,6 +100,7 @@ TODO: study [Association between resolved hepatitis B virus infection and depres
 ---
 # TODO:
 ### https://github.com/zou-group/CellVoyager
+### https://github.com/ArcInstitute/state  (virtual cell model ???)
 ### https://github.com/Future-House/paper-qa
 ### https://www.futurehouse.org/
 ### study the latest work: https://x.com/FutureHouseSF
