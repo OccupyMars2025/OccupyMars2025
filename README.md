@@ -112,13 +112,13 @@ TODO: study [Association between resolved hepatitis B virus infection and depres
 ## <p align="center"> *[Time is Money, Efficiency is Life](https://en.wikipedia.org/wiki/Time_is_Money,_Efficiency_is_Life)* </p>
 ![960px-Time_is_money,_Efficiency_is_life](https://github.com/user-attachments/assets/ac6eea06-fd3c-4f87-946b-1e250f7e2136)
 
-# <p align="center"> *[Universe](https://en.wikipedia.org/wiki/Universe)* </p>
-# <p align="center"> *Eliminate the terminal illness before I get it.* </p>
+## <p align="center"> *[Universe](https://en.wikipedia.org/wiki/Universe)* </p>
+## <p align="center"> *Eliminate the terminal illness before I get it.* </p>
 
-# <p align="center"> *[Conquer ALS 2025](https://www.youtube.com/watch?v=SY--gmuyGTo)* </p>
-# <p align="center"> *Eliminate all terminal illnesses 2030* </p>
-# <p align="center"> *Create a Second Earth 2040* </p>
-# <p align="center"> *Conquer the Universe 2050* </p>
+## <p align="center"> *[Conquer ALS 2025](https://www.youtube.com/watch?v=SY--gmuyGTo)* </p>
+## <p align="center"> *Eliminate all terminal illnesses 2030* </p>
+## <p align="center"> *Create a Second Earth 2040* </p>
+## <p align="center"> *Conquer the Universe 2050* </p>
 ## <p align="center"> *To conquer the universe, we need to attain eternal life.* </p>
 ## <p align="center"> *To conquer the universe, I need a physique as powerful as Goku's, along with his unyielding spirit and relentless determination.* </p>
 
