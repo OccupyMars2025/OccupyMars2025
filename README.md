@@ -11,7 +11,11 @@
 
 
 ---
-### <p align="center"> *Every Engineer is an Athlete* </p>
+### <p align="center"> *[Every Engineer is an Athlete](https://www.westpoint.edu/athletics)* </p>
+### <p align="center"> *除了胜利一无所求,为了胜利一无所惜* </p>
+### <p align="center"> *[Seek nothing but victory, spare nothing for victory.](https://www.westpoint.edu/athletics/intramurals)* </p>
+### <p align="center"> *[Developing Warrior Leaders of Character](https://www.westpoint.edu/athletics/physical-program)* </p>
+
 #### Just 100 metres from the finishing line he forged ahead.
 #### In order to be able to do 100 consecutive pull-ups, you need to train yourself to hang on the bar for as long as possible.
 ### newest personal records
