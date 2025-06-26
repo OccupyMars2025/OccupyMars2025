@@ -80,7 +80,7 @@
 6/25 8:00-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
 
 
-2025/6/26, Thursday: {"running": 0km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}
+2025/6/26, Thursday: {"running": 0km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 0}
 6/26 9:54-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
 
 
