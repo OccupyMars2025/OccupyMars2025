@@ -77,7 +77,11 @@
 
 
 2025/6/25, Wednesday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 200}, {"Cartwheel Count": 0}
-6/25 8:00-: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
+6/25 8:00-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
+
+
+2025/6/26, Thursday: {"running": 0km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}
+6/26 9:54-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
 
 
 TODO: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
