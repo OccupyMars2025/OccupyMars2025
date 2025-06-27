@@ -8,6 +8,8 @@
 ## <p align="center"> *拥有强悍的身体素质* </p>
 ### <p align="center"> *Once you build a powerful physique through hard training, with such strength and determination, what can’t you achieve ?* </p>
 
+### [Oriental Witches](https://en.wikipedia.org/wiki/Oriental_Witches)
+### ["When the term ‘devil coach’ is mentioned, many think of German football manager Felix Magath, who was infamous for his merciless physical training regimens. Norwegian striker Jan Åge Fjørtoft once remarked on Magath’s extreme training demands: ‘I don’t know if Magath could have saved the Titanic, but if he had been aboard, every passenger would have survived—by swimming all the way back to Southampton.’"](https://www.163.com/sports/article/GNHVP7N200059A81.html)
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
 
 ### 明天干什么? 拯救地球,你干得来吗! 继续训练!
