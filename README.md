@@ -5,7 +5,7 @@
 
 ### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
-### <p align="center"> *拥有强悍的身体素质* </p>
+## <p align="center"> *拥有强悍的身体素质* </p>
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
 
 ### 明天干什么? 拯救地球,你干得来吗! 继续训练!
