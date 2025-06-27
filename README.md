@@ -6,6 +6,8 @@
 ### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ## <p align="center"> *拥有强悍的身体素质* </p>
+### <p align="center"> *Once you build a powerful physique through hard training, with such strength and determination, what can’t you achieve ?* </p>
+
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
 
 ### 明天干什么? 拯救地球,你干得来吗! 继续训练!
@@ -41,7 +43,7 @@
 #### feat: 2025/6/5,  40 pull-ups in a row
 #### feat: 2025/6/5,  60 Five-Finger Push-Ups in a row(All five fingers of each hand are spread and bear the weight. You perform a push-up with only your fingers touching the ground (instead of your palms))
 #### feat: 2025/6/24, 130 push-ups in a row (using push up bars)
-#### 2025/6/27, "abdominal roll around the bar": 20 (Rest on the ground after finishing each abdominal rotation on the bar.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
+#### feat: 2025/6/27, "abdominal roll around the bar": 20 (Rest on the ground after finishing each abdominal rotation on the bar.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
 
 ---
 
