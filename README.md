@@ -1,4 +1,9 @@
-### 2025 Goal: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
+## 6
+## 7, 8
+## 9, 10, 11, 12
+## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
+
+### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
 
@@ -102,10 +107,6 @@ TODO: study [Association between resolved hepatitis B virus infection and depres
 
 ---
 
-## 6
-## 7, 8
-## 9, 10, 11, 12
-## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
 ## <p align="center"> *2025/6/1 - 2025/9/1(6, 7, 8): Carefully study 45 research papers* </p>
 ## <p align="center"> *2025/6/1 - 2026/1/1(214 days): Carefully study 100 research papers* </p>
