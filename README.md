@@ -41,7 +41,7 @@
 #### feat: 2025/6/5,  40 pull-ups in a row
 #### feat: 2025/6/5,  60 Five-Finger Push-Ups in a row(All five fingers of each hand are spread and bear the weight. You perform a push-up with only your fingers touching the ground (instead of your palms))
 #### feat: 2025/6/24, 130 push-ups in a row (using push up bars)
-#### 2025/6/26, "abdominal roll around the bar": 6 (This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
+#### 2025/6/27, "abdominal roll around the bar": 20 (Rest on the ground after finishing each abdominal rotation on the bar.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
 
 ---
 
@@ -96,7 +96,7 @@
 2025/6/26, Thursday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 6}
 6/26 9:54-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
 
-2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
+2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 20(I feel a bit dizzy.)}
 6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
 6/27 8:02-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
