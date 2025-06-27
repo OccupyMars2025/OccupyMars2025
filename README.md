@@ -82,7 +82,11 @@
 
 
 2025/6/26, Thursday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 6}
-6/26 9:54-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
+6/26 9:54-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
+
+2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
+6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
+6/27 8:02-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
 
 TODO: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
