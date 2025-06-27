@@ -5,6 +5,8 @@
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
 
+### <p align="center"> *Achieve small victories every hour* </p>
+
 ### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 
 ### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
@@ -26,7 +28,6 @@
 
 ### *Root out every bad habit that has turned into a stumbling block on your road to success.*
 
-### <p align="center"> *Achieve small victories every hour* </p>
 ### <p align="center"> *The harder the task, the smaller your first step should be.* </p>
 
 
