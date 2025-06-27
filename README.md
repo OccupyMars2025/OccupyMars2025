@@ -4,6 +4,9 @@
 ## 9, 10, 11, 12
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
+
+### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
+
 ### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
@@ -16,8 +19,6 @@
 ### [Oriental Witches](https://en.wikipedia.org/wiki/Oriental_Witches)
 ### ["When the term ‘devil coach’ is mentioned, many think of German football manager Felix Magath, who was infamous for his merciless physical training regimens. Norwegian striker Jan Åge Fjørtoft once remarked on Magath’s extreme training demands: ‘I don’t know if Magath could have saved the Titanic, but if he had been aboard, every passenger would have survived—by swimming all the way back to Southampton.’"](https://www.163.com/sports/article/GNHVP7N200059A81.html)
 
-
-### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 
 ### *Extroverted and cheerful individuals always adapt to new environments and embrace new challenges more easily than introverted ones.*
 ### *Since you believe that your introverted personality has caused many setbacks and failures in your life, then actively change your personality!*
