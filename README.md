@@ -1,3 +1,7 @@
+### 你这不是把自己宠坏了吗? 别太把自己当回事了.
+
+### 明天干什么? 拯救地球,你干得来吗! 继续训练!
+
 ### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 
 ### *Extroverted and cheerful individuals always adapt to new environments and embrace new challenges more easily than introverted ones.*
