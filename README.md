@@ -9,21 +9,24 @@
 ## <p align="center"> *拥有强悍的身体素质* </p>
 
 
-#### 我这不是把自己宠坏了吗? 别太把自己当回事了.
-#### 明天干什么? 拯救地球,你干得来吗! 继续训练!
-#### 从那以后,所有人表面上都服从了屠夫, 心里却都在想着:不能输
+### 我这不是把自己宠坏了吗? 别太把自己当回事了.
+### 明天干什么? 拯救地球,你干得来吗! 继续训练!
+### 从那以后,所有人表面上都服从了屠夫, 心里却都在想着:不能输
 
-#### 白马饰金羁，连翩西北驰。
-#### 借问谁家子？幽并游侠儿。
-#### 少小去乡邑，扬声沙漠垂。
-#### 宿昔秉良弓，楛矢何参差！
-#### 控弦破左的，右发摧月支。
-#### 仰手接飞猱，俯身散马蹄。
-#### 狡捷过猴猿，勇剽若豹螭。
-#### 这位雄姿英发, 身手矫健的青年是你吗? 对绝大多数人而言, 不是你的态度问题,而是你的能力问题.你根本没有这个能力.  在你还没有这个能力时,你的态度无足轻重.
+### 白马饰金羁，连翩西北驰。
+### 借问谁家子？幽并游侠儿。
+### 少小去乡邑，扬声沙漠垂。
+### 宿昔秉良弓，楛矢何参差！
+### 控弦破左的，右发摧月支。
+### 仰手接飞猱，俯身散马蹄。
+### 狡捷过猴猿，勇剽若豹螭。
+### 这位雄姿英发, 身手矫健的青年是你吗? 对绝大多数人而言, 不是你的态度问题,而是你的能力问题.你根本没有这个能力.  在你还没有这个能力时,你的态度无足轻重.
 
 ### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
 ### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
+### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row
+
+
 ### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ### <p align="center"> *Achieve small victories every hour* </p>
