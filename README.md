@@ -8,8 +8,8 @@
 ## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
 ## <p align="center"> *拥有强悍的身体素质* </p>
 ## <p align="center"> *脱胎换骨* </p>
-### 这世上最简单的事情莫过于 "坚持每天锻炼身体". 如果你连 "坚持每天锻炼身体" 这么简单的事情都做不好, 那你这辈子还能干啥?
-### "The easiest thing in this world is undoubtedly 'sticking to daily exercise.' If you can't even manage something as simple as 'sticking to daily exercise,' what else could you possibly accomplish in your life?"
+### 这世上最简单的事情莫过于 "坚持每天锻炼身体 + 不吃任何零食". 如果你连这么简单的事情都做不好, 那你这辈子还能干啥?
+### "The easiest thing in the world is sticking to daily exercise and cutting out all snacks. If you can't even manage something this simple, what else can you possibly achieve in your life?"
 
 ---
 
