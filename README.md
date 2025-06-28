@@ -7,7 +7,7 @@
 
 ### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
 ### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
-### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row, do 10 muscle-ups in a row
+### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row, do 10 muscle-ups in a row, do 200 mountain climbers in a row
 
 
 ### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
