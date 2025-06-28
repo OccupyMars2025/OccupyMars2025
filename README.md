@@ -5,6 +5,18 @@
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
+## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
+## <p align="center"> *拥有强悍的身体素质* </p>
+
+
+### 我这不是把自己宠坏了吗? 别太把自己当回事了.
+### 明天干什么? 拯救地球,你干得来吗! 继续训练!
+### 从那以后,所有人表面上都服从了屠夫, 心里却都在想着:不能输
+
+
+### 2025/6/1 - 9/1 (6, 7, 8): 经过这三个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
+### 2025/6/1 - 9/1 (6, 7, 8): After these three months of special training, I demand that your physical fitness undergoes a complete transformation during this period.
+### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ### <p align="center"> *Achieve small victories every hour* </p>
 
@@ -15,14 +27,9 @@
 ### "Wait a second, let me do one more push-up, then I’ll stop."
 ### "Wait a second, let me read one more sentence, then I’ll stop."
 
-### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
-### 我这不是把自己宠坏了吗? 别太把自己当回事了.
-### 明天干什么? 拯救地球,你干得来吗! 继续训练!
-### 从那以后,所有人表面上都服从了屠夫, 心里却都在想着:不能输
 
-## <p align="center"> *拥有强悍的身体素质* </p>
-## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
+
 ### <p align="center"> *Once you build a powerful physique through hard training, with such strength and determination, what can’t you achieve ?* </p>
 
 ### [Oriental Witches](https://en.wikipedia.org/wiki/Oriental_Witches)
