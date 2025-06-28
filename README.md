@@ -18,10 +18,11 @@
 ### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
-
 ### 明天干什么? 拯救地球,你干得来吗! 继续训练!
+### 从那以后,所有人表面上都服从了屠夫, 心里却都在想着:不能输
 
 ## <p align="center"> *拥有强悍的身体素质* </p>
+## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
 ### <p align="center"> *Once you build a powerful physique through hard training, with such strength and determination, what can’t you achieve ?* </p>
 
 ### [Oriental Witches](https://en.wikipedia.org/wiki/Oriental_Witches)
