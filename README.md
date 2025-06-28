@@ -7,6 +7,9 @@
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
 ## <p align="center"> *[强者为尊应让我, 英雄只此敢争先](https://www.bilibili.com/video/BV1te411C7Hz/?vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
+## <p align="center"> *没有强悍的身体素质,你就不可能拥有强大的精神力量,你就不可能成就任何伟大的事业* </p>
+## <p align="center"> *"Without a powerful physique, you cannot possess strong willpower, and you cannot achieve any great undertaking."* </p>
+
 ## <p align="center"> *拥有强悍的身体素质* </p>
 
 ## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
