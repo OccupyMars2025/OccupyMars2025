@@ -5,6 +5,15 @@
 ## 9, 10, 11, 12
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
+### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
+### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
+### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row, do 10 muscle-ups in a row
+
+
+### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
+
+
+
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
 ### <p align="center"> *有的人以他的母校为荣, 有的人能让他的母校以他为荣* </p>
 ### <p align="center"> *"Some people take pride in their alma mater; some people enable their alma mater to take pride in them."* </p>
@@ -56,12 +65,6 @@
 
 #### "Tens of millions of sedentary spectators watch a few exhausted athletes competing on the field. This is not the true meaning of competitive sports. Competitive sports should inspire everyone to step onto the field, exercise themselves, and develop strong physiques like athletes. To be honest, with your current physical condition, you really can't compare to female athletes on the field."
 
-### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
-### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
-### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row
-
-
-### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ### <p align="center"> *Achieve small victories every hour* </p>
 
