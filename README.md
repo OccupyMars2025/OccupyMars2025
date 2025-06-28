@@ -1,4 +1,6 @@
 ## 啥成果都没有,你在嘚瑟个啥 ? 我要的是成果 ! 成果 ! 成果 !
+## "You haven't achieved anything—what are you so proud of? I need results, damn it! RESULTS! Not your damn ego trip!"
+
 ## ~27,~ 28, 29, 30
 ## 6
 ## 7, 8
