@@ -115,13 +115,13 @@
 6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
 6/27 8:02-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
-2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
+2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers":200}, {"Cartwheel Count": 33}, {"abdominal roll around the bar": 0}
 6/28 6:22-6:45: run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
 6/28 7:55-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
 
 
-TODO: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
+TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
 
 ```
 
