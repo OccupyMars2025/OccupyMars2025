@@ -23,10 +23,10 @@
 ### 控弦破左的，右发摧月支。
 ### 仰手接飞猱，俯身散马蹄。
 ### 狡捷过猴猿，勇剽若豹螭。
-### 这位雄姿英发, 威风凛凛, 身手矫健的青年是你吗? 对绝大多数人而言, 不是你的态度问题,而是你的能力问题.你根本没有这个能力.  在你还没有这个能力时,你的态度无足轻重.
+### 这位雄姿英发, 威风凛凛, 气宇轩昂, 身手矫健的青年是你吗? 对绝大多数人而言, 不是你的态度问题,而是你的能力问题.你根本没有这个能力.  在你还没有这个能力时,你的态度无足轻重.
 ### "Is this majestic, heroic, and nimble young man really you? For the vast majority of people, it’s not an issue of your attitude—it’s an issue of your ability. You simply don’t have the required ability. Until you develop that ability, your attitude is insignificant."
 
-### "雄姿英发, 威风凛凛, 身手矫健", 这几个词,这辈子跟你无缘了,是吧?
+### "雄姿英发, 威风凛凛, 气宇轩昂, 身手矫健", 这几个词,这辈子跟你无缘了,是吧?
 ### 委靡不振, 身体虚弱, 胆小如鼠, 举止猥琐, 鄙陋卑劣, 大腹便便, 脑满肠肥
 
 ### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
