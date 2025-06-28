@@ -13,7 +13,10 @@
 ## <p align="center"> *拥有强悍的身体素质* </p>
 
 ## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
+## <p align="center"> *[风雨彩虹，铿锵玫瑰 !](https://www.bilibili.com/video/BV1mg411v7HK/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 ## <p align="center"> *You simply don’t have the required ability.* </p> 
+
+---
 
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
 ### 明天干什么? 拯救地球,你干得来吗! 继续训练!
@@ -31,6 +34,19 @@
 
 ### "雄姿英发, 威风凛凛, 气宇轩昂, 身手矫健", 这几个词,这辈子跟你无缘了,是吧?
 ### 委靡不振, 身体虚弱, 胆小如鼠, 举止猥琐, 鄙陋卑劣, 大腹便便, 脑满肠肥
+
+---
+
+### 一切美好只是昨日沉醉
+### 淡淡苦涩才是今天滋味
+### 想想明天又是日晒风吹
+### 再苦再累无惧无畏
+### 身上的痛让我难以入睡
+### 脚下的路还有更多的累
+### 追逐梦想总是百转千回
+### 无怨无悔从容面对
+
+#### "Tens of millions of sedentary spectators watch a few exhausted athletes competing on the field. This is not the true meaning of competitive sports. Competitive sports should inspire everyone to step onto the field, exercise themselves, and develop strong physiques like athletes. To be honest, with your current physical condition, you really can't compare to female athletes on the field."
 
 ### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
 ### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
