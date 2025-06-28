@@ -7,7 +7,7 @@
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
 ## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
 ## <p align="center"> *拥有强悍的身体素质* </p>
-
+## <p align="center"> *You simply don’t have the required ability.* </p> 
 
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
 ### 明天干什么? 拯救地球,你干得来吗! 继续训练!
