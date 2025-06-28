@@ -5,6 +5,9 @@
 ## 9, 10, 11, 12
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
+## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
+## <p align="center"> *拥有强悍的身体素质* </p>
+
 ### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
 ### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
 ### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row, do 10 muscle-ups in a row, do 200 mountain climbers in a row
@@ -27,9 +30,7 @@
 ## <p align="center"> *没有强悍的身体素质,你就不可能拥有强大的精神力量,你就不可能成就任何伟大的事业* </p>
 ## <p align="center"> *"Without a powerful physique, you cannot possess strong willpower, and you cannot achieve any great undertaking."* </p>
 
-## <p align="center"> *拥有强悍的身体素质* </p>
 
-## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
 ## <p align="center"> *[风雨彩虹，铿锵玫瑰 !](https://www.bilibili.com/video/BV1mg411v7HK/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 ## <p align="center"> *You simply don’t have the required ability.* </p> 
 
