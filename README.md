@@ -224,6 +224,7 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 ### study UMAP (Uniform Manifold Approximation and Projection)
 ### https://github.com/chanzuckerberg/cellxgene
 ### https://github.com/MCBRLab
+### https://github.com/langchain-ai/langchain
 
 ---
 
