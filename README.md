@@ -10,6 +10,11 @@
 
 ### *When you read a book, a paper or source code, you are communicating with the brightest minds in human history. This is actually the most "effective" way to communicate. This is also the quickest path to success.*
 
+### "Wait a second, let me run two more steps, then I’ll stop."
+### "Wait a second, let me do one more pull-up, then I’ll stop."
+### "Wait a second, let me do one more push-up, then I’ll stop."
+### "Wait a second, let me read one more sentence, then I’ll stop."
+
 ### 2025 Goal(2025/6/1 - 2025/12/31): Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
@@ -45,9 +50,9 @@
 #### Just 100 metres from the finishing line he forged ahead.
 #### In order to be able to do 100 consecutive pull-ups, you need to train yourself to hang on the bar for as long as possible.
 ### newest personal records
-#### feat: 2025/6/17,  run 5km in 22:50, Average Pace: 4:34/km 
+#### feat: 2025/6/28, run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
+#### feat: 2025/6/28, fastest 1 km pace:  4:02
 #### 2025/6/1 6:09-8:21: run a half marathon in 1:51:53
-#### feat: 2025/6/7,  run 5km in 22:59
 #### feat: 2025/6/5,  40 pull-ups in a row
 #### feat: 2025/6/5,  60 Five-Finger Push-Ups in a row(All five fingers of each hand are spread and bear the weight. You perform a push-up with only your fingers touching the ground (instead of your palms))
 #### feat: 2025/6/24, 130 push-ups in a row (using push up bars)
@@ -108,7 +113,12 @@
 
 2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 300}, {"push ups + Mountain Climbers": 100}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 41(I feel a bit dizzy.)}
 6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
-6/27 8:02-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
+6/27 8:02-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
+
+2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
+6/28 6:22-6:45: run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
+6/28 7:55-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
+
 
 
 TODO: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
