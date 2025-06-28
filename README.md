@@ -7,6 +7,7 @@
 ## 9, 10, 11, 12
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
+## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
 ## <p align="center"> *拥有强悍的身体素质* </p>
 ## <p align="center"> *脱胎换骨* </p>
@@ -298,7 +299,6 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 ## <p align="center"> *赢就要赢得光明磊落, 输更要输得光芒万丈 !* </p>
 ## <p align="center"> *干大事而惜身,见小利而忘命* </p>
 ## <p align="center"> *像卡卡罗特一样, 吃得香, 睡得死* </p>
-## <p align="center"> *欲文明其精神，先自野蛮其体魄* </p>
 ## <p align="center"> *Swimming across the Pacific Ocean* </p>
 ## <p align="center"> *Swimming across the Arctic Ocean* </p>
 
