@@ -8,11 +8,14 @@
 ## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
 ## <p align="center"> *拥有强悍的身体素质* </p>
 ## <p align="center"> *脱胎换骨* </p>
+### 这世上最简单的事情莫过于 "坚持每天锻炼身体". 如果你连 "坚持每天锻炼身体" 这么简单的事情都做不好, 那你这辈子还能干啥?
+### "The easiest thing in this world is undoubtedly 'sticking to daily exercise.' If you can't even manage something as simple as 'sticking to daily exercise,' what else could you possibly accomplish in your life?"
+
+---
 
 ### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
 ### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
 ### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row, do 10 muscle-ups in a row, do 200 mountain climbers in a row
-
 
 ### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
