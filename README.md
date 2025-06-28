@@ -5,8 +5,11 @@
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
-## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
+## <p align="center"> *[强者为尊应让我, 英雄只此敢争先](https://www.bilibili.com/video/BV1te411C7Hz/?vd_source=ca461cbebf465923c42455295302af8f)* </p>
+
 ## <p align="center"> *拥有强悍的身体素质* </p>
+
+## <p align="center"> *流血流汗不流泪, 掉皮掉肉不掉队* </p>
 ## <p align="center"> *You simply don’t have the required ability.* </p> 
 
 ### 我这不是把自己宠坏了吗? 别太把自己当回事了.
