@@ -13,6 +13,9 @@
 ## <p align="center"> *脱胎换骨* </p>
 ### 这世上最简单的事情莫过于 "坚持每天锻炼身体 + 不吃任何零食". 如果你连这么简单的事情都做不好, 那你这辈子还能干啥?
 ### "The easiest thing in the world is sticking to daily exercise and cutting out all snacks. If you can't even manage something this simple, what else can you possibly achieve in your life?"
+### 我这不是把自己宠坏了吗? 别太把自己当回事了.
+### 明天干什么? 拯救地球,你干得来吗! 继续训练!
+### 从那以后,所有人表面上都服从了屠夫, 心里却都在想着:不能输
 
 ---
 
@@ -43,9 +46,6 @@
 
 ---
 
-### 我这不是把自己宠坏了吗? 别太把自己当回事了.
-### 明天干什么? 拯救地球,你干得来吗! 继续训练!
-### 从那以后,所有人表面上都服从了屠夫, 心里却都在想着:不能输
 
 ### 白马饰金羁，连翩西北驰。
 ### 借问谁家子？幽并游侠儿。
