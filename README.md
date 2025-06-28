@@ -1,3 +1,4 @@
+## 啥成果都没有,你在嘚瑟个啥 ? 我要的是成果 ! 成果 ! 成果 !
 ## ~27,~ 28, 29, 30
 ## 6
 ## 7, 8
@@ -167,7 +168,7 @@
 6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
 6/27 8:02-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
-2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers":200}, {"Cartwheel Count": 33}, {"abdominal roll around the bar": 0}
+2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 100}, {"push ups + Mountain Climbers":200}, {"Cartwheel Count": 33}, {"abdominal roll around the bar": 20}
 6/28 6:22-6:45: run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
 6/28 7:55-: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
