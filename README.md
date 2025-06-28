@@ -5,6 +5,9 @@
 ## [庞众望: 不负众望](https://baijiahao.baidu.com/s?id=1834641092455296655)
 
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
+### *记住,一所大学的名气和学术水平,很大程度上也是学生们拼出来,打出来的 !*
+### *Remember, a university's prestige and academic excellence are largely built and proven by the hard work and accomplishments of its students.*
+
 ## <p align="center"> *[强者为尊应让我, 英雄只此敢争先](https://www.bilibili.com/video/BV1te411C7Hz/?vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 ## <p align="center"> *没有强悍的身体素质,你就不可能拥有强大的精神力量,你就不可能成就任何伟大的事业* </p>
@@ -238,7 +241,20 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 ## <p align="center"> *Make Humanity Great Again* </p>
 ## <p align="center"> *The World Needs Heroes* </p>
 
-## <p align="center"> *开疆拓土, 天纵风华* </p>
+## <p align="center"> *夷平六国是谁* </p>
+## <p align="center"> *哪个统一称霸* </p>
+## <p align="center"> *谁人战绩高过孤家* </p>
+
+## <p align="center"> *秦是始* </p>
+## <p align="center"> *人在此* </p>
+## <p align="center"> *夺了万世潇洒* </p>
+
+## <p align="center"> *顽石刻* </p>
+## <p align="center"> *存汗青* </p>
+## <p align="center"> *传颂我如何叱咤* </p>
+
+
+## <p align="center"> *[开疆拓土, 天纵风华](https://www.bilibili.com/video/BV1xQ4y1Q7sr/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 ## <p align="center"> *Become the first human to set foot on Mars and immortalize your name among the greatest explorers of all time.* </p>
 
@@ -251,8 +267,7 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 
 ## <p align="center"> *[中国航天飞行中队，五十岁以上的，出列！](https://www.bilibili.com/video/BV1CQFjeGEaZ/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
-## *记住,一所大学的名气和学术水平,很大程度上也是学生们拼出来,打出来的 !*
-## *Remember, a university's prestige and academic excellence are largely built and proven by the hard work and accomplishments of its students.*
+
 
 ## <p align="center"> *求实求真，大气大为* </p>
 
