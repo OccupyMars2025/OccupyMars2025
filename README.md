@@ -6,6 +6,9 @@
 
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
 ### <p align="center"> *有的人以他的母校为荣, 有的人能让他的母校以他为荣* </p>
+### <p align="center"> *"Some people take pride in their alma mater; some people enable their alma mater to take pride in them."* </p>
+
+
 ### *记住,一所大学的名气和学术水平,很大程度上也是学生们拼出来,打出来的 !*
 ### *Remember, a university's prestige and academic excellence are largely built and proven by the hard work and accomplishments of its students.*
 
