@@ -15,7 +15,7 @@
 ## <p align="center"> *脱胎换骨* </p>
 
 
-### “With such a frail body, how could you really withstand interstellar travel?”
+### With such a frail body, how could you possibly withstand interstellar travel?
 
 ### 人在苦修得道之后，就能脱去凡胎，换去俗骨而成仙骨
 ### 这世上最简单的事情莫过于 "坚持每天锻炼身体 + 不吃任何零食". 如果你连这么简单的事情都做不好, 那你这辈子还能干啥?
