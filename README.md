@@ -228,6 +228,7 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 ### https://github.com/chanzuckerberg/cellxgene
 ### https://github.com/MCBRLab
 ### https://github.com/langchain-ai/langchain
+### [2025/6/27: Can AI build a virtual cell? Scientists race to model life’s smallest unit](https://www.nature.com/articles/d41586-025-02011-0)
 
 ---
 
