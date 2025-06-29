@@ -43,6 +43,7 @@
 
 ## <p align="center"> *[风雨彩虹，铿锵玫瑰 !](https://www.bilibili.com/video/BV1mg411v7HK/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 ## <p align="center"> *You simply don’t have the required ability.* </p> 
+## <p align="center"> *[真的汉子](https://www.bilibili.com/video/BV1Cs41187sJ/?spm_id_from=333.337.search-card.all.click&vd_source=ca461cbebf465923c42455295302af8f)* </p>
 
 ---
 
@@ -118,6 +119,7 @@
 #### feat: 2025/6/28, fastest 1 km pace:  4:02
 #### 2025/6/1 6:09-8:21: run a half marathon in 1:51:53
 #### feat: 2025/6/5,  40 pull-ups in a row
+#### feat: 2025/6/29, 120 Mountain Climbers in a row
 #### feat: 2025/6/5,  60 Five-Finger Push-Ups in a row(All five fingers of each hand are spread and bear the weight. You perform a push-up with only your fingers touching the ground (instead of your palms))
 #### feat: 2025/6/29, 150 push-ups in a row (using push up bars)
 #### feat: 2025/6/27, "abdominal roll around the bar": 41 (Rest on the ground after finishing each abdominal rotation on the bar.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
@@ -184,7 +186,7 @@
 6/28 7:55-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
 
-2025/6/29, Sunday: {"running": "It's pouring rain today"}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 150}, {"Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
+2025/6/29, Sunday: {"running": "It's pouring rain today"}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 150}, {"Mountain Climbers": 120}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
 6/29 6:23-: try to successfully run the project code from start to finish without errors.(https://github.com/bytedance/Protenix)
 
 
