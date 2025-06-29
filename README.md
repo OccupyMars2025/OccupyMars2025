@@ -277,6 +277,8 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 
 ## <p align="center"> *Make Humanity Great Again* </p>
 ## <p align="center"> *The World Needs Heroes* </p>
+## <p align="center"> *The World Needs Pioneers* </p>
+
 
 ## <p align="center"> *夷平六国是谁* </p>
 ## <p align="center"> *哪个统一称霸* </p>
