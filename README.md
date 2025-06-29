@@ -1,7 +1,9 @@
 ## 啥成果都没有,你在嘚瑟个啥 ? 我要的是成果 ! 成果 ! 成果 !
 ## "You haven't achieved anything—what are you so proud of? I need results, damn it! RESULTS! Not your damn ego trip!"
 
-## ~27,~ 28, 29, 30
+## ~27, 28,~ 29, 30
+## 1, 2, 3, 4, 5
+---
 ## 6
 ## 7, 8
 ## 9, 10, 11, 12
@@ -25,7 +27,92 @@
 
 ### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
+---
 
+#### Just 100 metres from the finishing line he forged ahead.
+#### In order to be able to do 100 consecutive pull-ups, you need to train yourself to hang on the bar for as long as possible.
+### newest personal records
+#### feat: 2025/6/28, run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
+#### feat: 2025/6/28, fastest 1 km pace:  4:02
+#### 2025/6/1 6:09-8:21: run a half marathon in 1:51:53
+#### feat: 2025/6/5,  40 pull-ups in a row
+#### feat: 2025/6/29, 120 Mountain Climbers in a row
+#### feat: 2025/6/5,  60 Five-Finger Push-Ups in a row(All five fingers of each hand are spread and bear the weight. You perform a push-up with only your fingers touching the ground (instead of your palms))
+#### feat: 2025/6/29, 150 push-ups in a row (using push up bars)
+#### feat: 2025/6/27, "abdominal roll around the bar": 41 (Rest on the ground after finishing each abdominal rotation on the bar.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
+
+---
+
+### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
+
+```
+2025/6/17, Tuesday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 100}
+6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km
+6/17 6:40-9:13: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation), ... (A.1.4 Re-evaluating the Analysis Plan)
+6/17 9:13-10:58: A.2 CellBench
+6/17 16:10-16:50: {"pull ups + Parallel Bar Dips": 200}
+6/17 19:10-22:44: study the source code https://github.com/zou-group/CellVoyager, try to figure out how to run it
+
+
+2025/6/18, Wednesday: {"running": rainy}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 100}
+6/18 7:19-22:20: study the source code https://github.com/zou-group/CellVoyager,
+
+2025/6/19, Thursday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}
+6/19 6:04-6:30:  run 5km in 25:08, Average Pace: 5:01/km
+6/19 7:20-19:20: study "class AnalysisAgent" (https://github.com/zou-group/CellVoyager)
+
+2025/6/20, Friday:  {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 200}
+6/20 6:19-6:52:  run 5km in 32:24, Average Pace: 6:28/km
+6/20 7:58-14:20: study "class AnalysisAgent" (https://github.com/zou-group/CellVoyager)
+6/20 14:30-15:40 : Participate in the online public welfare seminar—"Observations and Reflections on the Application of AI in Clinical Drug Development"
+6/20 15:40-22:00 :  study "class AnalysisAgent", DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
+
+2025/6/21, Saturday: {"push ups + Mountain Climbers": 300}
+9:46-12:00: study "class AnalysisAgent", DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
+
+2025/6/22, Sunday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}
+6:42-7:10: run 5.25km in 28:39, Average Pace: 5:27/km
+8:00-10:45: DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
+
+2025/6/22: complete the whole paper and part of its source code: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)  To fully understand the source code, I need to dive deeper into key tools like Scanpy and scVI. For now, I’ve decided to pause my study of this paper (which I’ll consider completed) and return to my work on AlphaFold 3.
+
+6/22 12:16-19:30: 3.3 MSA Module (AlphaFold 3, https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07487-w/MediaObjects/41586_2024_7487_MOESM1_ESM.pdf)
+6/22 19:30-21:10: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
+
+2025/6/23, Monday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 22}
+6/23 6:18-6:42: run 5km in 22:55, Average Pace: 4:35/km
+6/23 8:02-18:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), I am a little confused by the implementation of "trunc_normal_init_"(I get it now, this is actually very simple.)
+
+2025/6/24, Tuesday: {"running": rainy}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 0}
+6/24 6:59-16:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), study "LinearNoBias"
+
+
+2025/6/25, Wednesday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 200}, {"Cartwheel Count": 0}
+6/25 8:00-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
+
+
+2025/6/26, Thursday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 6}
+6/26 9:54-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
+
+2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 300}, {"push ups + Mountain Climbers": 100}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 41(I feel a bit dizzy.)}
+6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
+6/27 8:02-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
+
+2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 100}, {"push ups + Mountain Climbers":200}, {"Cartwheel Count": 33}, {"abdominal roll around the bar": 20}
+6/28 6:22-6:45: run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
+6/28 7:55-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
+
+
+2025/6/29, Sunday: {"running": "It's pouring rain today"}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 150}, {"Mountain Climbers": 120}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
+6/29 6:23-15:00: try to successfully run the project code from start to finish without errors.(https://github.com/bytedance/Protenix), (python3 setup.py develop --cpu)
+6/29 15:00- :  !protenix --help
+
+
+TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
+
+```
+
+---
 
 ## <p align="center"> *坚忍不拔酬壮志，药济天下慨而慷* </p>
 ### <p align="center"> *有的人以他的母校为荣, 有的人能让他的母校以他为荣* </p>
@@ -112,87 +199,6 @@
 ### <p align="center"> *[Seek nothing but victory, spare nothing for victory.](https://www.westpoint.edu/athletics/intramurals)* </p>
 ### <p align="center"> *[Developing Warrior Leaders of Character](https://www.westpoint.edu/athletics/physical-program)* </p>
 
-#### Just 100 metres from the finishing line he forged ahead.
-#### In order to be able to do 100 consecutive pull-ups, you need to train yourself to hang on the bar for as long as possible.
-### newest personal records
-#### feat: 2025/6/28, run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
-#### feat: 2025/6/28, fastest 1 km pace:  4:02
-#### 2025/6/1 6:09-8:21: run a half marathon in 1:51:53
-#### feat: 2025/6/5,  40 pull-ups in a row
-#### feat: 2025/6/29, 120 Mountain Climbers in a row
-#### feat: 2025/6/5,  60 Five-Finger Push-Ups in a row(All five fingers of each hand are spread and bear the weight. You perform a push-up with only your fingers touching the ground (instead of your palms))
-#### feat: 2025/6/29, 150 push-ups in a row (using push up bars)
-#### feat: 2025/6/27, "abdominal roll around the bar": 41 (Rest on the ground after finishing each abdominal rotation on the bar.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
-
----
-
-### [2025/6/1 - 6/16: everyday progress](https://github.com/OccupyMars2025/OccupyMars2025/blob/main/2025-06.md)
-
-```
-2025/6/17, Tuesday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 100}
-6/17 6:17-6:40:  run 5km in 22:50, Average Pace: 4:34/km
-6/17 6:40-9:13: (A.1.1 Preprocessing), (A.1.2 Initial Analysis Plan Generation), ... (A.1.4 Re-evaluating the Analysis Plan)
-6/17 9:13-10:58: A.2 CellBench
-6/17 16:10-16:50: {"pull ups + Parallel Bar Dips": 200}
-6/17 19:10-22:44: study the source code https://github.com/zou-group/CellVoyager, try to figure out how to run it
-
-
-2025/6/18, Wednesday: {"running": rainy}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 100}
-6/18 7:19-22:20: study the source code https://github.com/zou-group/CellVoyager,
-
-2025/6/19, Thursday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}
-6/19 6:04-6:30:  run 5km in 25:08, Average Pace: 5:01/km
-6/19 7:20-19:20: study "class AnalysisAgent" (https://github.com/zou-group/CellVoyager)
-
-2025/6/20, Friday:  {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 200}
-6/20 6:19-6:52:  run 5km in 32:24, Average Pace: 6:28/km
-6/20 7:58-14:20: study "class AnalysisAgent" (https://github.com/zou-group/CellVoyager)
-6/20 14:30-15:40 : Participate in the online public welfare seminar—"Observations and Reflections on the Application of AI in Clinical Drug Development"
-6/20 15:40-22:00 :  study "class AnalysisAgent", DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
-
-2025/6/21, Saturday: {"push ups + Mountain Climbers": 300}
-9:46-12:00: study "class AnalysisAgent", DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
-
-2025/6/22, Sunday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}
-6:42-7:10: run 5.25km in 28:39, Average Pace: 5:27/km
-8:00-10:45: DeepResearch_Analyses.txt (https://github.com/zou-group/CellVoyager)
-
-2025/6/22: complete the whole paper and part of its source code: [CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1.full.pdf)  To fully understand the source code, I need to dive deeper into key tools like Scanpy and scVI. For now, I’ve decided to pause my study of this paper (which I’ll consider completed) and return to my work on AlphaFold 3.
-
-6/22 12:16-19:30: 3.3 MSA Module (AlphaFold 3, https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-024-07487-w/MediaObjects/41586_2024_7487_MOESM1_ESM.pdf)
-6/22 19:30-21:10: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix)
-
-2025/6/23, Monday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 22}
-6/23 6:18-6:42: run 5km in 22:55, Average Pace: 4:35/km
-6/23 8:02-18:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), I am a little confused by the implementation of "trunc_normal_init_"(I get it now, this is actually very simple.)
-
-2025/6/24, Tuesday: {"running": rainy}, {"pull ups + Parallel Bar Dips": 0}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 0}
-6/24 6:59-16:00: study the pytorch implementation of those algorithms in "3.3 MSA Module" (https://github.com/bytedance/Protenix), study "LinearNoBias"
-
-
-2025/6/25, Wednesday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 200}, {"Cartwheel Count": 0}
-6/25 8:00-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
-
-
-2025/6/26, Thursday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 6}
-6/26 9:54-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
-
-2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 300}, {"push ups + Mountain Climbers": 100}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 41(I feel a bit dizzy.)}
-6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
-6/27 8:02-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
-
-2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 100}, {"push ups + Mountain Climbers":200}, {"Cartwheel Count": 33}, {"abdominal roll around the bar": 20}
-6/28 6:22-6:45: run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
-6/28 7:55-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
-
-
-2025/6/29, Sunday: {"running": "It's pouring rain today"}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 150}, {"Mountain Climbers": 120}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
-6/29 6:23-: try to successfully run the project code from start to finish without errors.(https://github.com/bytedance/Protenix)
-
-
-TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
-
-```
 
 
 ---
