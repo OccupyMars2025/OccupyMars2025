@@ -105,7 +105,10 @@
 
 2025/6/29, Sunday: {"running": "It's pouring rain today"}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 150}, {"Mountain Climbers": 120}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
 6/29 6:23-15:00: try to successfully run the project code from start to finish without errors.(https://github.com/bytedance/Protenix), (python3 setup.py develop --cpu)
-6/29 15:00- :  !protenix --help
+6/29 15:00-15:58 :  !protenix --help
+6/29 15:58-16:22:  !pip show -v protenix
+6/29 16:22- : !python scripts/gen_ccd_cache.py -c release_data/ccd_cache/ -n [num_cpu]
+
 
 
 TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
