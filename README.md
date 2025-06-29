@@ -23,7 +23,7 @@
 
 ### 2025/7/1 - 8/1: 经过这一个月的特训, 我要求你的身体素质在这期间发生 "脱胎换骨" 的变化
 ### 2025/7/1 - 8/1: After one month of special training, I demand that your physical fitness undergoes a complete transformation during this period.
-### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row, do 10 muscle-ups in a row, do 200 mountain climbers in a row
+### 2025/8/1: Run 10km in 44 minutes, run a half marathon in 1 hour and 29 minutes, do 300 push-ups in a row, do 100 pull-ups in a row, do 100 parallel bar dips in a row, do 10 muscle-ups in a row, do 200 mountain climbers in a row, do 33 back hip circles in a row
 
 ### 2025/6/1 - 12/31: Master AlphaFold 3 by thoroughly studying its research paper and codebase in the shortest time possible, then leverage it to design novel drugs targeting currently incurable diseases.
 
@@ -44,7 +44,7 @@
 
 #### feat: 2025/6/29, 160 push-ups in a row (using push up bars)
 
-#### feat: 2025/6/27, "abdominal roll around the bar": 41 (Rest on the ground after finishing each abdominal rotation on the bar.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).)
+#### feat: 2025/6/27, "Back hip circle": 41 (Rest on the ground after finishing each back hip circle.)(This is a gymnastics or calisthenics skill where a performer uses their abdominal strength to rotate their body around a horizontal bar (like a pull-up bar or high bar).) (Front hip circle – you rotate forward around the bar. Back hip circle – you rotate backward around the bar.)
 
 ---
 
@@ -99,16 +99,16 @@
 2025/6/26, Thursday: {"running": 2km}, {"pull ups + Parallel Bar Dips": 200}, {"push ups + Mountain Climbers": 300}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 6}
 6/26 9:54-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" (https://github.com/bytedance/Protenix)
 
-2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 300}, {"push ups + Mountain Climbers": 100}, {"Cartwheel Count": 20}, {"abdominal roll around the bar": 41(I feel a bit dizzy.)}
+2025/6/27, Friday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 300}, {"push ups + Mountain Climbers": 100}, {"Cartwheel Count": 20}, {"Back hip circle": 41(I feel a bit dizzy.)}
 6/27 6:54-7:18: run 5km in 23:12, Average Pace: 4:38/km
 6/27 8:02-20:20: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
-2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 100}, {"push ups + Mountain Climbers":200}, {"Cartwheel Count": 33}, {"abdominal roll around the bar": 20}
+2025/6/28 Saturday: {"running": 5km}, {"pull ups + Parallel Bar Dips": 100}, {"push ups + Mountain Climbers":200}, {"Cartwheel Count": 33}, {"Back hip circle": 20}
 6/28 6:22-6:45: run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
 6/28 7:55-20:00: study the pytorch implementation of "Algorithm 1 Main Inference Loop" and all called algorithms (https://github.com/bytedance/Protenix)
 
 
-2025/6/29, Sunday: {"running": "It's pouring rain today"}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 310}, {"Mountain Climbers": 270}, {"Cartwheel Count": 0}, {"abdominal roll around the bar": 0}
+2025/6/29, Sunday: {"running": "It's pouring rain today"}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 310}, {"Mountain Climbers": 270}, {"Cartwheel Count": 0}, {"Back hip circle": 0}
 6/29 6:23-15:00: try to successfully run the project code from start to finish without errors.(https://github.com/bytedance/Protenix), (python3 setup.py develop --cpu)
 6/29 15:00-15:58 :  !protenix --help
 6/29 15:58-16:22:  !pip show -v protenix
