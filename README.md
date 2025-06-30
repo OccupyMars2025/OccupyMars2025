@@ -15,6 +15,9 @@
 ## <p align="center"> *脱胎换骨* </p>
 
 
+### 我们还没有白发苍苍, 我们正年轻,我们的人生终点不在地球上.我们还要登月球,上火星,冲出太阳系. 我们将葬身于银河系之外的浩瀚宇宙中
+### "We are still young. Our journey does not end on Earth. We will walk on the Moon, set foot on Mars, and break free from the solar system. One day, we will die in the boundless cosmos beyond the Milky Way."
+
 ### With such a frail body, how could you possibly withstand interstellar travel?
 
 ### 人在苦修得道之后，就能脱去凡胎，换去俗骨而成仙骨
