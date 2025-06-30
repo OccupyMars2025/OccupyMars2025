@@ -129,7 +129,7 @@
 6/30 8:49-: !python scripts/gen_ccd_cache.py -c release_data/ccd_cache/ -n [num_cpu]
 
 
-
+TODO: 2025/6/30: study https://www.rdkit.org/docs/index.html
 TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
 
 ```
@@ -249,6 +249,7 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 ---
 # TODO:
 ### https://github.com/zou-group/CellVoyager
+### https://www.rdkit.org/docs/index.html
 ### https://github.com/google-deepmind/alphagenome
 ### https://github.com/ArcInstitute/state  (virtual cell model ???)
 ### https://github.com/Future-House/paper-qa
