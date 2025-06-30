@@ -126,10 +126,12 @@
 
 2025/6/30, Monday: {"running": 10km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 0}, {"Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"Back hip circle": 0}
 6/30 6:17-7:06: run 10km in 47:37. Since I began training for 10 km runs in 2019, I finally broke the 50-minute barrier today (June 30, 2025), clocking 47 minutes 37 seconds. My previous best, set around 2022, was 51 minutes. What once felt like an unbridgeable chasm—those “50 minutes”—has now been crossed with ease, and it doesn’t seem so daunting after all. I wasn’t even in top form today; I was still settling in over the first 3 kilometres.
-6/30 8:49-: !python scripts/gen_ccd_cache.py -c release_data/ccd_cache/ -n [num_cpu]
+6/30 8:49-14:05: study the section "Reading, Drawing, and Writing Molecules"(https://www.rdkit.org/docs/GettingStartedInPython.html)
+6/30 14:05-: !python scripts/gen_ccd_cache.py -c release_data/ccd_cache/ -n [num_cpu]
 
 
-TODO: 2025/6/30: study https://www.rdkit.org/docs/index.html
+TODO: 2025/6/30: study https://www.rdkit.org/docs/index.html, (note: the data files(such as 'data/5ht3ligs.sdf') that are used by the online documentation are all stored in https://github.com/rdkit/rdkit/tree/master/Docs/Book/data)
+
 TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection and depression in American adults : a cross-sectional study](https://www.nature.com/articles/s41598-025-99864-2)
 
 ```
@@ -249,7 +251,7 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 ---
 # TODO:
 ### https://github.com/zou-group/CellVoyager
-### https://www.rdkit.org/docs/index.html
+### https://www.rdkit.org/docs/index.html , (note: the data files(such as 'data/5ht3ligs.sdf') that are used by the online documentation are all stored in https://github.com/rdkit/rdkit/tree/master/Docs/Book/data )
 ### https://github.com/google-deepmind/alphagenome
 ### https://github.com/ArcInstitute/state  (virtual cell model ???)
 ### https://github.com/Future-House/paper-qa
