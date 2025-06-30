@@ -40,6 +40,7 @@
 #### feat: 2025/6/28, run 5km in 22:20, Average Pace: 4:28/km, "For the first time, my average pace reached 4:30/km, and I set a new fastest 1 km pace at 4:02."
 #### feat: 2025/6/28, fastest 1 km pace:  4:02
 #### 2025/6/1 6:09-8:21: run a half marathon in 1:51:53
+## feat: 2025/6/30: run 10km in 47:37. Since I began training for 10 km runs in 2019, I finally broke the 50-minute barrier today (June 30, 2025), clocking 47 minutes 37 seconds. My previous best, set around 2022, was 51 minutes. What once felt like an unbridgeable chasm—those “50 minutes”—has now been crossed with ease, and it doesn’t seem so daunting after all. I wasn’t even in top form today; I was still settling in over the first 3 kilometres.
 
 #### feat: 2025/6/5,  40 pull-ups in a row
 
@@ -117,7 +118,12 @@
 6/29 6:23-15:00: try to successfully run the project code from start to finish without errors.(https://github.com/bytedance/Protenix), (python3 setup.py develop --cpu)
 6/29 15:00-15:58 :  !protenix --help
 6/29 15:58-16:22:  !pip show -v protenix
-6/29 16:22- : !python scripts/gen_ccd_cache.py -c release_data/ccd_cache/ -n [num_cpu]
+6/29 16:22-21:10: !python scripts/gen_ccd_cache.py -c release_data/ccd_cache/ -n [num_cpu]
+
+
+2025/6/30, Monday: {"running": 10km}, {"pull ups + Parallel Bar Dips": 0}, {"push ups": 0}, {"Mountain Climbers": 0}, {"Cartwheel Count": 0}, {"Back hip circle": 0}
+6/30 6:17-7:06: run 10km in 47:37. Since I began training for 10 km runs in 2019, I finally broke the 50-minute barrier today (June 30, 2025), clocking 47 minutes 37 seconds. My previous best, set around 2022, was 51 minutes. What once felt like an unbridgeable chasm—those “50 minutes”—has now been crossed with ease, and it doesn’t seem so daunting after all. I wasn’t even in top form today; I was still settling in over the first 3 kilometres.
+6/30 8:49-: !python scripts/gen_ccd_cache.py -c release_data/ccd_cache/ -n [num_cpu]
 
 
 
