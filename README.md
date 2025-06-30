@@ -249,6 +249,7 @@ TODO: 2025/6/26: study [Association between resolved hepatitis B virus infection
 ---
 # TODO:
 ### https://github.com/zou-group/CellVoyager
+### https://github.com/google-deepmind/alphagenome
 ### https://github.com/ArcInstitute/state  (virtual cell model ???)
 ### https://github.com/Future-House/paper-qa
 ### https://www.futurehouse.org/
