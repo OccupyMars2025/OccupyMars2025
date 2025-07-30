@@ -13,4 +13,5 @@
 
 #### TODO:
 - [ ] https://mmcif.wwpdb.org/
+- [ ] https://mmcif.wwpdb.org/docs/pdb_to_pdbx_correspondences.html
 
