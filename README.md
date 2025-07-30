@@ -11,3 +11,6 @@
 - [x] 7/29 20:43 - 7/30 8:26: PDB Overview
 - [ ] 7/30 8:26 - : Beginner’s Guide to PDB Structures and the PDBx/mmCIF Format
 
+#### TODO:
+- [ ] https://mmcif.wwpdb.org/
+
