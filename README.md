@@ -9,7 +9,8 @@
 #### 7/29 20:00 - : https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data
 - [x] 7/29 20:00 - 20:43: Introduction
 - [x] 7/29 20:43 - 7/30 8:26: PDB Overview
-- [ ] 7/30 8:26 - : Beginner’s Guide to PDB Structures and the PDBx/mmCIF Format
+- [x] 7/30 8:26 - 20:35: Beginner’s Guide to PDB Structures and the PDBx/mmCIF Format
+- [ ] 7/30 20:35 - : Dealing with Coordinates
 
 #### TODO:
 - [ ] https://mmcif.wwpdb.org/
