@@ -10,7 +10,8 @@
 - [x] 7/29 20:00 - 20:43: Introduction
 - [x] 7/29 20:43 - 7/30 8:26: PDB Overview
 - [x] 7/30 8:26 - 20:35: Beginner’s Guide to PDB Structures and the PDBx/mmCIF Format
-- [ ] 7/30 20:35 - : Dealing with Coordinates
+- [x] 7/30 20:35 - 7/31 15:44: Dealing with Coordinates
+- [ ] 7/31 15:44 - : Introduction to Biological Assemblies and the PDB Archive
 
 #### TODO:
 - [ ] https://mmcif.wwpdb.org/
