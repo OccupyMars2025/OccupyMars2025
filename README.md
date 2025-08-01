@@ -17,4 +17,7 @@
 - [ ] https://mmcif.wwpdb.org/
 - [ ] https://mmcif.wwpdb.org/docs/pdb_to_pdbx_correspondences.html
 - [ ] https://www.wwpdb.org/data/ccd
+- [ ] [CRISPR-GPT for agentic automation of gene-editing experiments](https://www.nature.com/articles/s41551-025-01463-z)
+- [ ] https://github.com/cong-lab/crispr-gpt-pub
+- [ ] [ChatGPT: Crispr GPT](https://chatgpt.com/g/g-O0Xk9QlqJ-crispr-gpt)
 
