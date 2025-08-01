@@ -20,4 +20,5 @@
 - [ ] [CRISPR-GPT for agentic automation of gene-editing experiments](https://www.nature.com/articles/s41551-025-01463-z)
 - [ ] https://github.com/cong-lab/crispr-gpt-pub
 - [ ] [ChatGPT: Crispr GPT](https://chatgpt.com/g/g-O0Xk9QlqJ-crispr-gpt)
+- [ ] [在 ICML 2025 举办的「AI for Life Sciences (FM4LS)」Workshop 中，共收录了 70篇 聚焦生物医药的 AI 论文，覆盖从蛋白质语言模型、药物生成、单细胞组学到多模态影像分析等多个热门研究方向。我们根据研究主题，将全部论文归为七大类，供从业者一览当前前沿技术的布局与趋势。](https://mp.weixin.qq.com/s/EtFgcSMvxFa2Npmtc1wlIA)
 
