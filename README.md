@@ -1,6 +1,7 @@
 ## 2025/6/1 - 9/1 Goals:
 ### **Fitness & Strength Goals:**  
-- Run **10km in under 39 minutes**  
+- Run **10km in under 39 minutes**
+- Run a half marathon in under **1 hour and 28 minutes**
 - Perform **100 consecutive pull-ups**  
 - Complete **100 parallel bar dips in a row**  
 - Execute **500 push-ups without stopping**  
