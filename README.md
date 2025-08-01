@@ -1,3 +1,20 @@
+## 2025/6/1 - 9/1 Goals:
+### **Fitness & Strength Goals:**  
+- Run **10km in under 39 minutes**  
+- Perform **100 consecutive pull-ups**  
+- Complete **100 parallel bar dips in a row**  
+- Execute **500 push-ups without stopping**  
+- Do **500 mountain climbers unbroken**  
+- Achieve **10 back hip circles in a row** (gymnastics rings)  
+- Perform **10 strict muscle-ups consecutively**  
+
+### **Knowledge & Technical Mastery:**  
+- Attain a **deep, thorough understanding** of:  
+  - The **AlphaFold 3** research paper  
+  - The **Protenix** source code (implementation & architecture)  
+
+---
+
 ### https://github.com/bytedance/Protenix
 
 #### 2025/7/13 - 7/26 10:40: convert a PDB file to a CIF file
